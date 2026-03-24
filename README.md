@@ -1,0 +1,1 @@
+This is a collection of assets that are useful for making daily games.
