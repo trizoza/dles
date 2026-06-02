@@ -285,6 +285,12 @@
       }
     </style>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script
+      defer
+      src="https://datafa.st/js/script.js"
+      data-website-id="dfid_csHpeEcLThGggDSTTRmBm"
+      data-domain="dles.gg"
+    ></script>
   </head>
 
   <body>
@@ -383,7 +389,9 @@
               Array.from(child.children).forEach((li) => {
                 const newLi = document.createElement("li");
                 const firstLink = li.querySelector("a");
-                const rawHref = firstLink ? firstLink.getAttribute("href") : null;
+                const rawHref = firstLink
+                  ? firstLink.getAttribute("href")
+                  : null;
                 // Normalise a leading "./" or "/" so we can test for asset paths
                 const relativePath = rawHref
                   ? rawHref.replace(/^\.?\//, "")
