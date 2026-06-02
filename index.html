@@ -1,0 +1,543 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>assets.DLES.gg</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Rampart+One&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family: "Poppins", Arial, Helvetica, sans-serif;
+        background: #fff9ef;
+        color: #1a1a1a;
+        line-height: 1.6;
+        padding: 2rem 1rem;
+      }
+
+      .container {
+        max-width: 720px;
+        margin: 0 auto;
+      }
+
+      header {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 0.5rem 1rem;
+        margin-bottom: 2.5rem;
+        padding-bottom: 1.5rem;
+        border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+      }
+
+      h1 {
+        font-family: "Rampart One", cursive;
+        font-size: 2.5rem;
+        color: #d900ff;
+        letter-spacing: -0.02em;
+        line-height: 1.1;
+        white-space: nowrap;
+      }
+
+      header p {
+        flex-basis: 100%;
+        text-align: center;
+        color: rgba(0, 0, 0, 0.5);
+        font-size: 0.85rem;
+        font-weight: 400;
+        line-height: 1.4;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+        font-weight: 700;
+        margin: 2.5rem 0 1rem;
+        color: #a600ac;
+      }
+
+      .word-list {
+        list-style: none;
+        display: grid;
+        gap: 0.75rem;
+      }
+
+      .word-list li {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1rem;
+        padding: 0.5rem 0;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+      }
+
+      .word-list li:last-child {
+        border-bottom: none;
+      }
+
+      .word-list .info {
+        flex: 1;
+      }
+
+      .word-list .info > a {
+        color: #a600ac;
+        text-decoration: none;
+        font-weight: 600;
+        font-family:
+          ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+        font-size: 0.9rem;
+      }
+
+      .word-list .info > a:hover {
+        text-decoration: underline;
+      }
+
+      .word-list .meta {
+        color: rgba(0, 0, 0, 0.5);
+        font-size: 0.85rem;
+        margin-top: 0.25rem;
+      }
+
+      .word-list .meta a {
+        color: #d900ff;
+        font-family: "Poppins", Arial, Helvetica, sans-serif;
+        font-size: 0.85rem;
+        font-weight: 500;
+      }
+
+      .word-list .meta span {
+        color: #a856f7;
+        font-weight: 600;
+      }
+
+      .btn-download {
+        display: inline-block;
+        background: #d900ff;
+        color: #fff;
+        font-weight: 600;
+        font-size: 0.8rem;
+        text-decoration: none;
+        padding: 0.4em 1em;
+        border-radius: 8px;
+        white-space: nowrap;
+        transition:
+          background 0.2s ease,
+          transform 0.2s ease;
+      }
+
+      .btn-download:hover {
+        background: #a600ac;
+        transform: scale(1.05);
+        text-decoration: none;
+      }
+
+      .btn-explore {
+        display: inline-block;
+        background: transparent;
+        color: #d900ff;
+        border: 2px solid #d900ff;
+        font-weight: 600;
+        font-size: 0.8rem;
+        text-decoration: none;
+        padding: calc(0.4em - 2px) calc(1em - 2px);
+        border-radius: 8px;
+        white-space: nowrap;
+        transition:
+          background 0.2s ease,
+          color 0.2s ease,
+          transform 0.2s ease;
+      }
+
+      .btn-explore:hover {
+        background: #d900ff;
+        color: #fff;
+        transform: scale(1.05);
+        text-decoration: none;
+      }
+
+      /* Plain links (no asset to explore/download) use the regular body font */
+      .word-list li.link-only .info > a {
+        font-family: "Poppins", Arial, Helvetica, sans-serif;
+        font-size: 1rem;
+        color: #d900ff;
+      }
+
+      .actions {
+        display: flex;
+        gap: 0.5rem;
+        align-items: center;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+        font-weight: 600;
+        margin: 1.5rem 0 0.75rem;
+        color: #1a1a1a;
+      }
+
+      .resources {
+        list-style: none;
+      }
+
+      .resources li {
+        padding: 0.5rem 0;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+      }
+
+      .resources li:last-child {
+        border-bottom: none;
+      }
+
+      .resources a {
+        color: #d900ff;
+        text-decoration: none;
+        font-weight: 500;
+      }
+
+      .resources a:hover {
+        text-decoration: underline;
+      }
+
+      .resources .desc {
+        color: rgba(0, 0, 0, 0.5);
+        font-size: 0.85rem;
+      }
+
+      code {
+        background: rgba(168, 86, 247, 0.1);
+        color: #a600ac;
+        padding: 0.15em 0.4em;
+        border-radius: 4px;
+        font-size: 0.85em;
+      }
+
+      .note {
+        background: #fff;
+        border: 2px solid rgba(0, 0, 0, 0.08);
+        border-left: 4px solid #d900ff;
+        border-radius: 12px;
+        padding: 0.75rem 1rem;
+        margin: 1.25rem 0;
+        font-size: 0.9rem;
+        color: rgba(0, 0, 0, 0.5);
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+      }
+
+      .note a {
+        color: #d900ff;
+      }
+
+      .note strong {
+        color: #1a1a1a;
+      }
+
+      .intro {
+        color: rgba(0, 0, 0, 0.6);
+        font-size: 0.95rem;
+        margin-bottom: 1rem;
+      }
+
+      .intro p {
+        margin-bottom: 0.75rem;
+      }
+
+      .intro p:last-child {
+        margin-bottom: 0;
+      }
+
+      a.highlight {
+        color: #d900ff;
+        text-decoration: none;
+        font-weight: 600;
+      }
+
+      a.highlight:hover {
+        text-decoration: underline;
+      }
+
+      footer {
+        margin-top: 3rem;
+        padding-top: 1.5rem;
+        border-top: 2px solid rgba(0, 0, 0, 0.1);
+        text-align: center;
+        font-size: 0.8rem;
+      }
+
+      footer a {
+        font-family: "Rampart One", cursive;
+        color: #d900ff;
+        text-decoration: none;
+        font-size: 1.1rem;
+      }
+
+      footer a:hover {
+        text-decoration: underline;
+      }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  </head>
+
+  <body>
+    <div class="container">
+      <header>
+        <h1>assets.DLES.gg</h1>
+        <p>
+          Collection of free assets for daily game makers: words, dictionaries,
+          sounds and images.
+        </p>
+      </header>
+
+      <div
+        id="loading-placeholder"
+        class="intro"
+        style="text-align: center; padding: 3rem 0; opacity: 0.6"
+      >
+        <p>Loading assets collection...</p>
+      </div>
+
+      <footer>
+        Made with ❤️ for <a href="https://dles.gg">daily games</a> by
+        <a href="https://buymeacoffee.com/trizoza">trizoza</a>
+      </footer>
+    </div>
+    <script>
+      async function loadReadme() {
+        try {
+          const response = await fetch("README.md");
+          if (!response.ok) throw new Error("Failed to fetch README.md");
+          const markdown = await response.text();
+
+          // Convert markdown to HTML using marked.js
+          const rawHtml = marked.parse(markdown);
+
+          // Use DOMParser to parse the HTML string
+          const parser = new DOMParser();
+          const doc = parser.parseFromString(rawHtml, "text/html");
+          const sourceBody = doc.body;
+
+          const container = document.querySelector(".container");
+          const header = container.querySelector("header");
+          const footer = container.querySelector("footer");
+
+          const newNodes = [];
+          let currentSection = "";
+          let currentIntroDiv = null;
+          let hasSetSubtitle = false;
+
+          Array.from(sourceBody.children).forEach((child) => {
+            const tagName = child.tagName.toLowerCase();
+
+            // If it is H1, update the page title and header title
+            if (tagName === "h1") {
+              const siteTitle = header.querySelector("h1");
+              if (siteTitle) siteTitle.textContent = child.textContent;
+              document.title = child.textContent;
+              currentIntroDiv = null;
+            }
+            // If it is the first paragraph after H1, update the subtitle
+            else if (tagName === "p" && !hasSetSubtitle) {
+              const siteSubtitle = header.querySelector("p");
+              if (siteSubtitle) siteSubtitle.innerHTML = child.innerHTML;
+              hasSetSubtitle = true;
+              currentIntroDiv = null;
+            }
+            // Intro/General paragraphs (group consecutive <p> tags into a single <div class="intro">)
+            else if (tagName === "p") {
+              if (!currentIntroDiv) {
+                currentIntroDiv = document.createElement("div");
+                currentIntroDiv.className = "intro";
+                newNodes.push(currentIntroDiv);
+              }
+              const p = document.createElement("p");
+              p.innerHTML = child.innerHTML;
+              p.querySelectorAll("a").forEach((a) => {
+                a.classList.add("highlight");
+              });
+              currentIntroDiv.appendChild(p);
+            }
+            // Headings (H2, H3, etc.)
+            else if (/^h[2-6]$/.test(tagName)) {
+              currentIntroDiv = null;
+              currentSection = child.textContent.trim();
+
+              const heading = document.createElement(tagName);
+              heading.innerHTML = child.innerHTML;
+              newNodes.push(heading);
+            }
+            // Lists (UL)
+            else if (tagName === "ul") {
+              currentIntroDiv = null;
+              const ul = document.createElement("ul");
+
+              ul.className = "word-list";
+              Array.from(child.children).forEach((li) => {
+                const newLi = document.createElement("li");
+                const firstLink = li.querySelector("a");
+                const rawHref = firstLink ? firstLink.getAttribute("href") : null;
+                // Normalise a leading "./" or "/" so we can test for asset paths
+                const relativePath = rawHref
+                  ? rawHref.replace(/^\.?\//, "")
+                  : "";
+                const isAsset = /^assets\//i.test(relativePath);
+
+                if (firstLink && isAsset) {
+                  // Asset resource: link + meta + Explore/Download buttons
+                  const fileLink = firstLink.cloneNode(true);
+                  const infoDiv = document.createElement("div");
+                  infoDiv.className = "info";
+                  infoDiv.appendChild(fileLink);
+
+                  // Remove first link to extract metadata
+                  firstLink.remove();
+                  let metaHtml = li.innerHTML.trim();
+                  metaHtml = metaHtml.replace(/^[\s\-\–\—\•]+/, ""); // remove leading dashes/bullets
+
+                  const metaDiv = document.createElement("div");
+                  metaDiv.className = "meta";
+                  metaDiv.innerHTML = metaHtml;
+
+                  // Map <strong> inside meta to <span> for styling
+                  metaDiv.querySelectorAll("strong").forEach((strong) => {
+                    const span = document.createElement("span");
+                    span.innerHTML = strong.innerHTML;
+                    strong.replaceWith(span);
+                  });
+
+                  infoDiv.appendChild(metaDiv);
+                  newLi.appendChild(infoDiv);
+
+                  // Actions container (Explore + Download buttons)
+                  const actionsDiv = document.createElement("div");
+                  actionsDiv.className = "actions";
+
+                  // Explore button -> GitHub location of the asset
+                  const exploreBtn = document.createElement("a");
+                  exploreBtn.href = `https://github.com/trizoza/assets.dles.gg/blob/main/${relativePath}`;
+                  exploreBtn.className = "btn-explore";
+                  exploreBtn.textContent = "Explore";
+                  actionsDiv.appendChild(exploreBtn);
+
+                  // Download button -> downloads the raw asset file
+                  const downloadBtn = document.createElement("a");
+                  downloadBtn.href = rawHref;
+                  downloadBtn.className = "btn-download";
+                  downloadBtn.textContent = "Download";
+                  actionsDiv.appendChild(downloadBtn);
+
+                  newLi.appendChild(actionsDiv);
+                } else if (firstLink) {
+                  // Plain link (not an asset): just the link + description, no buttons
+                  newLi.classList.add("link-only");
+                  const resourceLink = firstLink.cloneNode(true);
+                  const infoDiv = document.createElement("div");
+                  infoDiv.className = "info";
+                  infoDiv.appendChild(resourceLink);
+
+                  firstLink.remove();
+                  let descHtml = li.innerHTML.trim();
+                  descHtml = descHtml.replace(/^[\s\-\–\—\•]+/, ""); // remove leading dashes/bullets
+
+                  const descDiv = document.createElement("div");
+                  descDiv.className = "meta";
+                  descDiv.innerHTML = descHtml;
+                  infoDiv.appendChild(descDiv);
+                  newLi.appendChild(infoDiv);
+                } else {
+                  newLi.innerHTML = li.innerHTML;
+                }
+                ul.appendChild(newLi);
+              });
+              newNodes.push(ul);
+            }
+            // For other elements (e.g. blockquotes, horizontal rules, etc.)
+            else {
+              currentIntroDiv = null;
+              const clonedNode = child.cloneNode(true);
+              newNodes.push(clonedNode);
+            }
+          });
+
+          // Clear elements between header and footer (this removes the loading placeholder)
+          let sibling = header.nextElementSibling;
+          while (sibling && sibling !== footer) {
+            const next = sibling.nextElementSibling;
+            sibling.remove();
+            sibling = next;
+          }
+
+          // Insert all parsed nodes
+          newNodes.forEach((node) => {
+            container.insertBefore(node, footer);
+          });
+
+          // Re-bind interactions for dynamically loaded elements
+          initializeInteractions();
+        } catch (err) {
+          console.error("Error rendering markdown:", err);
+          const placeholder = document.getElementById("loading-placeholder");
+          if (placeholder) {
+            placeholder.innerHTML =
+              '<p style="color: red;">Failed to load assets collection. Please try refreshing.</p>';
+          }
+        }
+      }
+
+      function initializeInteractions() {
+        document.querySelectorAll("a[href]").forEach(function (a) {
+          if (a.classList.contains("btn-download")) return;
+          if (a.hostname && a.hostname !== location.hostname) {
+            a.target = "_blank";
+            a.rel = "noopener noreferrer";
+          }
+        });
+
+        document.querySelectorAll(".btn-download").forEach(function (btn) {
+          btn.addEventListener("click", function (e) {
+            e.preventDefault();
+            var href = btn.getAttribute("href");
+            var filename = href.split("/").pop();
+
+            if (window.location.protocol === "file:") {
+              window.open(href, "_blank");
+              return;
+            }
+
+            fetch(href)
+              .then(function (res) {
+                return res.blob();
+              })
+              .then(function (blob) {
+                var blobUrl = URL.createObjectURL(blob);
+                var link = document.createElement("a");
+                link.href = blobUrl;
+                link.download = filename;
+                link.style.display = "none";
+                document.body.appendChild(link);
+                link.click();
+                setTimeout(function () {
+                  link.remove();
+                  URL.revokeObjectURL(blobUrl);
+                }, 100);
+              })
+              .catch(function () {
+                window.open(href, "_blank");
+              });
+          });
+        });
+      }
+
+      // Run load on DOMContentLoaded
+      document.addEventListener("DOMContentLoaded", loadReadme);
+    </script>
+  </body>
+</html>
