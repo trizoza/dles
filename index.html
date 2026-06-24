@@ -378,6 +378,12 @@
 
               const heading = document.createElement(tagName);
               heading.innerHTML = child.innerHTML;
+              // Slug from the heading text so it can be linked via #hash
+              // (e.g. assets.dles.gg/#words scrolls to the Words section)
+              heading.id = currentSection
+                .toLowerCase()
+                .replace(/[^a-z0-9]+/g, "-")
+                .replace(/^-+|-+$/g, "");
               newNodes.push(heading);
             }
             // Lists (UL)
@@ -490,6 +496,15 @@
 
           // Re-bind interactions for dynamically loaded elements
           initializeInteractions();
+
+          // Content loads after the browser's initial #hash jump, so scroll
+          // to the targeted section (e.g. #words) once it actually exists.
+          if (location.hash.length > 1) {
+            const target = document.getElementById(
+              decodeURIComponent(location.hash.slice(1)),
+            );
+            if (target) target.scrollIntoView();
+          }
         } catch (err) {
           console.error("Error rendering markdown:", err);
           const placeholder = document.getElementById("loading-placeholder");
