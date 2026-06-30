@@ -25,15 +25,19 @@ So far I see 3 main categories that I'd like to cover: Words, Images and Sounds.
 - [ElevenLabs](https://elevenlabs.io/sound-effects) - generate sound effect with AI
 - [Pixabay](https://pixabay.com/) - free sounds, music
 
-## Contribute
+## 3D Assets
 
-This is an open source project and contributions are welcome. If you know of a word list, dictionary, or useful asset that should be here, you can help in two ways:
-
-- [Open an issue](https://github.com/trizoza/assets.dles.gg/issues/new) - Suggest a new resource, report a bug or a broken link. No coding required — just describe what you'd like to see added.
-- [Submit a pull request](https://github.com/trizoza/assets.dles.gg/pulls) - Fork the repo, add your resource to the `assets/` directory, update this `README.md` with the new resource, and open a PR. We'll review and merge it.
+- [Kenney](https://kenney.nl/) - free 3D models, textures, audio and UI packs
 
 ## DLES
 
 I decided to open source the entire collection of DLES I collect at [dles.gg](https://dles.gg). I will be updating this list at the end of each week. If you're in search for the latest games, please head to [dles.gg/games/newest](https://dles.gg/games/newest) instead, otherwise use this mirror if you need to download the entire games list at once.
 
 - [DLES](assets/daily-games/dles.json) - 874 daily games listed on [dles.gg](https://dles.gg) with names, URLs and descriptions, sorted by a date added to the collection
+
+## Contribute
+
+This is an open source project and contributions are welcome. If you know of a word list, dictionary, or useful asset that should be here, you can help in two ways:
+
+- [Open an issue](https://github.com/trizoza/assets.dles.gg/issues/new) - Suggest a new resource, report a bug or a broken link. No coding required — just describe what you'd like to see added.
+- [Submit a pull request](https://github.com/trizoza/assets.dles.gg/pulls) - Fork the repo, add your resource to the `assets/` directory, update this `README.md` with the new resource, and open a PR. We'll review and merge it.
