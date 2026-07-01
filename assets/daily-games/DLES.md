@@ -1,6 +1,6 @@
 # DLES a.k.a Daily Logic Exercises
 
-> An open mirror of the **881** daily games collected at [dles.gg](https://dles.gg/games/newest?ref=assets.dles.gg) ordered by newest first, updated weekly. Made a daily game yourself? [Submit it to the collection!](https://dles.gg/submit-game?ref=assets.dles.gg).
+An open mirror of the **881** daily games collected at [dles.gg](https://dles.gg/games/newest?ref=assets.dles.gg) ordered by newest first, updated weekly. Made a daily game yourself? [Submit it to the collection!](https://dles.gg/submit-game?ref=assets.dles.gg).
 
 - [Border guesser](https://borderguesser.com?ref=assets.dles.gg) - Hold a button to progressively reveal a mystery country's border, with its continent given as a hint. Guess the country as early as you can: the less of the outline shown when you answer correctly, the higher your score. Work through 7 countries to finish.
 - [Beatdle](https://beatdle.fun?ref=assets.dles.gg) - Listen to a drum beat, then recreate its rhythm on a 16-step sequencer across 3 tracks — kick, snare, and hi-hat. You can replay the target only once per guess, so memorize it. After each submission, every cell is marked correct, misplaced, or absent, Wordle-style, until you reproduce the full pattern within 6 attempts.

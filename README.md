@@ -12,7 +12,7 @@ So far I see 3 main categories that I'd like to cover: Words, Images and Sounds.
 
 ## Words
 
-Even though you can technically find all words used in Wordle in their [source code](https://www.nytimes.com/games-assets/v2/wordle.2cb2da2d44b27be37f0df877458485d700fe8c1e.js) - it is explicitly against their terms and conditions and you might get in trouble if you do so. Therefore I've taken the words from ENABLE (Enhanced North American Benchmark LExicon) wordlist and split them into chunks based on letter length to simplify your life, so it's up to you if you create a 5-letter long game like Wordle, or 3 or 7, totally up to you.
+Even though you can technically find all words used in Wordle in their [source code](https://www.nytimes.com/games-assets/v2/wordle.2cb2da2d44b27be37f0df877458485d700fe8c1e.js) - it is explicitly against their terms and conditions and you might get in trouble if you do so. Therefore I've taken the words from ENABLE (Enhanced North American Benchmark LExicon) wordlist and split them into chunks based on letter length to simplify your life, so it's up to you if you create a game based on 5-letter long words, or 3 or who knows 21, totally up to you.
 
 - [2 letter words](assets/words/enable/2-letter-words.txt) - 96 words
 - [3 letter words](assets/words/enable/3-letter-words.txt) - 972 words
@@ -35,6 +35,11 @@ Even though you can technically find all words used in Wordle in their [source c
 - [20 letter words](assets/words/enable/20-letter-words.txt) - 160 words
 - [21 letter words](assets/words/enable/21-letter-words.txt) - 62 words
 - [22 letter words](assets/words/enable/22-letter-words.txt) - 30 words
+- [23 letter words](assets/words/enable/23-letter-words.txt) - 13 words
+- [24 letter words](assets/words/enable/24-letter-words.txt) - 9 words
+- [25 letter words](assets/words/enable/25-letter-words.txt) - 2 words
+- [27 letter words](assets/words/enable/27-letter-words.txt) - 2 words
+- [28 letter words](assets/words/enable/28-letter-words.txt) - 1 word
 - [All words](assets/words/enable/all-words.txt) - 172820 words - the complete ENABLE list
 
 ## Images
