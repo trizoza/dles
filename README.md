@@ -12,8 +12,30 @@ So far I see 3 main categories that I'd like to cover: Words, Images and Sounds.
 
 ## Words
 
-- [5 letter common words](assets/words/5-letter-words-common.txt) - 2309 words - ideal for answers
-- [5 letter wide spectrum words](assets/words/5-letter-words-common-and-rare.txt) - 10665 words - ideal for guesses
+Even though you can technically find all words used in Wordle in their [source code](https://www.nytimes.com/games-assets/v2/wordle.2cb2da2d44b27be37f0df877458485d700fe8c1e.js) - it is explicitly against their terms and conditions and you might get in trouble if you do so. Therefore I've taken the words from ENABLE (Enhanced North American Benchmark LExicon) wordlist and split them into chunks based on letter length to simplify your life, so it's up to you if you create a 5-letter long game like Wordle, or 3 or 7, totally up to you.
+
+- [2 letter words](assets/words/enable/2-letter-words.txt) - 96 words
+- [3 letter words](assets/words/enable/3-letter-words.txt) - 972 words
+- [4 letter words](assets/words/enable/4-letter-words.txt) - 3903 words
+- [5 letter words](assets/words/enable/5-letter-words.txt) - 8636 words
+- [6 letter words](assets/words/enable/6-letter-words.txt) - 15232 words
+- [7 letter words](assets/words/enable/7-letter-words.txt) - 23109 words
+- [8 letter words](assets/words/enable/8-letter-words.txt) - 28420 words
+- [9 letter words](assets/words/enable/9-letter-words.txt) - 24873 words
+- [10 letter words](assets/words/enable/10-letter-words.txt) - 20300 words
+- [11 letter words](assets/words/enable/11-letter-words.txt) - 15504 words
+- [12 letter words](assets/words/enable/12-letter-words.txt) - 11357 words
+- [13 letter words](assets/words/enable/13-letter-words.txt) - 7827 words
+- [14 letter words](assets/words/enable/14-letter-words.txt) - 5127 words
+- [15 letter words](assets/words/enable/15-letter-words.txt) - 3192 words
+- [16 letter words](assets/words/enable/16-letter-words.txt) - 1943 words
+- [17 letter words](assets/words/enable/17-letter-words.txt) - 1127 words
+- [18 letter words](assets/words/enable/18-letter-words.txt) - 594 words
+- [19 letter words](assets/words/enable/19-letter-words.txt) - 329 words
+- [20 letter words](assets/words/enable/20-letter-words.txt) - 160 words
+- [21 letter words](assets/words/enable/21-letter-words.txt) - 62 words
+- [22 letter words](assets/words/enable/22-letter-words.txt) - 30 words
+- [All words](assets/words/enable/all-words.txt) - 172820 words - the complete ENABLE list
 
 ## Images
 
