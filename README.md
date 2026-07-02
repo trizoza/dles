@@ -44,13 +44,17 @@ Even though you can technically find all words used in Wordle in their [source c
 
 ### Most popular words
 
-The full ENABLE lists above include a lot of rare, archaic and technical words that most players would never recognise (e.g. `aalii`). These curated subsets keep only the everyday ones: every ENABLE word is ranked by how often it actually appears in real-world text, the frequent ones are kept, and proper nouns, brand names, foreign words, crude or offensive terms and the obscure long tail are removed. The result is a "common folk" vocabulary that's a better fit for answers in guessing games.
+The magic of Wordle was partly accomplished thanks to the effort of Josh Wardle's partner who filtered a list of 12 thousand 5-letter words manually to approximately 2.5 thousand words, based on one judgement, do I know this word or not? The full ENABLE list above includes a lot of rare, archaic and technical words that most players would never recognise (e.g. `aalii`). So I decided to filter them too. Below are curated subsets that keep only the everyday ones: every ENABLE word is ranked by how often it actually appears in real-world text, the frequent ones are kept, and proper nouns, brand names, foreign words, crude or offensive terms and the obscure long tail are removed. The result is a "common folk" vocabulary that's a better fit for answers in guessing games, while the lists above are great for allowed guesses. I used two different frequency filter techniques, pick whichever you find better.
 
-Two frequency sources are used. The **`norvig-*`** lists are ranked with Peter Norvig's [word-frequency data](https://www.norvig.com/ngrams/) — the [count_1w.txt](https://www.norvig.com/ngrams/count_1w.txt) list of the ⅓-million most frequent words, derived from the Google Web Trillion Word Corpus and released under the MIT license — with a hand-curated boundary and manual removal of proper nouns, brands and obscure words.
+#### Norvig filtered
+
+The **`norvig-*`** lists are ranked with Peter Norvig's [word-frequency data](https://www.norvig.com/ngrams/) — the [count_1w.txt](https://www.norvig.com/ngrams/count_1w.txt) list of the ⅓-million most frequent words, derived from the Google Web Trillion Word Corpus and released under the MIT license. A script ranked every ENABLE word of each letter length by its frequency and produced an ordered list and I kept top 30% of each list. Then Claude Fable individually judged: proper nouns/brands/vulgar/foreign and common-but-lower-frequency words at the fuzzy zone deciding to keep vs cut.
 
 - [4 letter popular words (Norvig)](assets/words/enable/norvig-most-popular-4-letter-words.txt) - 2067 words
 - [5 letter popular words (Norvig)](assets/words/enable/norvig-most-popular-5-letter-words.txt) - 3743 words
 - [6 letter popular words (Norvig)](assets/words/enable/norvig-most-popular-6-letter-words.txt) - 5283 words
+
+#### Wordfreq filtered
 
 The **`wordfreq-*`** lists are generated automatically with the open-source [wordfreq](https://pypi.org/project/wordfreq/) library, so they're fully reproducible from open data. **The Zipf cutoff.** wordfreq scores each word on the _Zipf scale_ — a base-10 logarithmic frequency running from about 0 to 8, where every whole step means the word is 10× more common (`the` ≈ 7.7, `house` ≈ 5.7, `gecko` ≈ 3.0, and the obscure `aalii` ≈ 0). Every ENABLE word is scored, and those at **Zipf ≥ 3.0** are kept — roughly "used at least once per million words", the level below which words start to feel obscure to a general audience. Because raw frequency still ranks proper nouns and profanity highly, offensive terms and obvious names/places are then filtered out. The 3.0 bar is deliberately strict so the lists favour genuinely everyday words; a lower threshold would keep more but rarer words.
 
