@@ -1,5 +1,11 @@
 [
   {
+    "name": "PunFiction: Box Office Blunders",
+    "description": "Unravel daily movie parody riddles! Decipher comedic plotlines, follow rhyming word clues, unlock progressive hints, and guess the pun-derful titles of classic films.",
+    "url": "https://iwandres.github.io/PunFiction/boxofficeblunders/",
+    "category": "Movies and Series"
+  },
+  {
     "name": "Border guesser",
     "description": "Hold a button to progressively reveal a mystery country's border, with its continent given as a hint. Guess the country as early as you can: the less of the outline shown when you answer correctly, the higher your score. Work through 7 countries to finish.",
     "url": "https://borderguesser.com",
