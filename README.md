@@ -12,7 +12,7 @@ So far I see 3 main categories that I'd like to cover: Words, Images and Sounds.
 
 ## Words
 
-Even though you can technically find all words used in Wordle in their [source code](https://www.nytimes.com/games-assets/v2/wordle.2cb2da2d44b27be37f0df877458485d700fe8c1e.js) - it is explicitly against their terms and conditions and you might get in trouble if you do so. Therefore I've taken the words from ENABLE (Enhanced North American Benchmark LExicon) wordlist and split them into chunks based on letter length to simplify your life, so it's up to you if you create a game based on 5-letter long words, or 3 or who knows 21, totally up to you.
+Even though you can technically find all words used in Wordle in their [source code](https://www.nytimes.com/games-assets/v2/wordle.2cb2da2d44b27be37f0df877458485d700fe8c1e.js), it is explicitly against their terms and conditions and you might get in trouble if you do so. Therefore I've taken the words from ENABLE (Enhanced North American Benchmark LExicon) wordlist which is in public domain and split it into chunks based on letter length to simplify your life, so it's up to you if you create a game based on 5-letter long words, or 3 or who knows 21, totally up to you.
 
 - [2 letter words](assets/words/enable/2-letter-words.txt) - 96 words
 - [3 letter words](assets/words/enable/3-letter-words.txt) - 972 words
@@ -41,6 +41,29 @@ Even though you can technically find all words used in Wordle in their [source c
 - [27 letter words](assets/words/enable/27-letter-words.txt) - 2 words
 - [28 letter words](assets/words/enable/28-letter-words.txt) - 1 word
 - [All words](assets/words/enable/all-words.txt) - 172820 words - the complete ENABLE list
+
+### Most popular words
+
+The full ENABLE lists above include a lot of rare, archaic and technical words that most players would never recognise (e.g. `aalii`). These curated subsets keep only the everyday ones: every ENABLE word is ranked by how often it actually appears in real-world text, the frequent ones are kept, and proper nouns, brand names, foreign words, crude or offensive terms and the obscure long tail are removed. The result is a "common folk" vocabulary that's a better fit for answers in guessing games.
+
+Two frequency sources are used. The **`norvig-*`** lists are ranked with Peter Norvig's [word-frequency data](https://www.norvig.com/ngrams/) — the [count_1w.txt](https://www.norvig.com/ngrams/count_1w.txt) list of the ⅓-million most frequent words, derived from the Google Web Trillion Word Corpus and released under the MIT license — with a hand-curated boundary and manual removal of proper nouns, brands and obscure words.
+
+- [4 letter popular words (Norvig)](assets/words/enable/norvig-most-popular-4-letter-words.txt) - 2067 words
+- [5 letter popular words (Norvig)](assets/words/enable/norvig-most-popular-5-letter-words.txt) - 3743 words
+- [6 letter popular words (Norvig)](assets/words/enable/norvig-most-popular-6-letter-words.txt) - 5283 words
+
+The **`wordfreq-*`** lists are generated automatically with the open-source [wordfreq](https://pypi.org/project/wordfreq/) library, so they're fully reproducible from open data. **The Zipf cutoff.** wordfreq scores each word on the _Zipf scale_ — a base-10 logarithmic frequency running from about 0 to 8, where every whole step means the word is 10× more common (`the` ≈ 7.7, `house` ≈ 5.7, `gecko` ≈ 3.0, and the obscure `aalii` ≈ 0). Every ENABLE word is scored, and those at **Zipf ≥ 3.0** are kept — roughly "used at least once per million words", the level below which words start to feel obscure to a general audience. Because raw frequency still ranks proper nouns and profanity highly, offensive terms and obvious names/places are then filtered out. The 3.0 bar is deliberately strict so the lists favour genuinely everyday words; a lower threshold would keep more but rarer words.
+
+- [4 letter popular words (wordfreq)](assets/words/enable/wordfreq-most-popular-4-letter-words.txt) - 1751 words
+- [5 letter popular words (wordfreq)](assets/words/enable/wordfreq-most-popular-5-letter-words.txt) - 2648 words
+- [6 letter popular words (wordfreq)](assets/words/enable/wordfreq-most-popular-6-letter-words.txt) - 3380 words
+- [7 letter popular words (wordfreq)](assets/words/enable/wordfreq-most-popular-7-letter-words.txt) - 3634 words
+- [8 letter popular words (wordfreq)](assets/words/enable/wordfreq-most-popular-8-letter-words.txt) - 3315 words
+- [9 letter popular words (wordfreq)](assets/words/enable/wordfreq-most-popular-9-letter-words.txt) - 2698 words
+- [10 letter popular words (wordfreq)](assets/words/enable/wordfreq-most-popular-10-letter-words.txt) - 1950 words
+- [11 letter popular words (wordfreq)](assets/words/enable/wordfreq-most-popular-11-letter-words.txt) - 1159 words
+- [12 letter popular words (wordfreq)](assets/words/enable/wordfreq-most-popular-12-letter-words.txt) - 660 words
+- [13 letter popular words (wordfreq)](assets/words/enable/wordfreq-most-popular-13-letter-words.txt) - 357 words
 
 ## Images
 
