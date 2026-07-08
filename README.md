@@ -82,6 +82,7 @@ The **`wordfreq-*`** lists are generated automatically with the open-source [wor
 ## 3D Assets
 
 - [Kenney](https://kenney.nl/) - free 3D models, textures, audio and UI packs
+- [Sketchfab](https://sketchfab.com/features/free-3d-models) - free 3D models
 
 ## DLES
 
