@@ -88,7 +88,7 @@ The **`wordfreq-*`** lists are generated automatically with the open-source [wor
 
 I decided to open source the entire collection of DLES I collect at [dles.gg](https://dles.gg). I will be updating this list at the end of each week. If you're in search for the latest games, please head to [dles.gg/games/newest](https://dles.gg/games/newest) instead, otherwise use this mirror if you need to download the entire games list at once.
 
-- [DLES](assets/daily-games/dles.json) - 874 daily games listed on [dles.gg](https://dles.gg) with names, URLs and descriptions, sorted by a date added to the collection
+- [DLES](assets/daily-games/dles.json) - 972 daily games listed on [dles.gg](https://dles.gg) with names, URLs and descriptions, sorted by a date added to the collection
 
 ## Contribute
 
