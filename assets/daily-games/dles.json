@@ -1,5 +1,41 @@
 [
   {
+    "name": "Expandagram",
+    "description": "You get 3 letters and 60 seconds. Type as many words as you can that contain those 3 letters in the order shown, with any other letters filling the gaps around them. Words must be at least 4 letters long and each one counts once. Every letter scores a point, longer finds earn a growing bonus, and spotting a longest possible word adds 10 more.",
+    "url": "https://expandagram.com",
+    "category": "Words"
+  },
+  {
+    "name": "PunFiction: 1-Star Travel Reviews",
+    "description": "A furious 1-star review slates a famous landmark through wordplay, and you have to name the parody version it is really describing, swapping a word of the real name for a rhyme that fits the joke. Blanks show exactly how many words and letters to expect. Hints unlock in order to load more reviews, name the real landmark, then fill in letters and vowels. Solving it opens an illustrated postcard and a reply from the management.",
+    "url": "https://punfiction.io/travelreviews",
+    "category": "Geography"
+  },
+  {
+    "name": "Heatmapquest",
+    "description": "A 3D globe is shaded country by country from low to high against a hidden statistic, and you pick which one it is from 4 options. Rotate and zoom the globe to compare regions before committing. There are 4 rounds per puzzle, each with a fresh map, and keeping a playing streak alive adds up to 25 percent to your score.",
+    "url": "https://heatmapquest.com",
+    "category": "Geography"
+  },
+  {
+    "name": "Clume",
+    "description": "One word sits behind 10 clues and you start with only the first. Each clue approaches the answer from a different angle, a common association, a phrase, a definition, an opposite or a second meaning. Every guess you make opens the next clue, so you have 10 tries in total and the aim is to name the word while as few clues as possible are showing.",
+    "url": "https://playclume.com",
+    "category": "Words"
+  },
+  {
+    "name": "Kuromasu",
+    "description": "Colour every square of the grid black or teal. A numbered square tells you how many teal squares it can see in a straight line up, down, left and right, counting itself, and the small figure beside it tracks how many are still missing. Teal squares must all join into a single connected region, black squares can never touch, and a square turns red the moment a placement makes the grid unsolvable. 3 reveals are there if you stall.",
+    "url": "https://nibble.games/kuromasu/kuromasu-small.html",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Giffle - Simpsons",
+    "description": "Identify the Simpsons episode from up to 6 GIFs, revealed 1 at a time, within 6 guesses. Search by episode title or season to lock in a pick. A yellow marker means the right season but the wrong episode, red means the wrong season, and an arrow shows whether the answer falls earlier or later in the run. Dots under the clip step back through the GIFs you have already seen.",
+    "url": "https://giffle.com/simpsons",
+    "category": "Movies and Series"
+  },
+  {
     "name": "GnarlyQ",
     "description": "5 trivia questions, each showing 10 possible answers of which exactly 5 are correct. Tap the correct ones before the clock runs out. Each correct pick is worth more than the last, 2 up to 6, so finding all 5 in a question scores 20 and a flawless run scores 100. A wrong tap ends the question and wipes its points, unless one of your 2 shields blocks it. Lock in at any time to bank what you have earned.",
     "url": "https://gnarlyq.com",
@@ -2539,7 +2575,7 @@
   },
   {
     "name": "Monster Hunter-dle",
-    "description": "Guess the monster from the Monster Hunter series.",
+    "description": "Name the hidden monster from the Monster Hunter series. Each guess fills a row of attribute columns covering element, ailment, weaknesses, class, minimum and maximum size, threat level, first appearance and generation. Green marks an exact match, orange a partial one, and arrows on the numeric columns point higher or lower.",
     "url": "https://monster-hunter-dle.akato.fr/classic",
     "category": "Video Games"
   },
@@ -2575,7 +2611,7 @@
   },
   {
     "name": "Pikadoku",
-    "description": "Fill out the grid with Pokémon matching the criteria of each cell's row and column. More complex than Pokedoku.",
+    "description": "A grid crosses 3 criteria down the side with 3 across the top, covering types, generations, evolution stages and type matchups. Name a Pokemon that satisfies both the row and the column for each cell. Health drains with every incorrect answer, so the grid has to be filled carefully.",
     "url": "https://pikadoku.dentotino.com",
     "category": "Video Games"
   },
@@ -2659,7 +2695,7 @@
   },
   {
     "name": "Movie Snake",
-    "description": "Guess movies that match pairs of criteria until all clues have been used.",
+    "description": "Each panel pairs 2 criteria, such as an actor and a release window, and you name a film that satisfies both. There are 9 panels and 12 guesses, so 3 misses are allowed, films may be reused, and each correct answer scores more the rarer your pick was among other players.",
     "url": "https://moviesnake.io",
     "category": "Movies and Series"
   },
@@ -2671,13 +2707,13 @@
   },
   {
     "name": "Pair Down",
-    "description": "Choose one letter to remove from each word to make new words. The chosen letters should form word(s) as well.",
+    "description": "Remove exactly 1 letter from each row of letter tiles so that what is left is still a word. The letters you pick out, read in order, spell a hidden answer of their own. Easy and hard sets are offered and hints can reveal a row or check the whole board.",
     "url": "https://pairdown.com",
     "category": "Words"
   },
   {
     "name": "Pokegrid",
-    "description": "Guess the combination of attributes of pokemon in a grid.",
+    "description": "A 3 by 3 grid pairs a criterion down the side with another across the top, covering types, moves a Pokemon can learn and type resistances. Name a Pokemon that satisfies both for each square. You get 9 guesses, and rarer picks that few other players thought of score better.",
     "url": "https://www.pokegrid.net",
     "category": "Video Games"
   },
@@ -2695,7 +2731,7 @@
   },
   {
     "name": "Nodes",
-    "description": "A puzzle game where you connect dots to reveal beautiful images.",
+    "description": "Numbered vertices are scattered across the canvas and each number says how many lines meet at that point. Draw the connections that satisfy every count and the triangles fill in to reveal a hand drawn picture.",
     "url": "https://www.nodes-game.com",
     "category": "Visual"
   },
@@ -2737,13 +2773,13 @@
   },
   {
     "name": "Musicle",
-    "description": "Match the song audio to the correct album art. Lots of categories.",
+    "description": "Listen to a clip and pick the track it comes from. The standard round plays 1 song with 4 options, while the harder mode plays 6 songs with 9 options and allows no mistakes. Dozens of themed sets narrow the pool to a genre, era, franchise or country.",
     "url": "https://musicle.app",
     "category": "Music"
   },
   {
     "name": "Movie Reveal",
-    "description": "Guess today's hidden movie by revealing clues that cost you points!",
+    "description": "Name the hidden film starting from nothing but its title length. You begin with 200 points and can spend them on clues, 25 for the lead actor, 30 for the director, less for genre, release year, box office or review scores. 5 guesses are allowed and the aim is to name it with as many points left as possible.",
     "url": "https://moviereveal.io",
     "category": "Movies and Series"
   },
@@ -2755,7 +2791,7 @@
   },
   {
     "name": "Mineswifter",
-    "description": "Solvable Minesweeper puzzles with daily challenges.",
+    "description": "Clear a grid of hidden mines by opening safe squares and flagging the dangerous ones. Each opened square shows how many mines touch it, and every board is generated so it can be solved by reasoning alone with no guessing needed. Alongside the dated challenge there are 3 fixed sizes, from 9x9 with 10 mines up to 30x16 with 99.",
     "url": "https://mineswifter.com",
     "category": "Numbers and Logic"
   },
@@ -2809,19 +2845,19 @@
   },
   {
     "name": "Pokedle.com",
-    "description": "Guess the daily Pokemon from all generations.",
+    "description": "Name the hidden Pokemon. Each guess fills a row of attribute columns and the colours show which ones match exactly and which are only partly right, with arrows for the numeric fields. Generations can be narrowed or widened, and other modes swap the table for a silhouette, a description, a zoomed crop or a card.",
     "url": "https://pokedle.com",
     "category": "Video Games"
   },
   {
     "name": "QueenSweep",
-    "description": "Find all 8 hidden queens using the number clues.",
+    "description": "Find 8 queens hidden on a grid. Numbered cells say how many queens sit next to them, counting diagonals. Exactly 1 queen stands in each row and each column, and no 2 queens may be diagonally adjacent. Mark cells you have ruled out, flag the queens, and watch the mistake counter.",
     "url": "https://playqueensweep.com",
     "category": "Numbers and Logic"
   },
   {
     "name": "Moviedle (from Histordle)",
-    "description": "Guess the year that the given movies were released.",
+    "description": "3 films are shown with their directors and genres, all released in the same year. Work out that year and enter it on the number pad. You get 4 attempts, and a hint link offers extra direction before your first guess.",
     "url": "https://histordle.com/moviedle",
     "category": "Movies and Series"
   },
@@ -2839,13 +2875,13 @@
   },
   {
     "name": "MusicVidle",
-    "description": "Guess the song based on selected frames from its music video.",
+    "description": "6 stills from a music video are revealed 1 at a time and you name the song. Search the track list to lock in an answer or skip to uncover the next still, and each skip or wrong guess costs you one of your 6 rows.",
     "url": "https://www.musicvidle.com",
     "category": "Music"
   },
   {
     "name": "Puzzmo - Weather Memoku",
-    "description": "Fill out grid by finding matching tiles. Each row and column have the same number of each tile.",
+    "description": "A grid of face down tiles hides weather symbols. Flip 1 tile, then flip another to look for its pair, keeping track of what you have seen. Each symbol appears 6 times, and the board is done when every match has been found.",
     "url": "https://www.puzzmo.com/play/weather-memoku",
     "category": "Numbers and Logic"
   },
@@ -2857,13 +2893,13 @@
   },
   {
     "name": "NYT Connections: Sports Edition",
-    "description": "Group sports terms that share a common thread.",
+    "description": "16 sports terms sit in a grid and hide 4 groups of 4 that share a thread, from player nicknames to team mascots. Select 4 and submit. You are allowed 4 mistakes before the puzzle closes.",
     "url": "https://www.nytimes.com/athletic/connections-sports-edition",
     "category": "Sports"
   },
   {
     "name": "Movie Pyramid",
-    "description": "Fill in the cells of the pyramid with movies that match the criteria of their given row.",
+    "description": "A pyramid of cells sits above a set of paired criteria, 1 pair per row, such as an actor combined with a release window. Name a film that satisfies the pair for each cell. You get 12 guesses in total and every attempt counts whether it lands or not.",
     "url": "https://moviepyramid.io",
     "category": "Movies and Series"
   },
@@ -2905,7 +2941,7 @@
   },
   {
     "name": "Noggle",
-    "description": "A daily logic puzzle with a touch of learning and trivia.",
+    "description": "A grid crosses several sets of things, such as names against ages and favourites. Work through the written clues and mark each square as a match or a miss until only one arrangement survives. Every item pairs with exactly one item from each other set, and hints are available at the cost of a star.",
     "url": "https://nibble.games/noggle/noggle.html",
     "category": "Numbers and Logic"
   },
@@ -2935,7 +2971,7 @@
   },
   {
     "name": "Palwordle",
-    "description": "Daily games related to the video game Palworld.",
+    "description": "Name the hidden Pal from Palworld. Each guess fills a row of columns covering both types, whether it can be ridden, habitat, colours and work abilities, with green for an exact match, yellow for a partial one and red for a miss. Other modes swap the clue for a description, a silhouette or a timed hunt through the bestiary.",
     "url": "https://palwordle.net",
     "category": "Video Games"
   },
@@ -2965,7 +3001,7 @@
   },
   {
     "name": "Puzzmo - Pile-Up Poker",
-    "description": "Make poker hands by placing cards onto the grid.",
+    "description": "Cards are dealt one at a time and you place each one anywhere on an open grid. Rows, columns and the 4 corners each score as a poker hand, so every placement has to serve several hands at once. The aim is the highest total once the grid is full.",
     "url": "https://www.puzzmo.com/play/pile-up-poker",
     "category": "Tabletop Games"
   },
@@ -3043,7 +3079,7 @@
   },
   {
     "name": "Number Island",
-    "description": "Divide the number board into islands that match the target sums.",
+    "description": "A grid of digits hides groups that add up to a set of targets. Select runs of cells that touch above, below, left or right so each group totals one of the targets, and clear the board by finding them all. 3 grid sizes are offered.",
     "url": "https://numberisland.com",
     "category": "Numbers and Logic"
   },
@@ -3055,13 +3091,13 @@
   },
   {
     "name": "Puzzmo - Bongo",
-    "description": "Lay tiles onto the grid to spell the best 6 words you can.",
+    "description": "You get 25 letter tiles plus 1 wild and a 5 row board. Drag tiles into place so each row spells a word, with columns ignored, and aim for a word on the highlighted bonus line for extra points. Letters and their point values change every time, so the goal is the highest scoring arrangement rather than a single right answer.",
     "url": "https://www.puzzmo.com/game/bongo",
     "category": "Words"
   },
   {
     "name": "Minecraftle",
-    "description": "Guess the crafting recipe from the game Minecraft.",
+    "description": "A secret Minecraft item has to be built by dragging ingredients from the inventory into a 3x3 crafting grid. You get 10 attempts, and after each one every square you filled is coloured: green means that ingredient is right and in the right square, orange means it belongs in the recipe but somewhere else, and grey means it is not in the recipe at all.",
     "url": "https://minecraftle.zachmanson.com",
     "category": "Video Games"
   },
@@ -3097,7 +3133,7 @@
   },
   {
     "name": "Onepiecedle",
-    "description": "Guess One Piece characters in these daily games.",
+    "description": "Name the hidden One Piece character. 4 modes change the clue you start from, an attribute table that fills in after each guess, a devil fruit, a wanted poster or a laugh, and colours on the table mark exact and partial matches.",
     "url": "https://onepiecedle.net",
     "category": "Movies and Series"
   },
@@ -3127,7 +3163,7 @@
   },
   {
     "name": "Ophex",
-    "description": "Combine the 7 numbers into the target number using the operations between them.",
+    "description": "7 numbers sit in a row with an operator between each pair. Tap an operator to combine its 2 neighbours into a single value, and keep going until all 7 have merged into the target number. Fractions and negatives can appear along the way but the target is always a whole number, and undo and restart are available.",
     "url": "https://www.andrewt.net/puzzles/ophex",
     "category": "Numbers and Logic"
   },
@@ -3199,15 +3235,15 @@
   },
   {
     "name": "Narutodle",
-    "description": "A collection of daily games where you guess characters from Naruto.",
+    "description": "Name the hidden Naruto character. 4 modes give different starting clues, a table of attributes that fills in after each guess, a jutsu animation, a line of dialogue, or a close up of an eye. Colours on the attribute columns mark exact and partial matches.",
     "url": "https://narutodle.net",
     "category": "Movies and Series"
   },
   {
     "name": "Minigolfle",
-    "description": "2D retro minigolf game with 3 randomly generated levels each day.",
+    "description": "Drag back from the ball to set the aim and the power, then release to putt. The ball bounces off walls and around obstacles under simple physics, and the goal is to sink it in as few strokes as you can across 3 procedurally generated holes.",
     "url": "https://minigolfle.com",
-    "category": "Misc"
+    "category": "Sports"
   },
   {
     "name": "Keyboard Lines",
@@ -3235,7 +3271,7 @@
   },
   {
     "name": "Quickflip",
-    "description": "Flip the tiles to make an 8 letter word. Two words are possible, but only one is the correct answer.",
+    "description": "A row of tiles can each be flipped to a second letter, and only 2 complete 8 letter words are possible from them. A clue is given for the wrong word and nothing at all for the right one, so you use it to steer away rather than towards. Flip to the correct word as fast as you can.",
     "url": "https://puzzmallow.com/quickflip",
     "category": "Words"
   },
@@ -3247,13 +3283,13 @@
   },
   {
     "name": "Plausible",
-    "description": "Guess the real definition of today's obscure word, then make up a fake definition for tomorrow's word.",
+    "description": "An obscure word is shown with its pronunciation and 6 candidate definitions, only 1 of which is real. The rest were written by other players trying to fool you. Pick the genuine one within your attempts, and submit your own invented definition to be used against everyone else next time.",
     "url": "https://plausiblegame.com/en",
     "category": "Words"
   },
   {
     "name": "NYT Pips",
-    "description": "Fill the board with all the dominoes and meet the conditions.",
+    "description": "Place every domino from the tray onto a board split into coloured regions, rotating them to fit. Each region carries a condition on its dots, a number means they must add up to it, an equals sign means they must all match, and a less-than sign caps the total. Empty regions take anything, and the puzzle is done when every domino is placed and every condition holds. 3 difficulty levels are offered.",
     "url": "https://www.nytimes.com/games/pips",
     "category": "Numbers and Logic"
   },
@@ -3289,15 +3325,15 @@
   },
   {
     "name": "Power Scadle",
-    "description": "Compare two fictional characters and guess which one is stronger.",
+    "description": "Two fictional characters are put head to head and you pick which one would win, with the answer settled by community power rankings. Keep choosing correctly to build a run, and separate modes offer a fixed set of matchups or an endless streak attempt.",
     "url": "https://powerscadle.com",
     "category": "Misc"
   },
   {
     "name": "Morsle (decipher.wiki)",
-    "description": "Same as Wordle but you input your letters using Morse Code, a tool for beginners to learn Morse Code.",
+    "description": "Find the hidden 5 letter word in 6 tries, but enter every letter as Morse code using only a dot key and a dash key, with a reference chart beside the grid. After each guess the tiles show which letters are correct and in the right place, which are in the word but misplaced, and which are absent.",
     "url": "https://decipher.wiki/morsle",
-    "category": "Misc"
+    "category": "Words"
   },
   {
     "name": "CineLine",
@@ -3307,13 +3343,13 @@
   },
   {
     "name": "Puzzmo - Memoku",
-    "description": "A daily sudoku game where you match numbers instead of entering them.",
+    "description": "A sudoku grid starts face down. Tap a tile to flip it and tap a second to look for its match, remembering what you have seen. Each number appears 9 times across the board, and the puzzle is complete when every match has been paired up.",
     "url": "https://www.puzzmo.com/play/memoku",
     "category": "Numbers and Logic"
   },
   {
     "name": "Numblino",
-    "description": "Guess the number based on the given fact. You have 6 guesses.",
+    "description": "A statistic is described in a single line, such as how many lightning strikes hit the planet each minute, and you type your estimate on the number pad. You have 6 guesses to land close enough, and an archive holds every past round.",
     "url": "https://numblino.com",
     "category": "Guessing"
   },
@@ -3354,12 +3390,6 @@
     "category": "Geography"
   },
   {
-    "name": "Outlier",
-    "description": "Repeatedly pick the outlier as quickly as you can.",
-    "url": "https://outlier.land",
-    "category": "Words"
-  },
-  {
     "name": "Jeopardy 6",
     "description": "Answer 12 trivia clues pulled from a TV quiz show, each offering 3 possible responses and about 10 seconds on the clock. Every correct pick scores points.",
     "url": "https://www.jeopardy.com/play/j6",
@@ -3397,7 +3427,7 @@
   },
   {
     "name": "Puzzmo - Circuits",
-    "description": "Place words into the empty boxes so that each connection of two words make a compound word.",
+    "description": "Boxes are wired together in chains, with a word fixed at each end and a gap in the middle. Type a word that forms a compound term with the box feeding into it and with the box it feeds, then solve every chain on the board. Reusing one of your earlier answers to complete a second chain scores extra.",
     "url": "https://www.puzzmo.com/play/circuits",
     "category": "Words"
   },
@@ -3409,7 +3439,7 @@
   },
   {
     "name": "Pimantle",
-    "description": "Guess words to see how close they are to the secret word on a graph, and see where others are guessing as well!",
+    "description": "Guess words to home in on a hidden one, where closeness is semantic rather than alphabetic. Every guess is plotted on a map and the nearer it lands to the centre, the closer its meaning is to the answer, so the cloud of guesses gradually points the way.",
     "url": "https://semantle.pimanrul.es",
     "category": "Words"
   },
@@ -3469,7 +3499,7 @@
   },
   {
     "name": "Nookle",
-    "description": "Guess the villager from Animal Crossing.",
+    "description": "Name the hidden Animal Crossing villager. Each guess is compared against the target attribute by attribute, with green marking an exact match, yellow a partial one and red a miss.",
     "url": "https://nookle.net",
     "category": "Video Games"
   },
@@ -3499,7 +3529,7 @@
   },
   {
     "name": "Pixletters",
-    "description": "Guess the word, except each letter is represented in a pixel grid.",
+    "description": "Find the hidden 5 letter word in 5 tries, with every letter drawn as a pattern of dots rather than type. Feedback lands on individual dots instead of whole letters: blue means the letter in that spot is right, green means the letter must contain that dot, red means it must not, and grey leaves it open.",
     "url": "https://pixletters.com",
     "category": "Words"
   },
@@ -3511,7 +3541,7 @@
   },
   {
     "name": "Pokerating",
-    "description": "Guess an unknown Pokemon based on its in game information and how popular it is, using the ratings of other people.",
+    "description": "Name the hidden Pokemon in 6 guesses. Each attempt reports whether the answer starts with the same letter or sits earlier or later in the alphabet, whether its generation is the same, earlier or later, which types it shares, and whether its base stat total and its community rating are higher or lower than your pick.",
     "url": "https://pokerating.com/puzzle",
     "category": "Video Games"
   },
@@ -3529,7 +3559,7 @@
   },
   {
     "name": "More/Less",
-    "description": "Decide which option has more or less, and keep going until you get one wrong. There are 3 categories to play.",
+    "description": "Two things are shown side by side and you pick the one with the bigger number behind it, from search volume to box office takings. Play runs through 5 categories of 5 rounds each, and a wrong pick ends the streak.",
     "url": "https://lessgames.com/moreless",
     "category": "Guessing"
   },
@@ -3559,7 +3589,7 @@
   },
   {
     "name": "Planespottle",
-    "description": "Given an image of an airplane, determine the make, type, and the airline it belongs to.",
+    "description": "A photograph of an aircraft is shown partly obscured, and you name its manufacturer, model and airline from dropdown lists. Every wrong guess uncovers more of the plane, so the earlier you commit the better you score. Separate modes cover unlimited rounds, airports from satellite images and quizzes.",
     "url": "https://planespottle.net/",
     "category": "Transport"
   },
@@ -3571,19 +3601,19 @@
   },
   {
     "name": "Parlorbox",
-    "description": "Logic puzzle game based on the Parlor room puzzle from Blue Prince",
+    "description": "3 boxes each make a statement about where the gems are. At least 1 box always tells the truth, at least 1 always lies, and exactly 1 holds the gems while the others are empty. Work out which statements can hold together, then open up to 2 boxes per round to claim the gems.",
     "url": "https://parlorbox.com",
     "category": "Numbers and Logic"
   },
   {
     "name": "Omiword",
-    "description": "Form 4 common words by arranging letter tiles that are locked to different regions of the grid.",
+    "description": "Letter tiles are locked inside sectors of a grid and can only be dragged within their own sector. Rearrange them so the rows spell 4 common words. More than one arrangement can work, and 4 hints are there if you stall.",
     "url": "https://www.omiword.com",
     "category": "Words"
   },
   {
     "name": "Mini Crossword (The Observer)",
-    "description": "A daily mini crossword from The Observer.",
+    "description": "A 5x5 crossword with a short clue list beside it. Click a numbered square to highlight its run, type the answer, and switch between across and down as you go. It is solved when every white square holds the right letter. A timer runs and an assist menu can check or reveal letters.",
     "url": "https://fordhamobserver.com/category/fun-and-games/daily-mini-crossword",
     "category": "Words"
   },
@@ -3721,7 +3751,7 @@
   },
   {
     "name": "Poople",
-    "description": "Get to 'POOP' in as few steps as possible!",
+    "description": "A starting word is set each day and you have to reach POOP from it in as few steps as you can. Every word you type must differ from the one before by exactly 1 letter and must be a real word, so the challenge is finding the shortest chain.",
     "url": "https://poople.io",
     "category": "Words"
   },
@@ -5612,7 +5642,7 @@
   {
     "name": "Globle Capitals",
     "description": "Guess the mystery capital city in unlimited number of guesses. The hotter the colour, the closer you are to the mystery capital city.",
-    "url": "https://globle-capitals.com/",
+    "url": "https://globle-capitals.com/game",
     "category": "Geography"
   },
   {
@@ -5630,7 +5660,7 @@
   {
     "name": "Globle",
     "description": "Guess a mystery country in unlimited number of guesses. The hotter the colour, the closer you are to the mystery country.",
-    "url": "https://globle-game.com/",
+    "url": "https://globle-game.com/game",
     "category": "Geography"
   },
   {
