@@ -1,0 +1,623 @@
+[
+  {
+    "phrase": "Good fences make good neighbors",
+    "length": 31,
+    "letters": 27,
+    "words": 5,
+    "hint": "Robert Frost, Mending Wall",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/Mending_Wall"
+  },
+  {
+    "phrase": "A horse! A horse! My kingdom for a horse!",
+    "length": 41,
+    "letters": 30,
+    "words": 9,
+    "hint": "William Shakespeare, Richard III",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Richard_III_(play)"
+  },
+  {
+    "phrase": "And miles to go before I sleep",
+    "length": 30,
+    "letters": 24,
+    "words": 7,
+    "hint": "Robert Frost, Stopping by Woods on a Snowy Evening",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Robert_Frost"
+  },
+  {
+    "phrase": "Because I could not stop for Death",
+    "length": 34,
+    "letters": 28,
+    "words": 7,
+    "hint": "Emily Dickinson poem",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/Because_I_could_not_stop_for_Death"
+  },
+  {
+    "phrase": "Theirs not to reason why, theirs but to do and die",
+    "length": 50,
+    "letters": 39,
+    "words": 11,
+    "hint": "Alfred, Lord Tennyson, The Charge of the Light Brigade",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Alfred,_Lord_Tennyson"
+  },
+  {
+    "phrase": "The lady doth protest too much, methinks",
+    "length": 40,
+    "letters": 33,
+    "words": 7,
+    "hint": "William Shakespeare, Hamlet",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/The_lady_doth_protest_too_much,_methinks"
+  },
+  {
+    "phrase": "Hell hath no fury like a woman scorned",
+    "length": 38,
+    "letters": 31,
+    "words": 8,
+    "hint": "Proverb from William Congreve's play The Mourning Bride",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/The_Mourning_Bride"
+  },
+  {
+    "phrase": "Call me Ishmael",
+    "length": 15,
+    "letters": 13,
+    "words": 3,
+    "hint": "Opening line of Herman Melville's Moby-Dick",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Moby-Dick"
+  },
+  {
+    "phrase": "Double, double toil and trouble",
+    "length": 31,
+    "letters": 26,
+    "words": 5,
+    "hint": "Witches' chant in Shakespeare's Macbeth",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Macbeth"
+  },
+  {
+    "phrase": "If music be the food of love, play on",
+    "length": 37,
+    "letters": 28,
+    "words": 9,
+    "hint": "William Shakespeare, Twelfth Night",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Twelfth_Night"
+  },
+  {
+    "phrase": "All the world's a stage",
+    "length": 23,
+    "letters": 18,
+    "words": 5,
+    "hint": "William Shakespeare, As You Like It",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/All_the_world's_a_stage"
+  },
+  {
+    "phrase": "Where ignorance is bliss, 'tis folly to be wise",
+    "length": 47,
+    "letters": 37,
+    "words": 9,
+    "hint": "Thomas Gray poem, origin of \"ignorance is bliss\"",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Thomas_Gray"
+  },
+  {
+    "phrase": "To see a world in a grain of sand",
+    "length": 33,
+    "letters": 25,
+    "words": 9,
+    "hint": "William Blake, Auguries of Innocence",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/Auguries_of_Innocence"
+  },
+  {
+    "phrase": "Water, water, every where, nor any drop to drink",
+    "length": 48,
+    "letters": 37,
+    "words": 9,
+    "hint": "Samuel Taylor Coleridge, The Rime of the Ancient Mariner",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/The_Rime_of_the_Ancient_Mariner"
+  },
+  {
+    "phrase": "Hope springs eternal in the human breast",
+    "length": 40,
+    "letters": 34,
+    "words": 7,
+    "hint": "Alexander Pope, An Essay on Man",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/An_Essay_on_Man"
+  },
+  {
+    "phrase": "Hope is the thing with feathers",
+    "length": 31,
+    "letters": 26,
+    "words": 6,
+    "hint": "Emily Dickinson poem",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/%22Hope%22_is_the_thing_with_feathers"
+  },
+  {
+    "phrase": "Romeo, Romeo, wherefore art thou Romeo?",
+    "length": 39,
+    "letters": 31,
+    "words": 6,
+    "hint": "William Shakespeare, Romeo and Juliet",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Romeo_and_Juliet"
+  },
+  {
+    "phrase": "The quality of mercy is not strained",
+    "length": 36,
+    "letters": 30,
+    "words": 7,
+    "hint": "William Shakespeare, The Merchant of Venice",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/The_Merchant_of_Venice"
+  },
+  {
+    "phrase": "Reader, I married him",
+    "length": 21,
+    "letters": 17,
+    "words": 4,
+    "hint": "Charlotte Bronte, Jane Eyre",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Charlotte_Bront%C3%AB"
+  },
+  {
+    "phrase": "Beware the ides of March",
+    "length": 24,
+    "letters": 20,
+    "words": 5,
+    "hint": "William Shakespeare, Julius Caesar",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Julius_Caesar_(play)"
+  },
+  {
+    "phrase": "It is a truth universally acknowledged",
+    "length": 38,
+    "letters": 33,
+    "words": 6,
+    "hint": "Opening of Jane Austen's Pride and Prejudice",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Pride_and_Prejudice"
+  },
+  {
+    "phrase": "Please, sir, I want some more",
+    "length": 29,
+    "letters": 22,
+    "words": 6,
+    "hint": "Charles Dickens, Oliver Twist",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Oliver_Twist"
+  },
+  {
+    "phrase": "Neither a borrower nor a lender be",
+    "length": 34,
+    "letters": 28,
+    "words": 7,
+    "hint": "William Shakespeare, Hamlet",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Hamlet"
+  },
+  {
+    "phrase": "Parting is such sweet sorrow",
+    "length": 28,
+    "letters": 24,
+    "words": 5,
+    "hint": "William Shakespeare, Romeo and Juliet",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Romeo_and_Juliet"
+  },
+  {
+    "phrase": "Curiouser and curiouser!",
+    "length": 24,
+    "letters": 21,
+    "words": 3,
+    "hint": "Lewis Carroll, Alice's Adventures in Wonderland",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Alice's_Adventures_in_Wonderland"
+  },
+  {
+    "phrase": "We're all mad here",
+    "length": 18,
+    "letters": 14,
+    "words": 4,
+    "hint": "The Cheshire Cat in Alice's Adventures in Wonderland",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Alice's_Adventures_in_Wonderland"
+  },
+  {
+    "phrase": "I took the one less traveled by, and that has made all the difference",
+    "length": 69,
+    "letters": 55,
+    "words": 14,
+    "hint": "Robert Frost, The Road Not Taken",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Robert_Frost"
+  },
+  {
+    "phrase": "Is this a dagger which I see before me",
+    "length": 38,
+    "letters": 30,
+    "words": 9,
+    "hint": "William Shakespeare, Macbeth",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Macbeth"
+  },
+  {
+    "phrase": "Alas, poor Yorick! I knew him, Horatio",
+    "length": 38,
+    "letters": 29,
+    "words": 7,
+    "hint": "William Shakespeare, Hamlet",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Hamlet"
+  },
+  {
+    "phrase": "East is East, and West is West, and never the twain shall meet",
+    "length": 62,
+    "letters": 48,
+    "words": 13,
+    "hint": "Rudyard Kipling, The Ballad of East and West",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/The_Ballad_of_East_and_West"
+  },
+  {
+    "phrase": "Uneasy lies the head that wears a crown",
+    "length": 39,
+    "letters": 32,
+    "words": 8,
+    "hint": "William Shakespeare, Henry IV, Part 2",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Henry_IV,_Part_2"
+  },
+  {
+    "phrase": "I am the master of my fate, I am the captain of my soul",
+    "length": 55,
+    "letters": 41,
+    "words": 14,
+    "hint": "William Ernest Henley, Invictus",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/Invictus"
+  },
+  {
+    "phrase": "Big Brother is watching you",
+    "length": 27,
+    "letters": 23,
+    "words": 5,
+    "hint": "George Orwell, Nineteen Eighty-Four",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Nineteen_Eighty-Four"
+  },
+  {
+    "phrase": "To thine own self be true",
+    "length": 25,
+    "letters": 20,
+    "words": 6,
+    "hint": "William Shakespeare, Hamlet",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Hamlet"
+  },
+  {
+    "phrase": "A rose by any other name would smell as sweet",
+    "length": 45,
+    "letters": 36,
+    "words": 10,
+    "hint": "William Shakespeare, Romeo and Juliet",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/A_rose_by_any_other_name_would_smell_as_sweet"
+  },
+  {
+    "phrase": "Once more unto the breach, dear friends, once more",
+    "length": 50,
+    "letters": 40,
+    "words": 9,
+    "hint": "William Shakespeare, Henry V",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Henry_V_(play)"
+  },
+  {
+    "phrase": "It was the best of times, it was the worst of times",
+    "length": 51,
+    "letters": 39,
+    "words": 12,
+    "hint": "Opening of Charles Dickens's A Tale of Two Cities",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/A_Tale_of_Two_Cities"
+  },
+  {
+    "phrase": "Fools rush in where angels fear to tread",
+    "length": 40,
+    "letters": 33,
+    "words": 8,
+    "hint": "Alexander Pope, An Essay on Criticism",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/An_Essay_on_Criticism"
+  },
+  {
+    "phrase": "All animals are equal, but some animals are more equal than others",
+    "length": 66,
+    "letters": 54,
+    "words": 12,
+    "hint": "George Orwell, Animal Farm",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Animal_Farm"
+  },
+  {
+    "phrase": "'Tis better to have loved and lost than never to have loved at all",
+    "length": 66,
+    "letters": 52,
+    "words": 14,
+    "hint": "Alfred, Lord Tennyson, In Memoriam",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Alfred,_Lord_Tennyson"
+  },
+  {
+    "phrase": "Off with her head!",
+    "length": 18,
+    "letters": 14,
+    "words": 4,
+    "hint": "The Queen of Hearts in Alice's Adventures in Wonderland",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Alice's_Adventures_in_Wonderland"
+  },
+  {
+    "phrase": "Lord, what fools these mortals be!",
+    "length": 34,
+    "letters": 27,
+    "words": 6,
+    "hint": "Puck in Shakespeare's A Midsummer Night's Dream",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/A_Midsummer_Night's_Dream"
+  },
+  {
+    "phrase": "Never send to know for whom the bell tolls; it tolls for thee",
+    "length": 61,
+    "letters": 48,
+    "words": 13,
+    "hint": "John Donne, Meditation XVII",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/John_Donne"
+  },
+  {
+    "phrase": "Tyger Tyger, burning bright",
+    "length": 27,
+    "letters": 23,
+    "words": 4,
+    "hint": "William Blake, The Tyger",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/The_Tyger"
+  },
+  {
+    "phrase": "Quoth the Raven, Nevermore",
+    "length": 26,
+    "letters": 22,
+    "words": 4,
+    "hint": "Edgar Allan Poe, The Raven",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/The_Raven"
+  },
+  {
+    "phrase": "Now is the winter of our discontent",
+    "length": 35,
+    "letters": 29,
+    "words": 7,
+    "hint": "William Shakespeare, Richard III",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/Richard_III_(play)"
+  },
+  {
+    "phrase": "Happy families are all alike",
+    "length": 28,
+    "letters": 24,
+    "words": 5,
+    "hint": "Opening of Leo Tolstoy's Anna Karenina",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Anna_Karenina"
+  },
+  {
+    "phrase": "I wandered lonely as a cloud",
+    "length": 28,
+    "letters": 23,
+    "words": 6,
+    "hint": "William Wordsworth poem about daffodils",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/I_Wandered_Lonely_as_a_Cloud"
+  },
+  {
+    "phrase": "Out, damned spot!",
+    "length": 17,
+    "letters": 13,
+    "words": 3,
+    "hint": "Lady Macbeth in Shakespeare's Macbeth",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Macbeth"
+  },
+  {
+    "phrase": "Hell is empty and all the devils are here",
+    "length": 41,
+    "letters": 33,
+    "words": 9,
+    "hint": "William Shakespeare, The Tempest",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/The_Tempest"
+  },
+  {
+    "phrase": "Laugh, and the world laughs with you; weep, and you weep alone",
+    "length": 62,
+    "letters": 48,
+    "words": 12,
+    "hint": "Ella Wheeler Wilcox, Solitude",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Ella_Wheeler_Wilcox"
+  },
+  {
+    "phrase": "O Captain! My Captain!",
+    "length": 22,
+    "letters": 17,
+    "words": 4,
+    "hint": "Walt Whitman's elegy for Abraham Lincoln",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/O_Captain!_My_Captain!"
+  },
+  {
+    "phrase": "Shall I compare thee to a summer's day?",
+    "length": 39,
+    "letters": 30,
+    "words": 8,
+    "hint": "William Shakespeare, Sonnet 18",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/Sonnet_18"
+  },
+  {
+    "phrase": "We few, we happy few, we band of brothers",
+    "length": 41,
+    "letters": 31,
+    "words": 9,
+    "hint": "William Shakespeare, Henry V",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/St_Crispin's_Day_Speech"
+  },
+  {
+    "phrase": "The fault, dear Brutus, is not in our stars, but in ourselves",
+    "length": 61,
+    "letters": 47,
+    "words": 12,
+    "hint": "William Shakespeare, Julius Caesar",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Julius_Caesar_(play)"
+  },
+  {
+    "phrase": "Friends, Romans, countrymen, lend me your ears",
+    "length": 46,
+    "letters": 37,
+    "words": 7,
+    "hint": "William Shakespeare, Julius Caesar",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/Friends,_Romans,_countrymen,_lend_me_your_ears"
+  },
+  {
+    "phrase": "No man is an island",
+    "length": 19,
+    "letters": 15,
+    "words": 5,
+    "hint": "John Donne, Meditation XVII",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/John_Donne"
+  },
+  {
+    "phrase": "The course of true love never did run smooth",
+    "length": 44,
+    "letters": 36,
+    "words": 9,
+    "hint": "William Shakespeare, A Midsummer Night's Dream",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/A_Midsummer_Night's_Dream"
+  },
+  {
+    "phrase": "A thing of beauty is a joy forever",
+    "length": 34,
+    "letters": 27,
+    "words": 8,
+    "hint": "John Keats, Endymion",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/John_Keats"
+  },
+  {
+    "phrase": "A little learning is a dangerous thing",
+    "length": 38,
+    "letters": 32,
+    "words": 7,
+    "hint": "Alexander Pope, An Essay on Criticism",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/An_Essay_on_Criticism"
+  },
+  {
+    "phrase": "To err is human, to forgive divine",
+    "length": 34,
+    "letters": 27,
+    "words": 7,
+    "hint": "Alexander Pope, An Essay on Criticism",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/An_Essay_on_Criticism"
+  },
+  {
+    "phrase": "Abandon all hope, ye who enter here",
+    "length": 35,
+    "letters": 28,
+    "words": 7,
+    "hint": "Inscription on the gate of Hell in Dante's Inferno",
+    "category": "literature",
+    "source": "https://en.wiktionary.org/wiki/abandon_all_hope,_ye_who_enter_here"
+  },
+  {
+    "phrase": "To be, or not to be, that is the question",
+    "length": 41,
+    "letters": 30,
+    "words": 10,
+    "hint": "William Shakespeare, Hamlet",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/To_be,_or_not_to_be"
+  },
+  {
+    "phrase": "Should auld acquaintance be forgot",
+    "length": 34,
+    "letters": 30,
+    "words": 5,
+    "hint": "Robert Burns, Auld Lang Syne",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/Auld_Lang_Syne"
+  },
+  {
+    "phrase": "We are such stuff as dreams are made on",
+    "length": 39,
+    "letters": 31,
+    "words": 9,
+    "hint": "William Shakespeare, The Tempest",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/The_Tempest"
+  },
+  {
+    "phrase": "Gather ye rosebuds while ye may",
+    "length": 31,
+    "letters": 26,
+    "words": 6,
+    "hint": "Robert Herrick poem",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/To_the_Virgins,_to_Make_Much_of_Time"
+  },
+  {
+    "phrase": "Something is rotten in the state of Denmark",
+    "length": 43,
+    "letters": 36,
+    "words": 8,
+    "hint": "William Shakespeare, Hamlet",
+    "category": "literature",
+    "source": "https://en.wikiquote.org/wiki/Hamlet"
+  },
+  {
+    "phrase": "The best laid schemes of mice and men go oft awry",
+    "length": 49,
+    "letters": 39,
+    "words": 11,
+    "hint": "Proverb from Robert Burns's poem To a Mouse",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/To_a_Mouse"
+  },
+  {
+    "phrase": "If you can keep your head when all about you are losing theirs",
+    "length": 62,
+    "letters": 50,
+    "words": 13,
+    "hint": "Rudyard Kipling, If",
+    "category": "literature",
+    "source": "https://en.wikipedia.org/wiki/If%E2%80%94"
+  }
+]

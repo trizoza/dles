@@ -1,0 +1,1649 @@
+[
+  {
+    "phrase": "When the cat's away, the mice will play",
+    "length": 39,
+    "letters": 30,
+    "words": 8,
+    "hint": "English proverb about unsupervised people",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/when_the_cat's_away_the_mice_will_play"
+  },
+  {
+    "phrase": "A bird in the hand is worth two in the bush",
+    "length": 43,
+    "letters": 33,
+    "words": 11,
+    "hint": "English proverb about not risking what you already have",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/a_bird_in_the_hand_is_worth_two_in_the_bush"
+  },
+  {
+    "phrase": "No pain, no gain",
+    "length": 16,
+    "letters": 12,
+    "words": 4,
+    "hint": "English proverb about hard work paying off",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/No_pain,_no_gain"
+  },
+  {
+    "phrase": "Beware of Greeks bearing gifts",
+    "length": 30,
+    "letters": 26,
+    "words": 5,
+    "hint": "Warning about the Trojan Horse from Virgil's Aeneid",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Beware_of_Greeks_bearing_gifts"
+  },
+  {
+    "phrase": "A picture is worth a thousand words",
+    "length": 35,
+    "letters": 29,
+    "words": 7,
+    "hint": "Adage from 1920s American advertising, often called Chinese",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/A_picture_is_worth_a_thousand_words"
+  },
+  {
+    "phrase": "He who laughs last laughs best",
+    "length": 30,
+    "letters": 25,
+    "words": 6,
+    "hint": "English proverb about final victory",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/he_who_laughs_last_laughs_best"
+  },
+  {
+    "phrase": "Easier said than done",
+    "length": 21,
+    "letters": 18,
+    "words": 4,
+    "hint": "Proverb about the gap between talking and doing",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/easier_said_than_done"
+  },
+  {
+    "phrase": "Brevity is the soul of wit",
+    "length": 26,
+    "letters": 21,
+    "words": 6,
+    "hint": "Line from Shakespeare's Hamlet, now a proverb",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Phrases_from_Hamlet_in_common_English"
+  },
+  {
+    "phrase": "The apple doesn't fall far from the tree",
+    "length": 40,
+    "letters": 32,
+    "words": 8,
+    "hint": "Proverb about children resembling their parents",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/the_apple_doesn't_fall_far_from_the_tree"
+  },
+  {
+    "phrase": "Don't make a mountain out of a molehill",
+    "length": 39,
+    "letters": 31,
+    "words": 8,
+    "hint": "English proverb about overreacting",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Make_a_mountain_out_of_a_molehill"
+  },
+  {
+    "phrase": "A frog in a well does not know the great ocean",
+    "length": 46,
+    "letters": 36,
+    "words": 11,
+    "hint": "Japanese proverb about narrow views",
+    "category": "proverb",
+    "source": "https://en.wikiquote.org/wiki/Japanese_proverbs"
+  },
+  {
+    "phrase": "I came, I saw, I conquered",
+    "length": 26,
+    "letters": 19,
+    "words": 6,
+    "hint": "Julius Caesar's Latin message, veni, vidi, vici",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Veni,_vidi,_vici"
+  },
+  {
+    "phrase": "Old habits die hard",
+    "length": 19,
+    "letters": 16,
+    "words": 4,
+    "hint": "English proverb about routines",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/old_habits_die_hard"
+  },
+  {
+    "phrase": "Good things come to those who wait",
+    "length": 34,
+    "letters": 28,
+    "words": 7,
+    "hint": "Proverb about patience",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/good_things_come_to_those_who_wait"
+  },
+  {
+    "phrase": "Two wrongs don't make a right",
+    "length": 29,
+    "letters": 23,
+    "words": 6,
+    "hint": "English proverb about revenge",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Two_wrongs_don't_make_a_right"
+  },
+  {
+    "phrase": "All for one and one for all",
+    "length": 27,
+    "letters": 21,
+    "words": 7,
+    "hint": "Motto of Alexandre Dumas's The Three Musketeers",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Unus_pro_omnibus,_omnes_pro_uno"
+  },
+  {
+    "phrase": "Love is blind",
+    "length": 13,
+    "letters": 11,
+    "words": 3,
+    "hint": "Proverb about overlooking a loved one's faults",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/love_is_blind"
+  },
+  {
+    "phrase": "If the shoe fits, wear it",
+    "length": 25,
+    "letters": 19,
+    "words": 6,
+    "hint": "English proverb about accepting criticism",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/if_the_shoe_fits,_wear_it"
+  },
+  {
+    "phrase": "A watched pot never boils",
+    "length": 25,
+    "letters": 21,
+    "words": 5,
+    "hint": "English proverb about impatience",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/a_watched_pot_never_boils"
+  },
+  {
+    "phrase": "All roads lead to Rome",
+    "length": 22,
+    "letters": 18,
+    "words": 5,
+    "hint": "Medieval proverb about many paths to one goal",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/All_roads_lead_to_Rome"
+  },
+  {
+    "phrase": "Fortune favors the bold",
+    "length": 23,
+    "letters": 20,
+    "words": 4,
+    "hint": "Latin proverb (fortes fortuna adiuvat)",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Fortune_favours_the_bold"
+  },
+  {
+    "phrase": "The end justifies the means",
+    "length": 27,
+    "letters": 23,
+    "words": 5,
+    "hint": "Saying associated with Machiavelli",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/the_end_justifies_the_means"
+  },
+  {
+    "phrase": "Many hands make light work",
+    "length": 26,
+    "letters": 22,
+    "words": 5,
+    "hint": "English proverb about teamwork",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/many_hands_make_light_work"
+  },
+  {
+    "phrase": "Don't bite off more than you can chew",
+    "length": 37,
+    "letters": 29,
+    "words": 8,
+    "hint": "American proverb about overcommitting",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/bite_off_more_than_one_can_chew"
+  },
+  {
+    "phrase": "A stitch in time saves nine",
+    "length": 27,
+    "letters": 22,
+    "words": 6,
+    "hint": "English proverb about fixing problems early",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/a_stitch_in_time_saves_nine"
+  },
+  {
+    "phrase": "Pride goes before a fall",
+    "length": 24,
+    "letters": 20,
+    "words": 5,
+    "hint": "Biblical proverb from the Book of Proverbs",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/pride_goes_before_a_fall"
+  },
+  {
+    "phrase": "When life gives you lemons, make lemonade",
+    "length": 41,
+    "letters": 34,
+    "words": 7,
+    "hint": "Saying about optimism, coined by Elbert Hubbard",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/When_life_gives_you_lemons,_make_lemonade"
+  },
+  {
+    "phrase": "The grass is always greener on the other side of the fence",
+    "length": 58,
+    "letters": 47,
+    "words": 12,
+    "hint": "English proverb about envy",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/the_grass_is_always_greener_on_the_other_side_of_the_fence"
+  },
+  {
+    "phrase": "Cleanliness is next to godliness",
+    "length": 32,
+    "letters": 28,
+    "words": 5,
+    "hint": "Proverb popularized by John Wesley",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/cleanliness_is_next_to_godliness"
+  },
+  {
+    "phrase": "Seize the day",
+    "length": 13,
+    "letters": 11,
+    "words": 3,
+    "hint": "Latin phrase carpe diem, from the poet Horace",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Carpe_diem"
+  },
+  {
+    "phrase": "All's fair in love and war",
+    "length": 26,
+    "letters": 20,
+    "words": 6,
+    "hint": "Proverb from John Lyly's 1578 novel Euphues",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/all's_fair_in_love_and_war"
+  },
+  {
+    "phrase": "Home is where the heart is",
+    "length": 26,
+    "letters": 21,
+    "words": 6,
+    "hint": "Proverb about love of home, attributed to Pliny the Elder",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/home_is_where_the_heart_is"
+  },
+  {
+    "phrase": "Third time's the charm",
+    "length": 22,
+    "letters": 18,
+    "words": 4,
+    "hint": "Saying about succeeding on the third try",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/third_time's_the_charm"
+  },
+  {
+    "phrase": "Curiosity killed the cat",
+    "length": 24,
+    "letters": 21,
+    "words": 4,
+    "hint": "English proverb warning against being too nosy",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Curiosity_killed_the_cat"
+  },
+  {
+    "phrase": "Man plans, God laughs",
+    "length": 21,
+    "letters": 17,
+    "words": 4,
+    "hint": "Yiddish proverb about the future",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/man_plans_and_God_laughs"
+  },
+  {
+    "phrase": "The proof of the pudding is in the eating",
+    "length": 41,
+    "letters": 33,
+    "words": 9,
+    "hint": "English proverb about judging by results",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/the_proof_of_the_pudding_is_in_the_eating"
+  },
+  {
+    "phrase": "A healthy mind in a healthy body",
+    "length": 32,
+    "letters": 26,
+    "words": 7,
+    "hint": "Latin phrase mens sana in corpore sano, from Juvenal",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Mens_sana_in_corpore_sano"
+  },
+  {
+    "phrase": "Who will guard the guards themselves?",
+    "length": 37,
+    "letters": 31,
+    "words": 6,
+    "hint": "Latin question from the Roman poet Juvenal",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Quis_custodiet_ipsos_custodes%3F"
+  },
+  {
+    "phrase": "Sticks and stones may break my bones, but words will never hurt me",
+    "length": 66,
+    "letters": 53,
+    "words": 13,
+    "hint": "Children's rhyme about ignoring insults",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/sticks_and_stones_may_break_my_bones,_but_words_will_never_hurt_me"
+  },
+  {
+    "phrase": "Beggars can't be choosers",
+    "length": 25,
+    "letters": 21,
+    "words": 4,
+    "hint": "English proverb about accepting what you are offered",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/beggars_can't_be_choosers"
+  },
+  {
+    "phrase": "The pot calling the kettle black",
+    "length": 32,
+    "letters": 27,
+    "words": 6,
+    "hint": "Proverb about hypocrisy, from Don Quixote",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/The_pot_calling_the_kettle_black"
+  },
+  {
+    "phrase": "Patience is a virtue",
+    "length": 20,
+    "letters": 17,
+    "words": 4,
+    "hint": "English proverb about waiting calmly",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Patience_is_a_virtue"
+  },
+  {
+    "phrase": "The nail that sticks out gets hammered down",
+    "length": 43,
+    "letters": 36,
+    "words": 8,
+    "hint": "Japanese proverb about conformity",
+    "category": "proverb",
+    "source": "https://en.wikiquote.org/wiki/Japanese_proverbs"
+  },
+  {
+    "phrase": "I am because we are",
+    "length": 19,
+    "letters": 15,
+    "words": 5,
+    "hint": "Southern African philosophy of Ubuntu",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Ubuntu_philosophy"
+  },
+  {
+    "phrase": "Haste makes waste",
+    "length": 17,
+    "letters": 15,
+    "words": 3,
+    "hint": "English proverb about rushing",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/haste_makes_waste"
+  },
+  {
+    "phrase": "A chain is only as strong as its weakest link",
+    "length": 45,
+    "letters": 36,
+    "words": 10,
+    "hint": "English proverb about teamwork and weak points",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/a_chain_is_only_as_strong_as_its_weakest_link"
+  },
+  {
+    "phrase": "Speech is silver, silence is golden",
+    "length": 35,
+    "letters": 29,
+    "words": 6,
+    "hint": "Proverb popularized in English by Thomas Carlyle",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Speech_is_silver,_silence_is_golden"
+  },
+  {
+    "phrase": "Where there's a will, there's a way",
+    "length": 35,
+    "letters": 26,
+    "words": 7,
+    "hint": "English proverb about determination",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/where_there_is_a_will_there_is_a_way"
+  },
+  {
+    "phrase": "In wine there is truth",
+    "length": 22,
+    "letters": 18,
+    "words": 5,
+    "hint": "Latin proverb in vino veritas",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/In_vino_veritas"
+  },
+  {
+    "phrase": "The road to hell is paved with good intentions",
+    "length": 46,
+    "letters": 38,
+    "words": 9,
+    "hint": "Proverb about well-meant mistakes",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/The_road_to_hell_is_paved_with_good_intentions"
+  },
+  {
+    "phrase": "Beauty is in the eye of the beholder",
+    "length": 36,
+    "letters": 29,
+    "words": 8,
+    "hint": "English proverb about taste being personal",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/beauty_is_in_the_eye_of_the_beholder"
+  },
+  {
+    "phrase": "Liberty, equality, fraternity",
+    "length": 29,
+    "letters": 25,
+    "words": 3,
+    "hint": "Motto of the French Revolution",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Libert%C3%A9,_%C3%A9galit%C3%A9,_fraternit%C3%A9"
+  },
+  {
+    "phrase": "Fool me once, shame on you; fool me twice, shame on me",
+    "length": 54,
+    "letters": 40,
+    "words": 12,
+    "hint": "English proverb about being deceived",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/fool_me_once,_shame_on_you%3B_fool_me_twice,_shame_on_me"
+  },
+  {
+    "phrase": "Make hay while the sun shines",
+    "length": 29,
+    "letters": 24,
+    "words": 6,
+    "hint": "Farming proverb about using good opportunities",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/make_hay_while_the_sun_shines"
+  },
+  {
+    "phrase": "The devil is in the details",
+    "length": 27,
+    "letters": 22,
+    "words": 6,
+    "hint": "Proverb about small things causing trouble",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/The_devil_is_in_the_details"
+  },
+  {
+    "phrase": "Know your enemy and know yourself",
+    "length": 33,
+    "letters": 28,
+    "words": 6,
+    "hint": "Sun Tzu, The Art of War",
+    "category": "proverb",
+    "source": "https://en.wikiquote.org/wiki/Sun_Tzu"
+  },
+  {
+    "phrase": "If at first you don't succeed, try, try again",
+    "length": 45,
+    "letters": 34,
+    "words": 9,
+    "hint": "English proverb about perseverance",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/if_at_first_you_don't_succeed"
+  },
+  {
+    "phrase": "Every cloud has a silver lining",
+    "length": 31,
+    "letters": 26,
+    "words": 6,
+    "hint": "English proverb about hope in bad times",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Silver_lining_(idiom)"
+  },
+  {
+    "phrase": "When in Rome, do as the Romans do",
+    "length": 33,
+    "letters": 25,
+    "words": 8,
+    "hint": "Proverb from Saint Ambrose about local customs",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/When_in_Rome,_do_as_the_Romans_do"
+  },
+  {
+    "phrase": "Fall down seven times, get up eight",
+    "length": 35,
+    "letters": 28,
+    "words": 7,
+    "hint": "Japanese proverb about resilience",
+    "category": "proverb",
+    "source": "https://en.wikiquote.org/wiki/Japanese_proverbs"
+  },
+  {
+    "phrase": "Don't cry over spilt milk",
+    "length": 25,
+    "letters": 20,
+    "words": 5,
+    "hint": "English proverb about regretting what can't be undone",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/cry_over_spilt_milk"
+  },
+  {
+    "phrase": "The best things in life are free",
+    "length": 32,
+    "letters": 26,
+    "words": 7,
+    "hint": "Saying about simple pleasures, from a 1927 song",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/the_best_things_in_life_are_free"
+  },
+  {
+    "phrase": "When it rains, it pours",
+    "length": 23,
+    "letters": 18,
+    "words": 5,
+    "hint": "Saying about troubles arriving together",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/when_it_rains,_it_pours"
+  },
+  {
+    "phrase": "First come, first served",
+    "length": 24,
+    "letters": 20,
+    "words": 4,
+    "hint": "Proverb about fairness in queues",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/first_come,_first_served"
+  },
+  {
+    "phrase": "Seeing is believing",
+    "length": 19,
+    "letters": 17,
+    "words": 3,
+    "hint": "English proverb about needing proof",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/seeing_is_believing"
+  },
+  {
+    "phrase": "Where there's smoke, there's fire",
+    "length": 33,
+    "letters": 26,
+    "words": 5,
+    "hint": "English proverb about rumors having some truth",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/where_there's_smoke,_there's_fire"
+  },
+  {
+    "phrase": "All that glitters is not gold",
+    "length": 29,
+    "letters": 24,
+    "words": 6,
+    "hint": "Proverb made famous by Shakespeare's The Merchant of Venice",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/All_that_glitters_is_not_gold"
+  },
+  {
+    "phrase": "The best defense is a good offense",
+    "length": 34,
+    "letters": 28,
+    "words": 7,
+    "hint": "Military and sports proverb about attacking first",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/The_best_defense_is_a_good_offense"
+  },
+  {
+    "phrase": "Desperate times call for desperate measures",
+    "length": 43,
+    "letters": 38,
+    "words": 6,
+    "hint": "Proverb traced to Hippocrates",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/desperate_times_call_for_desperate_measures"
+  },
+  {
+    "phrase": "There's no time like the present",
+    "length": 32,
+    "letters": 26,
+    "words": 6,
+    "hint": "English proverb about acting now",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/there's_no_time_like_the_present"
+  },
+  {
+    "phrase": "Lightning never strikes twice in the same place",
+    "length": 47,
+    "letters": 40,
+    "words": 8,
+    "hint": "Saying about rare events not repeating",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/lightning_never_strikes_twice_in_the_same_place"
+  },
+  {
+    "phrase": "Revenge is a dish best served cold",
+    "length": 34,
+    "letters": 28,
+    "words": 7,
+    "hint": "Proverb about patient revenge, of French origin",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/revenge_is_a_dish_best_served_cold"
+  },
+  {
+    "phrase": "Two heads are better than one",
+    "length": 29,
+    "letters": 24,
+    "words": 6,
+    "hint": "English proverb about working together",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/two_heads_are_better_than_one"
+  },
+  {
+    "phrase": "Birds of a feather flock together",
+    "length": 33,
+    "letters": 28,
+    "words": 6,
+    "hint": "English proverb about similar people sticking together",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Birds_of_a_feather_flock_together"
+  },
+  {
+    "phrase": "Teachers open the door, you enter by yourself",
+    "length": 45,
+    "letters": 37,
+    "words": 8,
+    "hint": "Chinese proverb about learning",
+    "category": "proverb",
+    "source": "https://en.wikiquote.org/wiki/Chinese_proverbs"
+  },
+  {
+    "phrase": "There's no such thing as a free lunch",
+    "length": 37,
+    "letters": 29,
+    "words": 8,
+    "hint": "American saying about hidden costs",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/No_such_thing_as_a_free_lunch"
+  },
+  {
+    "phrase": "Better safe than sorry",
+    "length": 22,
+    "letters": 19,
+    "words": 4,
+    "hint": "English proverb about caution",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/better_safe_than_sorry"
+  },
+  {
+    "phrase": "Don't judge a book by its cover",
+    "length": 31,
+    "letters": 24,
+    "words": 7,
+    "hint": "English proverb about appearances",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Don't_judge_a_book_by_its_cover"
+  },
+  {
+    "phrase": "Put your money where your mouth is",
+    "length": 34,
+    "letters": 28,
+    "words": 7,
+    "hint": "American saying about backing up your words",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/put_one's_money_where_one's_mouth_is"
+  },
+  {
+    "phrase": "Practice makes perfect",
+    "length": 22,
+    "letters": 20,
+    "words": 3,
+    "hint": "English proverb about repetition",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/practice_makes_perfect"
+  },
+  {
+    "phrase": "Don't put all your eggs in one basket",
+    "length": 37,
+    "letters": 29,
+    "words": 8,
+    "hint": "English proverb about spreading your risk",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/don't_put_all_your_eggs_in_one_basket"
+  },
+  {
+    "phrase": "Never put off until tomorrow what you can do today",
+    "length": 50,
+    "letters": 41,
+    "words": 10,
+    "hint": "English proverb about procrastination",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/never_put_off_until_tomorrow_what_you_can_do_today"
+  },
+  {
+    "phrase": "Look before you leap",
+    "length": 20,
+    "letters": 17,
+    "words": 4,
+    "hint": "Proverb from Aesop's fable of the fox and the goat",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/look_before_one_leaps"
+  },
+  {
+    "phrase": "Variety is the spice of life",
+    "length": 28,
+    "letters": 23,
+    "words": 6,
+    "hint": "Line from William Cowper's 1785 poem The Task",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/variety_is_the_spice_of_life"
+  },
+  {
+    "phrase": "People who live in glass houses shouldn't throw stones",
+    "length": 54,
+    "letters": 45,
+    "words": 9,
+    "hint": "English proverb about hypocrisy",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/people_who_live_in_glass_houses_shouldn't_throw_stones"
+  },
+  {
+    "phrase": "You can lead a horse to water, but you can't make it drink",
+    "length": 58,
+    "letters": 44,
+    "words": 13,
+    "hint": "Medieval English proverb about free will",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/you_can_lead_a_horse_to_water,_but_you_can't_make_it_drink"
+  },
+  {
+    "phrase": "What you do not want done to yourself, do not do to others",
+    "length": 58,
+    "letters": 45,
+    "words": 13,
+    "hint": "Confucius, The Analects",
+    "category": "proverb",
+    "source": "https://en.wikiquote.org/wiki/Confucius"
+  },
+  {
+    "phrase": "You can't have your cake and eat it too",
+    "length": 39,
+    "letters": 30,
+    "words": 9,
+    "hint": "English proverb about having it both ways",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/You_can't_have_your_cake_and_eat_it"
+  },
+  {
+    "phrase": "A fool and his money are soon parted",
+    "length": 36,
+    "letters": 29,
+    "words": 8,
+    "hint": "English proverb about wasting money",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/a_fool_and_his_money_are_soon_parted"
+  },
+  {
+    "phrase": "Knowledge is power",
+    "length": 18,
+    "letters": 16,
+    "words": 3,
+    "hint": "Latin scientia potentia est, from Francis Bacon",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Knowledge_is_power"
+  },
+  {
+    "phrase": "If you can't beat them, join them",
+    "length": 33,
+    "letters": 25,
+    "words": 7,
+    "hint": "American political proverb",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/if_you_can't_beat_them,_join_them"
+  },
+  {
+    "phrase": "Great oaks from little acorns grow",
+    "length": 34,
+    "letters": 29,
+    "words": 6,
+    "hint": "Proverb about big things from small beginnings",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/great_oaks_from_little_acorns_grow"
+  },
+  {
+    "phrase": "Know thyself",
+    "length": 12,
+    "letters": 11,
+    "words": 2,
+    "hint": "Ancient Greek maxim inscribed at Delphi",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Know_thyself"
+  },
+  {
+    "phrase": "Trust, but verify",
+    "length": 17,
+    "letters": 14,
+    "words": 3,
+    "hint": "Russian proverb popularized by Ronald Reagan",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Trust,_but_verify"
+  },
+  {
+    "phrase": "Easy come, easy go",
+    "length": 18,
+    "letters": 14,
+    "words": 4,
+    "hint": "English proverb about money that slips away",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/easy_come,_easy_go"
+  },
+  {
+    "phrase": "Two's company, three's a crowd",
+    "length": 30,
+    "letters": 23,
+    "words": 5,
+    "hint": "English proverb about couples",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/two's_company,_three's_a_crowd"
+  },
+  {
+    "phrase": "Kill two birds with one stone",
+    "length": 29,
+    "letters": 24,
+    "words": 6,
+    "hint": "English proverb about doing two things at once",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/kill_two_birds_with_one_stone"
+  },
+  {
+    "phrase": "You only live once",
+    "length": 18,
+    "letters": 15,
+    "words": 4,
+    "hint": "Modern saying about seizing life",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/you_only_live_once"
+  },
+  {
+    "phrase": "Honesty is the best policy",
+    "length": 26,
+    "letters": 22,
+    "words": 5,
+    "hint": "English proverb about telling the truth",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/honesty_is_the_best_policy"
+  },
+  {
+    "phrase": "Let sleeping dogs lie",
+    "length": 21,
+    "letters": 18,
+    "words": 4,
+    "hint": "English proverb about not stirring up trouble",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Let_sleeping_dogs_lie"
+  },
+  {
+    "phrase": "Great minds think alike",
+    "length": 23,
+    "letters": 20,
+    "words": 4,
+    "hint": "English proverb about agreeing with someone",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/great_minds_think_alike"
+  },
+  {
+    "phrase": "Speak of the devil",
+    "length": 18,
+    "letters": 15,
+    "words": 4,
+    "hint": "Saying used when someone appears just as you mention them",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Speak_of_the_devil"
+  },
+  {
+    "phrase": "It takes two to tango",
+    "length": 21,
+    "letters": 17,
+    "words": 5,
+    "hint": "Saying about shared responsibility, from a 1952 song",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/It_takes_two_to_tango"
+  },
+  {
+    "phrase": "The more things change, the more they stay the same",
+    "length": 51,
+    "letters": 41,
+    "words": 10,
+    "hint": "French saying by Alphonse Karr",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/the_more_things_change,_the_more_they_stay_the_same"
+  },
+  {
+    "phrase": "Familiarity breeds contempt",
+    "length": 27,
+    "letters": 25,
+    "words": 3,
+    "hint": "Ancient proverb about growing too used to someone",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/familiarity_breeds_contempt"
+  },
+  {
+    "phrase": "Don't put the cart before the horse",
+    "length": 35,
+    "letters": 28,
+    "words": 7,
+    "hint": "English proverb about doing things in the right order",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Cart_before_the_horse"
+  },
+  {
+    "phrase": "Necessity is the mother of invention",
+    "length": 36,
+    "letters": 31,
+    "words": 6,
+    "hint": "English proverb about problems driving creativity",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Necessity_is_the_mother_of_invention"
+  },
+  {
+    "phrase": "One swallow does not make a summer",
+    "length": 34,
+    "letters": 28,
+    "words": 7,
+    "hint": "Ancient Greek proverb quoted by Aristotle",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/one_swallow_does_not_make_a_summer"
+  },
+  {
+    "phrase": "Out of the frying pan into the fire",
+    "length": 35,
+    "letters": 28,
+    "words": 8,
+    "hint": "English proverb about going from bad to worse",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Out_of_the_frying_pan_into_the_fire"
+  },
+  {
+    "phrase": "Don't bite the hand that feeds you",
+    "length": 34,
+    "letters": 27,
+    "words": 7,
+    "hint": "English proverb about ingratitude",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/bite_the_hand_that_feeds_one"
+  },
+  {
+    "phrase": "If it ain't broke, don't fix it",
+    "length": 31,
+    "letters": 22,
+    "words": 7,
+    "hint": "American saying about leaving working things alone",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/if_it_ain't_broke,_don't_fix_it"
+  },
+  {
+    "phrase": "Better the devil you know than the devil you don't",
+    "length": 50,
+    "letters": 40,
+    "words": 10,
+    "hint": "Proverb about choosing the familiar",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/better_the_devil_you_know_than_the_devil_you_don't"
+  },
+  {
+    "phrase": "Jack of all trades, master of none",
+    "length": 34,
+    "letters": 27,
+    "words": 7,
+    "hint": "Proverb about knowing a little of everything",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Jack_of_all_trades"
+  },
+  {
+    "phrase": "A journey of a thousand miles begins with a single step",
+    "length": 55,
+    "letters": 45,
+    "words": 11,
+    "hint": "Ancient Chinese saying from Laozi's Tao Te Ching",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/A_journey_of_a_thousand_miles_begins_with_a_single_step"
+  },
+  {
+    "phrase": "A leopard cannot change its spots",
+    "length": 33,
+    "letters": 28,
+    "words": 6,
+    "hint": "Biblical proverb about people's true nature",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/a_leopard_cannot_change_its_spots"
+  },
+  {
+    "phrase": "A penny saved is a penny earned",
+    "length": 31,
+    "letters": 25,
+    "words": 7,
+    "hint": "English proverb about thrift, popularized by Benjamin Franklin",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/a_penny_saved_is_a_penny_earned"
+  },
+  {
+    "phrase": "Strike while the iron is hot",
+    "length": 28,
+    "letters": 23,
+    "words": 6,
+    "hint": "Blacksmith proverb about seizing the moment",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/strike_while_the_iron_is_hot"
+  },
+  {
+    "phrase": "There's no place like home",
+    "length": 26,
+    "letters": 21,
+    "words": 5,
+    "hint": "Saying from the 1823 song Home! Sweet Home!",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/there's_no_place_like_home"
+  },
+  {
+    "phrase": "Nothing ventured, nothing gained",
+    "length": 32,
+    "letters": 28,
+    "words": 4,
+    "hint": "English proverb about taking risks",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/nothing_ventured,_nothing_gained"
+  },
+  {
+    "phrase": "The early bird catches the worm",
+    "length": 31,
+    "letters": 26,
+    "words": 6,
+    "hint": "English proverb about getting up early",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/the_early_bird_catches_the_worm"
+  },
+  {
+    "phrase": "It takes a village to raise a child",
+    "length": 35,
+    "letters": 28,
+    "words": 8,
+    "hint": "Proverb often said to be of African origin, about community",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/It_takes_a_village"
+  },
+  {
+    "phrase": "Out of sight, out of mind",
+    "length": 25,
+    "letters": 19,
+    "words": 6,
+    "hint": "English proverb about forgetting what you can't see",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/out_of_sight,_out_of_mind"
+  },
+  {
+    "phrase": "This too shall pass",
+    "length": 19,
+    "letters": 16,
+    "words": 4,
+    "hint": "Persian Sufi saying about impermanence",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/This_too_shall_pass"
+  },
+  {
+    "phrase": "The more, the merrier",
+    "length": 21,
+    "letters": 17,
+    "words": 4,
+    "hint": "English proverb about inviting more people",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/the_more_the_merrier"
+  },
+  {
+    "phrase": "Absence makes the heart grow fonder",
+    "length": 35,
+    "letters": 30,
+    "words": 6,
+    "hint": "English proverb about missing someone",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Absence_makes_the_heart_grow_fonder"
+  },
+  {
+    "phrase": "Like father, like son",
+    "length": 21,
+    "letters": 17,
+    "words": 4,
+    "hint": "Proverb about children taking after their parents",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/like_father,_like_son"
+  },
+  {
+    "phrase": "Slow and steady wins the race",
+    "length": 29,
+    "letters": 24,
+    "words": 6,
+    "hint": "Moral of Aesop's fable The Tortoise and the Hare",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/slow_and_steady_wins_the_race"
+  },
+  {
+    "phrase": "April showers bring May flowers",
+    "length": 31,
+    "letters": 27,
+    "words": 5,
+    "hint": "English weather proverb about spring",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/April_shower"
+  },
+  {
+    "phrase": "Every dog has its day",
+    "length": 21,
+    "letters": 17,
+    "words": 5,
+    "hint": "English proverb about everyone getting a chance",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/every_dog_has_its_day"
+  },
+  {
+    "phrase": "One man's trash is another man's treasure",
+    "length": 41,
+    "letters": 33,
+    "words": 7,
+    "hint": "Saying about taste being personal",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/one_man's_trash_is_another_man's_treasure"
+  },
+  {
+    "phrase": "Better late than never",
+    "length": 22,
+    "letters": 19,
+    "words": 4,
+    "hint": "English proverb about arriving late",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/better_late_than_never"
+  },
+  {
+    "phrase": "A friend in need is a friend indeed",
+    "length": 35,
+    "letters": 28,
+    "words": 8,
+    "hint": "English proverb about true friendship",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/a_friend_in_need_is_a_friend_indeed"
+  },
+  {
+    "phrase": "Early to bed and early to rise, makes a man healthy, wealthy, and wise",
+    "length": 70,
+    "letters": 54,
+    "words": 14,
+    "hint": "Benjamin Franklin, Poor Richard's Almanack",
+    "category": "proverb",
+    "source": "https://en.wikiquote.org/wiki/Poor_Richard's_Almanack"
+  },
+  {
+    "phrase": "An apple a day keeps the doctor away",
+    "length": 36,
+    "letters": 29,
+    "words": 8,
+    "hint": "Welsh-origin proverb about healthy eating",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/An_apple_a_day_keeps_the_doctor_away"
+  },
+  {
+    "phrase": "Love conquers all",
+    "length": 17,
+    "letters": 15,
+    "words": 3,
+    "hint": "Latin omnia vincit amor, from the poet Virgil",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Love_Conquers_All"
+  },
+  {
+    "phrase": "You reap what you sow",
+    "length": 21,
+    "letters": 17,
+    "words": 5,
+    "hint": "Biblical proverb about consequences",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/reap_what_one_sows"
+  },
+  {
+    "phrase": "He who hesitates is lost",
+    "length": 24,
+    "letters": 20,
+    "words": 5,
+    "hint": "Proverb adapted from Joseph Addison's 1713 play Cato",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/he_who_hesitates_is_lost"
+  },
+  {
+    "phrase": "Give a man a fish, and you feed him for a day",
+    "length": 45,
+    "letters": 33,
+    "words": 12,
+    "hint": "Proverb often called Chinese, traced to a Victorian English novel",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Give_a_man_a_fish_and_you_feed_him_for_a_day%3B_teach_a_man_to_fish_and_you_feed_him_for_a_lifetime"
+  },
+  {
+    "phrase": "Rome wasn't built in a day",
+    "length": 26,
+    "letters": 20,
+    "words": 6,
+    "hint": "Medieval proverb about big things taking time",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/Rome_wasn't_built_in_a_day"
+  },
+  {
+    "phrase": "Too many cooks spoil the broth",
+    "length": 30,
+    "letters": 25,
+    "words": 6,
+    "hint": "English proverb about too many people in charge",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/too_many_cooks_spoil_the_broth"
+  },
+  {
+    "phrase": "Finders keepers, losers weepers",
+    "length": 31,
+    "letters": 27,
+    "words": 4,
+    "hint": "Children's saying about lost property",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/finders,_keepers%3B_losers,_weepers"
+  },
+  {
+    "phrase": "Time flies",
+    "length": 10,
+    "letters": 9,
+    "words": 2,
+    "hint": "Latin tempus fugit, from Virgil",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Tempus_fugit"
+  },
+  {
+    "phrase": "Don't burn your bridges",
+    "length": 23,
+    "letters": 19,
+    "words": 4,
+    "hint": "English proverb about keeping options open",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/burn_one's_bridges"
+  },
+  {
+    "phrase": "Blood is thicker than water",
+    "length": 27,
+    "letters": 23,
+    "words": 5,
+    "hint": "English proverb about family loyalty",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Blood_is_thicker_than_water"
+  },
+  {
+    "phrase": "Waste not, want not",
+    "length": 19,
+    "letters": 15,
+    "words": 4,
+    "hint": "English proverb about not wasting things",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/waste_not,_want_not"
+  },
+  {
+    "phrase": "The enemy of my enemy is my friend",
+    "length": 34,
+    "letters": 27,
+    "words": 8,
+    "hint": "Ancient proverb traced to India's Arthashastra",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/The_enemy_of_my_enemy_is_my_friend"
+  },
+  {
+    "phrase": "All good things must come to an end",
+    "length": 35,
+    "letters": 28,
+    "words": 8,
+    "hint": "English proverb about nothing lasting forever",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/all_good_things_must_come_to_an_end"
+  },
+  {
+    "phrase": "Whatever will be, will be",
+    "length": 25,
+    "letters": 20,
+    "words": 5,
+    "hint": "Saying made famous by Doris Day's 1956 song Que Sera, Sera",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Que_Sera,_Sera_(Whatever_Will_Be,_Will_Be)"
+  },
+  {
+    "phrase": "The die is cast",
+    "length": 15,
+    "letters": 12,
+    "words": 4,
+    "hint": "Julius Caesar crossing the Rubicon, alea iacta est",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Alea_iacta_est"
+  },
+  {
+    "phrase": "Even monkeys fall from trees",
+    "length": 28,
+    "letters": 24,
+    "words": 5,
+    "hint": "Japanese proverb: even experts make mistakes",
+    "category": "proverb",
+    "source": "https://en.wikiquote.org/wiki/Japanese_proverbs"
+  },
+  {
+    "phrase": "You can't make an omelette without breaking eggs",
+    "length": 48,
+    "letters": 40,
+    "words": 8,
+    "hint": "Proverb about necessary sacrifices",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/you_can't_make_an_omelette_without_breaking_eggs"
+  },
+  {
+    "phrase": "Still waters run deep",
+    "length": 21,
+    "letters": 18,
+    "words": 4,
+    "hint": "Latin-origin proverb about quiet people",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Still_waters_run_deep"
+  },
+  {
+    "phrase": "Discretion is the better part of valor",
+    "length": 38,
+    "letters": 32,
+    "words": 7,
+    "hint": "Proverb from Shakespeare's Henry IV, Part 1",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/discretion_is_the_better_part_of_valor"
+  },
+  {
+    "phrase": "Monkey see, monkey do",
+    "length": 21,
+    "letters": 17,
+    "words": 4,
+    "hint": "American saying about copying others",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Monkey_see,_monkey_do"
+  },
+  {
+    "phrase": "You can't teach an old dog new tricks",
+    "length": 37,
+    "letters": 29,
+    "words": 8,
+    "hint": "English proverb about older people and change",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/you_can't_teach_an_old_dog_new_tricks"
+  },
+  {
+    "phrase": "Time and tide wait for no man",
+    "length": 29,
+    "letters": 23,
+    "words": 7,
+    "hint": "Old English proverb about time passing",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/time_and_tide_wait_for_no_man"
+  },
+  {
+    "phrase": "Money doesn't grow on trees",
+    "length": 27,
+    "letters": 22,
+    "words": 5,
+    "hint": "English saying about money being hard to earn",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/money_doesn't_grow_on_trees"
+  },
+  {
+    "phrase": "First, do no harm",
+    "length": 17,
+    "letters": 13,
+    "words": 4,
+    "hint": "Medical principle primum non nocere",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Primum_non_nocere"
+  },
+  {
+    "phrase": "Don't throw the baby out with the bathwater",
+    "length": 43,
+    "letters": 35,
+    "words": 8,
+    "hint": "German-origin proverb about overreacting",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Don't_throw_the_baby_out_with_the_bathwater"
+  },
+  {
+    "phrase": "Be careful what you wish for",
+    "length": 28,
+    "letters": 23,
+    "words": 6,
+    "hint": "Proverb about unintended consequences",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/be_careful_what_you_wish_for"
+  },
+  {
+    "phrase": "The bigger they are, the harder they fall",
+    "length": 41,
+    "letters": 33,
+    "words": 8,
+    "hint": "Saying attributed to boxer Bob Fitzsimmons",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/the_bigger_they_are,_the_harder_they_fall"
+  },
+  {
+    "phrase": "Idle hands are the devil's workshop",
+    "length": 35,
+    "letters": 29,
+    "words": 6,
+    "hint": "Proverb warning against laziness",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/idle_hands_are_the_devil's_workshop"
+  },
+  {
+    "phrase": "What doesn't kill you makes you stronger",
+    "length": 40,
+    "letters": 33,
+    "words": 7,
+    "hint": "Proverb derived from Friedrich Nietzsche",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/what_doesn't_kill_you_makes_you_stronger"
+  },
+  {
+    "phrase": "He who knows does not speak; he who speaks does not know",
+    "length": 56,
+    "letters": 44,
+    "words": 12,
+    "hint": "Laozi, Tao Te Ching",
+    "category": "proverb",
+    "source": "https://en.wikiquote.org/wiki/Laozi"
+  },
+  {
+    "phrase": "A rolling stone gathers no moss",
+    "length": 31,
+    "letters": 26,
+    "words": 6,
+    "hint": "Ancient proverb about staying on the move",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/A_rolling_stone_gathers_no_moss"
+  },
+  {
+    "phrase": "May you live in interesting times",
+    "length": 33,
+    "letters": 28,
+    "words": 6,
+    "hint": "Supposed ancient Chinese curse with no known Chinese source",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/May_you_live_in_interesting_times"
+  },
+  {
+    "phrase": "What's good for the goose is good for the gander",
+    "length": 48,
+    "letters": 38,
+    "words": 10,
+    "hint": "English proverb about equal treatment",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/what's_good_for_the_goose_is_good_for_the_gander"
+  },
+  {
+    "phrase": "Laughter is the best medicine",
+    "length": 29,
+    "letters": 25,
+    "words": 5,
+    "hint": "English proverb about humor and health",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/laughter_is_the_best_medicine"
+  },
+  {
+    "phrase": "What goes around comes around",
+    "length": 29,
+    "letters": 25,
+    "words": 5,
+    "hint": "Saying about consequences and karma",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/what_goes_around_comes_around"
+  },
+  {
+    "phrase": "The dogs bark, but the caravan goes on",
+    "length": 38,
+    "letters": 30,
+    "words": 8,
+    "hint": "Middle Eastern proverb about ignoring critics",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/the_dogs_bark,_but_the_caravan_goes_on"
+  },
+  {
+    "phrase": "Don't count your chickens before they hatch",
+    "length": 43,
+    "letters": 36,
+    "words": 7,
+    "hint": "Proverb from Aesop's fable of the milkmaid",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/don't_count_your_chickens_before_they're_hatched"
+  },
+  {
+    "phrase": "You are what you eat",
+    "length": 20,
+    "letters": 16,
+    "words": 5,
+    "hint": "Saying about diet and health",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/you_are_what_you_eat"
+  },
+  {
+    "phrase": "Measure twice, cut once",
+    "length": 23,
+    "letters": 19,
+    "words": 4,
+    "hint": "Carpenter's proverb about checking before you act",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/measure_twice,_cut_once"
+  },
+  {
+    "phrase": "An ounce of prevention is worth a pound of cure",
+    "length": 47,
+    "letters": 38,
+    "words": 10,
+    "hint": "Benjamin Franklin's advice on fire safety",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/an_ounce_of_prevention_is_worth_a_pound_of_cure"
+  },
+  {
+    "phrase": "Once bitten, twice shy",
+    "length": 22,
+    "letters": 18,
+    "words": 4,
+    "hint": "English proverb about learning from a bad experience",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/once_bitten,_twice_shy"
+  },
+  {
+    "phrase": "Time heals all wounds",
+    "length": 21,
+    "letters": 18,
+    "words": 4,
+    "hint": "Proverb about recovering from grief",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/time_heals_all_wounds"
+  },
+  {
+    "phrase": "If you want peace, prepare for war",
+    "length": 34,
+    "letters": 27,
+    "words": 7,
+    "hint": "Latin si vis pacem, para bellum",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/Si_vis_pacem,_para_bellum"
+  },
+  {
+    "phrase": "Tomorrow is another day",
+    "length": 23,
+    "letters": 20,
+    "words": 4,
+    "hint": "Proverb about hope, famously said by Scarlett O'Hara",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/tomorrow_is_another_day"
+  },
+  {
+    "phrase": "The squeaky wheel gets the grease",
+    "length": 33,
+    "letters": 28,
+    "words": 6,
+    "hint": "American proverb about complaining loudly",
+    "category": "proverb",
+    "source": "https://en.wikipedia.org/wiki/The_squeaky_wheel_gets_the_grease"
+  },
+  {
+    "phrase": "You can't please everyone",
+    "length": 25,
+    "letters": 21,
+    "words": 4,
+    "hint": "Proverb about trying to satisfy everybody",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/you_cannot_please_everyone"
+  },
+  {
+    "phrase": "No news is good news",
+    "length": 20,
+    "letters": 16,
+    "words": 5,
+    "hint": "English proverb about not hearing from someone",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/no_news_is_good_news"
+  },
+  {
+    "phrase": "Actions speak louder than words",
+    "length": 31,
+    "letters": 27,
+    "words": 5,
+    "hint": "English proverb about deeds versus promises",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/actions_speak_louder_than_words"
+  },
+  {
+    "phrase": "Don't look a gift horse in the mouth",
+    "length": 36,
+    "letters": 28,
+    "words": 8,
+    "hint": "English proverb about accepting gifts gracefully",
+    "category": "proverb",
+    "source": "https://en.wiktionary.org/wiki/don't_look_a_gift_horse_in_the_mouth"
+  }
+]

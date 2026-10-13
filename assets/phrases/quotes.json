@@ -1,0 +1,677 @@
+[
+  {
+    "phrase": "Houston, we have a problem",
+    "length": 26,
+    "letters": 21,
+    "words": 5,
+    "hint": "Apollo 13 radio message, as popularly quoted",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Houston,_we_have_a_problem"
+  },
+  {
+    "phrase": "The medium is the message",
+    "length": 25,
+    "letters": 21,
+    "words": 5,
+    "hint": "Media theorist Marshall McLuhan",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/The_medium_is_the_message"
+  },
+  {
+    "phrase": "Remember the Alamo!",
+    "length": 19,
+    "letters": 16,
+    "words": 3,
+    "hint": "Texas battle cry, 1836",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Battle_of_San_Jacinto"
+  },
+  {
+    "phrase": "Keep calm and carry on",
+    "length": 22,
+    "letters": 18,
+    "words": 5,
+    "hint": "British World War II poster slogan",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On"
+  },
+  {
+    "phrase": "Man is born free, and everywhere he is in chains",
+    "length": 48,
+    "letters": 38,
+    "words": 10,
+    "hint": "Jean-Jacques Rousseau, The Social Contract",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Jean-Jacques_Rousseau"
+  },
+  {
+    "phrase": "The report of my death was an exaggeration",
+    "length": 42,
+    "letters": 35,
+    "words": 8,
+    "hint": "Mark Twain, 1897",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Mark_Twain"
+  },
+  {
+    "phrase": "The best way to predict the future is to invent it",
+    "length": 50,
+    "letters": 40,
+    "words": 11,
+    "hint": "Alan Kay, computer scientist",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Alan_Kay"
+  },
+  {
+    "phrase": "Dr. Livingstone, I presume?",
+    "length": 27,
+    "letters": 21,
+    "words": 4,
+    "hint": "Henry Morton Stanley, explorer, 1871",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/David_Livingstone"
+  },
+  {
+    "phrase": "Here I stand, I can do no other",
+    "length": 31,
+    "letters": 23,
+    "words": 8,
+    "hint": "Martin Luther, 1521",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Martin_Luther"
+  },
+  {
+    "phrase": "To love oneself is the beginning of a lifelong romance",
+    "length": 54,
+    "letters": 45,
+    "words": 10,
+    "hint": "Oscar Wilde, An Ideal Husband",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Oscar_Wilde"
+  },
+  {
+    "phrase": "The perfect is the enemy of the good",
+    "length": 36,
+    "letters": 29,
+    "words": 8,
+    "hint": "Saying popularized by Voltaire",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good"
+  },
+  {
+    "phrase": "Darkness cannot drive out darkness; only light can do that",
+    "length": 58,
+    "letters": 48,
+    "words": 10,
+    "hint": "Martin Luther King Jr.",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Martin_Luther_King_Jr."
+  },
+  {
+    "phrase": "Ask not what your country can do for you",
+    "length": 40,
+    "letters": 32,
+    "words": 9,
+    "hint": "US President John F. Kennedy, 1961",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Inauguration_of_John_F._Kennedy"
+  },
+  {
+    "phrase": "Stay hungry, stay foolish",
+    "length": 25,
+    "letters": 21,
+    "words": 4,
+    "hint": "Steve Jobs, Stanford speech, 2005",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Steve_Jobs"
+  },
+  {
+    "phrase": "Mr. Watson, come here, I want to see you",
+    "length": 40,
+    "letters": 29,
+    "words": 9,
+    "hint": "Alexander Graham Bell's first telephone call",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Alexander_Graham_Bell"
+  },
+  {
+    "phrase": "Damn the torpedoes, full speed ahead!",
+    "length": 37,
+    "letters": 30,
+    "words": 6,
+    "hint": "US Admiral David Farragut, 1864, as popularly quoted",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Battle_of_Mobile_Bay"
+  },
+  {
+    "phrase": "The arc of the moral universe is long, but it bends toward justice",
+    "length": 66,
+    "letters": 53,
+    "words": 13,
+    "hint": "Martin Luther King Jr.",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Martin_Luther_King_Jr."
+  },
+  {
+    "phrase": "Speak softly and carry a big stick",
+    "length": 34,
+    "letters": 28,
+    "words": 7,
+    "hint": "US President Theodore Roosevelt",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Big_stick_ideology"
+  },
+  {
+    "phrase": "Don't fire until you see the whites of their eyes",
+    "length": 49,
+    "letters": 39,
+    "words": 10,
+    "hint": "Order at the Battle of Bunker Hill, 1775",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Battle_of_Bunker_Hill"
+  },
+  {
+    "phrase": "The buck stops here",
+    "length": 19,
+    "letters": 16,
+    "words": 4,
+    "hint": "Sign on US President Harry S. Truman's desk",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Buck_passing"
+  },
+  {
+    "phrase": "A house divided against itself cannot stand",
+    "length": 43,
+    "letters": 37,
+    "words": 7,
+    "hint": "Abraham Lincoln, 1858 speech",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Lincoln's_House_Divided_Speech"
+  },
+  {
+    "phrase": "If I have seen further, it is by standing on the shoulders of giants",
+    "length": 68,
+    "letters": 54,
+    "words": 14,
+    "hint": "Isaac Newton, letter to Robert Hooke, 1675",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants"
+  },
+  {
+    "phrase": "Go West, young man",
+    "length": 18,
+    "letters": 14,
+    "words": 4,
+    "hint": "Advice associated with newspaper editor Horace Greeley",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Go_West,_young_man"
+  },
+  {
+    "phrase": "A date which will live in infamy",
+    "length": 32,
+    "letters": 26,
+    "words": 7,
+    "hint": "Franklin D. Roosevelt on Pearl Harbor, 1941",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Day_of_Infamy_speech"
+  },
+  {
+    "phrase": "Give me liberty, or give me death!",
+    "length": 34,
+    "letters": 26,
+    "words": 7,
+    "hint": "Patrick Henry, American revolutionary, 1775",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Give_me_liberty_or_give_me_death!"
+  },
+  {
+    "phrase": "Anything that can go wrong will go wrong",
+    "length": 40,
+    "letters": 33,
+    "words": 8,
+    "hint": "Murphy's law",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Murphy's_law"
+  },
+  {
+    "phrase": "Mr. Gorbachev, tear down this wall!",
+    "length": 35,
+    "letters": 27,
+    "words": 6,
+    "hint": "US President Ronald Reagan, Berlin, 1987",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Tear_down_this_wall!"
+  },
+  {
+    "phrase": "I shall return",
+    "length": 14,
+    "letters": 12,
+    "words": 3,
+    "hint": "General Douglas MacArthur, 1942",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Douglas_MacArthur"
+  },
+  {
+    "phrase": "Education is the most powerful weapon we can use to change the world",
+    "length": 68,
+    "letters": 56,
+    "words": 13,
+    "hint": "Nelson Mandela",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Nelson_Mandela"
+  },
+  {
+    "phrase": "Less is more",
+    "length": 12,
+    "letters": 10,
+    "words": 3,
+    "hint": "Architect Ludwig Mies van der Rohe",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Ludwig_Mies_van_der_Rohe"
+  },
+  {
+    "phrase": "One must imagine Sisyphus happy",
+    "length": 31,
+    "letters": 27,
+    "words": 5,
+    "hint": "Albert Camus, The Myth of Sisyphus",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Albert_Camus"
+  },
+  {
+    "phrase": "Elementary, my dear Watson",
+    "length": 26,
+    "letters": 22,
+    "words": 4,
+    "hint": "Catchphrase of Sherlock Holmes, never written by Arthur Conan Doyle",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes"
+  },
+  {
+    "phrase": "Never was so much owed by so many to so few",
+    "length": 43,
+    "letters": 33,
+    "words": 11,
+    "hint": "Winston Churchill on the RAF pilots, 1940",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Never_was_so_much_owed_by_so_many_to_so_few"
+  },
+  {
+    "phrase": "Survival of the fittest",
+    "length": 23,
+    "letters": 20,
+    "words": 4,
+    "hint": "Herbert Spencer, describing Darwin's theory",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Survival_of_the_fittest"
+  },
+  {
+    "phrase": "I can resist everything except temptation",
+    "length": 41,
+    "letters": 36,
+    "words": 6,
+    "hint": "Oscar Wilde, Lady Windermere's Fan",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Oscar_Wilde"
+  },
+  {
+    "phrase": "That's one small step for man, one giant leap for mankind",
+    "length": 57,
+    "letters": 45,
+    "words": 11,
+    "hint": "Neil Armstrong on the Moon, 1969",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Neil_Armstrong"
+  },
+  {
+    "phrase": "What hath God wrought",
+    "length": 21,
+    "letters": 18,
+    "words": 4,
+    "hint": "First long-distance telegraph message, 1844",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/What_hath_God_wrought"
+  },
+  {
+    "phrase": "Any sufficiently advanced technology is indistinguishable from magic",
+    "length": 68,
+    "letters": 61,
+    "words": 8,
+    "hint": "Arthur C. Clarke's third law",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Clarke's_three_laws"
+  },
+  {
+    "phrase": "The unexamined life is not worth living",
+    "length": 39,
+    "letters": 33,
+    "words": 7,
+    "hint": "Socrates, as recorded in Plato's Apology",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/The_unexamined_life_is_not_worth_living"
+  },
+  {
+    "phrase": "In the future, everyone will be world-famous for fifteen minutes",
+    "length": 64,
+    "letters": 53,
+    "words": 10,
+    "hint": "Prediction attributed to artist Andy Warhol",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/15_minutes_of_fame"
+  },
+  {
+    "phrase": "All men are created equal",
+    "length": 25,
+    "letters": 21,
+    "words": 5,
+    "hint": "US Declaration of Independence, 1776",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/All_men_are_created_equal"
+  },
+  {
+    "phrase": "Injustice anywhere is a threat to justice everywhere",
+    "length": 52,
+    "letters": 45,
+    "words": 8,
+    "hint": "Martin Luther King Jr., Letter from Birmingham Jail",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Letter_from_Birmingham_Jail"
+  },
+  {
+    "phrase": "I have not yet begun to fight!",
+    "length": 30,
+    "letters": 23,
+    "words": 7,
+    "hint": "John Paul Jones, American naval captain, 1779",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/John_Paul_Jones"
+  },
+  {
+    "phrase": "It was a dark and stormy night",
+    "length": 30,
+    "letters": 24,
+    "words": 7,
+    "hint": "Opening line of Edward Bulwer-Lytton's novel Paul Clifford",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/It_was_a_dark_and_stormy_night"
+  },
+  {
+    "phrase": "Let them eat cake",
+    "length": 17,
+    "letters": 14,
+    "words": 4,
+    "hint": "Phrase famously, but wrongly, attributed to Marie Antoinette",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Let_them_eat_cake"
+  },
+  {
+    "phrase": "Four score and seven years ago",
+    "length": 30,
+    "letters": 25,
+    "words": 6,
+    "hint": "Abraham Lincoln, Gettysburg Address, 1863",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Gettysburg_Address"
+  },
+  {
+    "phrase": "The weak can never forgive. Forgiveness is the attribute of the strong",
+    "length": 70,
+    "letters": 58,
+    "words": 12,
+    "hint": "Mahatma Gandhi",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Mahatma_Gandhi"
+  },
+  {
+    "phrase": "Those who cannot remember the past are condemned to repeat it",
+    "length": 61,
+    "letters": 51,
+    "words": 11,
+    "hint": "George Santayana, philosopher",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/George_Santayana"
+  },
+  {
+    "phrase": "I am the greatest",
+    "length": 17,
+    "letters": 14,
+    "words": 4,
+    "hint": "Muhammad Ali, boxer",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Muhammad_Ali"
+  },
+  {
+    "phrase": "Imagination is more important than knowledge",
+    "length": 44,
+    "letters": 39,
+    "words": 6,
+    "hint": "Albert Einstein, 1929 interview",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Albert_Einstein"
+  },
+  {
+    "phrase": "Three may keep a secret, if two of them are dead",
+    "length": 48,
+    "letters": 37,
+    "words": 11,
+    "hint": "Benjamin Franklin, Poor Richard's Almanack",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Benjamin_Franklin"
+  },
+  {
+    "phrase": "It ain't over till it's over",
+    "length": 28,
+    "letters": 21,
+    "words": 6,
+    "hint": "Yogi Berra, baseball legend",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Yogi_Berra"
+  },
+  {
+    "phrase": "When you come to a fork in the road, take it",
+    "length": 44,
+    "letters": 33,
+    "words": 11,
+    "hint": "Yogi Berra, baseball legend",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Yogi_Berra"
+  },
+  {
+    "phrase": "I only regret that I have but one life to lose for my country",
+    "length": 61,
+    "letters": 48,
+    "words": 14,
+    "hint": "Nathan Hale, American spy, 1776",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Nathan_Hale"
+  },
+  {
+    "phrase": "We are all in the gutter, but some of us are looking at the stars",
+    "length": 65,
+    "letters": 50,
+    "words": 15,
+    "hint": "Oscar Wilde, Lady Windermere's Fan",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Oscar_Wilde"
+  },
+  {
+    "phrase": "I think, therefore I am",
+    "length": 23,
+    "letters": 18,
+    "words": 5,
+    "hint": "Rene Descartes, French philosopher, 1637",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Cogito,_ergo_sum"
+  },
+  {
+    "phrase": "If you tell the truth you don't have to remember anything",
+    "length": 57,
+    "letters": 46,
+    "words": 11,
+    "hint": "Mark Twain, notebook",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Mark_Twain"
+  },
+  {
+    "phrase": "Genius is one percent inspiration, ninety-nine percent perspiration",
+    "length": 67,
+    "letters": 58,
+    "words": 8,
+    "hint": "Thomas Edison, inventor",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Thomas_Edison"
+  },
+  {
+    "phrase": "Workers of the world, unite!",
+    "length": 28,
+    "letters": 22,
+    "words": 5,
+    "hint": "Karl Marx and Friedrich Engels, The Communist Manifesto",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Workers_of_the_world,_unite!"
+  },
+  {
+    "phrase": "Power tends to corrupt, and absolute power corrupts absolutely",
+    "length": 62,
+    "letters": 53,
+    "words": 9,
+    "hint": "Lord Acton, British historian",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/John_Dalberg-Acton,_1st_Baron_Acton"
+  },
+  {
+    "phrase": "We shall fight on the beaches",
+    "length": 29,
+    "letters": 24,
+    "words": 6,
+    "hint": "Winston Churchill, 1940",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/We_shall_fight_on_the_beaches"
+  },
+  {
+    "phrase": "And yet it moves",
+    "length": 16,
+    "letters": 13,
+    "words": 4,
+    "hint": "Words legendarily muttered by Galileo Galilei",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/And_yet_it_moves"
+  },
+  {
+    "phrase": "Government of the people, by the people, for the people",
+    "length": 55,
+    "letters": 44,
+    "words": 10,
+    "hint": "Abraham Lincoln, Gettysburg Address, 1863",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Gettysburg_Address"
+  },
+  {
+    "phrase": "Time is money",
+    "length": 13,
+    "letters": 11,
+    "words": 3,
+    "hint": "Benjamin Franklin, Advice to a Young Tradesman",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Benjamin_Franklin"
+  },
+  {
+    "phrase": "I know that I know nothing",
+    "length": 26,
+    "letters": 21,
+    "words": 6,
+    "hint": "Saying attributed to Socrates",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/I_know_that_I_know_nothing"
+  },
+  {
+    "phrase": "Life, liberty and the pursuit of happiness",
+    "length": 42,
+    "letters": 35,
+    "words": 7,
+    "hint": "US Declaration of Independence, 1776",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Life,_Liberty_and_the_pursuit_of_Happiness"
+  },
+  {
+    "phrase": "Hell is other people",
+    "length": 20,
+    "letters": 17,
+    "words": 4,
+    "hint": "Jean-Paul Sartre, from the play No Exit",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Jean-Paul_Sartre"
+  },
+  {
+    "phrase": "The only thing we have to fear is fear itself",
+    "length": 45,
+    "letters": 36,
+    "words": 10,
+    "hint": "US President Franklin D. Roosevelt, 1933",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/First_inauguration_of_Franklin_D._Roosevelt"
+  },
+  {
+    "phrase": "The pen is mightier than the sword",
+    "length": 34,
+    "letters": 28,
+    "words": 7,
+    "hint": "Edward Bulwer-Lytton, from the play Richelieu, 1839",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/The_pen_is_mightier_than_the_sword"
+  },
+  {
+    "phrase": "In this world nothing can be said to be certain, except death and taxes",
+    "length": 71,
+    "letters": 57,
+    "words": 14,
+    "hint": "Benjamin Franklin, letter of 1789",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Benjamin_Franklin"
+  },
+  {
+    "phrase": "I have a dream",
+    "length": 14,
+    "letters": 11,
+    "words": 4,
+    "hint": "Martin Luther King Jr., 1963",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/I_Have_a_Dream"
+  },
+  {
+    "phrase": "Old soldiers never die; they just fade away",
+    "length": 43,
+    "letters": 35,
+    "words": 8,
+    "hint": "General Douglas MacArthur, 1951",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Douglas_MacArthur"
+  },
+  {
+    "phrase": "Give me a place to stand, and I will move the earth",
+    "length": 51,
+    "letters": 39,
+    "words": 12,
+    "hint": "Archimedes, Greek mathematician",
+    "category": "quote",
+    "source": "https://en.wikiquote.org/wiki/Archimedes"
+  },
+  {
+    "phrase": "I have nothing to offer but blood, toil, tears and sweat",
+    "length": 56,
+    "letters": 44,
+    "words": 11,
+    "hint": "Winston Churchill, 1940",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Blood,_toil,_tears_and_sweat"
+  },
+  {
+    "phrase": "Float like a butterfly, sting like a bee",
+    "length": 40,
+    "letters": 32,
+    "words": 8,
+    "hint": "Muhammad Ali, boxer",
+    "category": "quote",
+    "source": "https://en.wikipedia.org/wiki/Muhammad_Ali"
+  }
+]

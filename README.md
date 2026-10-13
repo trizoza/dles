@@ -69,6 +69,24 @@ The **`wordfreq-*`** lists are generated automatically with the open-source [wor
 - [12 letter popular words (wordfreq)](assets/words/enable/wordfreq-most-popular-12-letter-words.txt) - 660 words
 - [13 letter popular words (wordfreq)](assets/words/enable/wordfreq-most-popular-13-letter-words.txt) - 357 words
 
+## Phrases
+
+Hangman and other phrase-guessing games need sayings that most people already know. This collection has 994 of them: proverbs from around the world, famous quotes, movie lines, song titles, public-domain song lyrics, and well-known lines from literature, the Bible, fairy tales and nursery rhymes. Each entry has the `phrase` itself, its `length` (all characters), `letters` (letters only, the ones a player has to guess) and `words` counts, a `hint` that says what it is (e.g. "Ancient Chinese saying from Laozi's Tao Te Ching", "Winston Churchill, 1940" or "Rick Blaine (Humphrey Bogart) in Casablanca, 1942"), a `category` (`proverb`, `quote`, `movie`, `song`, `lyric`, `literature`, `bible` or `folklore`) and a `source` link to Wikipedia, Wiktionary, Wikiquote or the American Film Institute, where you can check the wording and attribution yourself. The hints were written for this list rather than copied from those pages. Every phrase was checked against its source page, and quotes Wikiquote lists as misattributed or disputed were left out. Phrases use plain ASCII letters and punctuation with no digits, and the full list is pre-shuffled, so you can simply use entry _n_ on day _n_ and get a good mix. If your game only needs one kind of phrase, grab one of the category lists instead.
+
+The movie lines start with [AFI's 100 Years...100 Movie Quotes](https://www.afi.com/afis-100-years-100-movie-quotes/), the top 100 American movie quotes as voted by 1,500 film artists, critics and historians, plus the best-known lines from AFI's 400 nominees. Newer favourites from Pixar, Marvel, The Lord of the Rings, Harry Potter and more were added from each film's Wikiquote page, since AFI's list stops in 2003.
+
+Song lyrics are a different story: even a single chorus is protected by copyright, and music publishers actively enforce it, so you won't find modern lyrics here. Instead there are two song lists. The first is song titles, which aren't copyrighted and often are the chorus anyway, with the artist and release year as the hint (e.g. "Song by Queen, 1975"). They're mostly US number-one hits from Billboard's Hot 100 since 1958, plus all-time classics that never topped the US chart, and the artist and year come from each song's Wikipedia article. The second is real lyric lines, but only from songs that are in the public domain: traditional folk songs, spirituals, hymns, Christmas carols, children's songs, sea shanties, national anthems and old standards published before 1931 whose writers died before 1956, so they're free to use in both the US and Europe.
+
+- [Proverbs](assets/phrases/proverbs.json) - 183 proverbs and old sayings from around the world
+- [Movies](assets/phrases/movies.json) - 239 famous movie lines, from Gone with the Wind to Top Gun: Maverick
+- [Songs](assets/phrases/songs.json) - 260 famous song titles with the artist and year, from Rock Around the Clock to Die with a Smile
+- [Lyrics](assets/phrases/lyrics.json) - 130 lines from public-domain songs, from Amazing Grace to Jingle Bells
+- [Quotes](assets/phrases/quotes.json) - 75 famous quotes from historical figures, scientists, writers and sports legends
+- [Literature](assets/phrases/literature.json) - 69 famous lines from plays, novels and poems
+- [Bible](assets/phrases/bible.json) - 22 well-known Bible sayings
+- [Folklore](assets/phrases/folklore.json) - 16 lines from fairy tales, fables and nursery rhymes
+- [All phrases](assets/phrases/all.json) - 994 phrases - the complete list, enough for over two and a half years of daily puzzles
+
 ## Images
 
 - [Unsplash](https://unsplash.com/) - free photos
@@ -88,7 +106,7 @@ The **`wordfreq-*`** lists are generated automatically with the open-source [wor
 
 I decided to open source the entire collection of DLES I collect at [dles.gg](https://dles.gg). I will be updating this list at the end of each week. If you're in search for the latest games, please head to [dles.gg/games/newest](https://dles.gg/games/newest) instead, otherwise use this mirror if you need to download the entire games list at once.
 
-- [DLES](assets/daily-games/dles.json) - 977 daily games listed on [dles.gg](https://dles.gg) with names, URLs and descriptions, sorted by a date added to the collection
+- [DLES](assets/daily-games/dles.json) - 1058 daily games listed on [dles.gg](https://dles.gg) with names, URLs and descriptions, sorted by a date added to the collection
 
 ## Contribute
 

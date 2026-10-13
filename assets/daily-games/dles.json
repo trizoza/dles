@@ -1,5 +1,533 @@
 [
   {
+    "name": "Who Farted?",
+    "description": "Everyone stuck in an elevator makes 1 statement, and the culprit who farted always lies. Find the person whose lie makes every other statement true, with 3 wrong accusations allowed and a hint that narrows down where the culprit is standing. The daily notice adds twists, such as a mime who only points or an innocent who lies too, and difficulty rises from Monday to Sunday.",
+    "url": "https://whofartedgame.com",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Sonar Puzzle",
+    "description": "Find 5 hidden subs on a 6x6 grid with 10 pings. The subs always sit in the same chain shape, in 1 of 4 orientations, and each miss shows how many steps away the nearest unfound sub is, with diagonal steps counting as 1. Sink all 5 before your pings run out.",
+    "url": "https://sonarpuzzle.com",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Word Spill",
+    "description": "Clear a 5x5 letter grid, 6x6 on Sundays, by tracing words of 3 or more touching letters in any direction. Used tiles vanish, the letters above fall and empty columns slide left, with no new letters added. Tiles carry point values that longer words multiply, and a word of 5 or more letters charges the tiles around it to score double in your next word. 3 swaps of side-by-side tiles help when the board stalls, and unused ones earn bonus points.",
+    "url": "https://playwordspill.com",
+    "category": "Words"
+  },
+  {
+    "name": "EraGuessr",
+    "description": "Look around 5 AI-generated 360° scenes of historical moments, then pin where each one is on a world map and set its year on a timeline. Location and year are each worth up to 5,000 points per scene, scored on how close you land, with 90 seconds per scene.",
+    "url": "https://eraguessr.ai/play/daily",
+    "category": "History"
+  },
+  {
+    "name": "Pipcross",
+    "description": "Place every die from the pool into the grid so its pips match the clues beside each row and column. Each clue lists the runs of consecutive pips in that line, in order, and a run can carry across neighboring dice. 3 boards a day: Mini, Classic and Spin, where the 2, 3 and 6 dice can also be rotated to face the right way.",
+    "url": "https://puzzmallow.com/pipcross",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Spectrle",
+    "description": "Name the movie from a disc built out of 500 frames sampled evenly across the whole film, with its release year and tagline as starting clues. You have 5 guesses, and each wrong guess or skip reveals a written hint and a clearer version of the disc. A second mode does the same for video games.",
+    "url": "https://spectrle.games/?utm_source=dlesgg&utm_medium=post",
+    "category": "Movies and Series"
+  },
+  {
+    "name": "Scorewit Footyphoria",
+    "description": "6 multiple-choice questions on Premier League history since 1992-93, 4 options each and 100 points per question. Facts are computed from match data and cover title winners, clubs and results season by season. Everyone gets the same 6, with a practice mode and a club filter.",
+    "url": "https://www.scorewit.com/footyphoria",
+    "category": "Sports"
+  },
+  {
+    "name": "Matchsticks",
+    "description": "Find the hidden 5-letter word. Each guess shows only how many of its letters also appear in the answer, never which ones or where they sit. Rule letters in or out on the deduction ledger and solve it in as few guesses as you can.",
+    "url": "https://thehardest.us/matchsticks",
+    "category": "Words"
+  },
+  {
+    "name": "Kpop Heardle",
+    "description": "Listen to a clip of up to 30 seconds from each of 3 K-pop songs and pick the right track from 4 options. You get 1 pick per song, and the clip can be replayed as often as you like before you answer. Your score is how many of the 3 you name.",
+    "url": "https://kpopheardle.org",
+    "category": "Music"
+  },
+  {
+    "name": "Guess the News",
+    "description": "A real news headline is shown with 1 word blanked out. Type a guess for the missing word, and each one is rated from cold to hot by how close its meaning is to the answer. Keep narrowing in until you find it, with an optional hint or a reveal if you get stuck.",
+    "url": "https://guessthenews.com",
+    "category": "Words"
+  },
+  {
+    "name": "Periodle",
+    "description": "Guess a word spelled from 5 elements of the periodic table in 8 tries, so guesses run from 5 to 10 letters. A green element is in the right spot, yellow is in the answer but in another spot, and grey is not in it at all. Orange means that element is not in the answer, but its letters appear inside the answer's other elements.",
+    "url": "https://heptaveegesimal.com/periodle",
+    "category": "Words"
+  },
+  {
+    "name": "Guess Mint",
+    "description": "Work out who issued a real historical coin and roughly when it was struck. Each guess pairs an issuer, picked from a map showing every state, empire, city-state and tribe minting in the year you set, with that year on the timeline. You learn how far your issuer's capital is from the right one and which way to go, and whether the coin is earlier or later than your year. Get both right within 6 guesses. Whichever half you solve first locks in, and the back of the coin unlocks after your second guess.",
+    "url": "https://guessmint.com",
+    "category": "History"
+  },
+  {
+    "name": "Middle Word",
+    "description": "Two words are shown, and the answer is the common word that sits halfway between them in alphabetical order. You have 10 guesses. Each one shows how many dictionary words separate it from the answer, and lands above the answer if it comes earlier in the alphabet or below it if it comes later.",
+    "url": "https://pzlgames.com/games/middleword",
+    "category": "Words"
+  },
+  {
+    "name": "Perfect Game",
+    "description": "In each of 3 rounds, pick which of 3 Nintendo games has the highest worldwide sales, Metacritic user score or Metacritic critic score, depending on the round. You get 1 pick per round, and the 3 games you choose combine into a made-up game with a mashup title and cover to share.",
+    "url": "https://www.n-puzzle.com/en/perfect-game",
+    "category": "Video Games"
+  },
+  {
+    "name": "NintenDoku",
+    "description": "Fill a 3x3 grid with Nintendo games. Each cell needs a game that matches both its row and its column category, such as a series, a console, a genre or a release era. You have 12 guesses, each game can be used only once, and rarer answers score more points.",
+    "url": "https://www.n-puzzle.com/en/nintendoku",
+    "category": "Video Games"
+  },
+  {
+    "name": "Amsterdammed",
+    "description": "Draw 1 closed loop of canal that passes through every open square exactly once. It can never cross itself or cut through a wall, and the walls are marked by houses, windmills and tulips. The puzzle is timed and gets harder as the week goes on.",
+    "url": "https://greatest.games/g/amsterdammed",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Play Kakuro",
+    "description": "Fill every white cell with a digit from 1 to 9 so that each horizontal and vertical run adds up to the clue beside it, with no digit repeated within a run. A new puzzle comes out at each of 3 difficulties: easy, medium and hard.",
+    "url": "https://playkakuro.com",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Daily Minesweeper",
+    "description": "Reveal every safe cell on a small board whose shape changes from day to day, without uncovering a mine. Each number shows how many mines touch that cell, and the flag counter shows how many mines are hidden. The opening area is already revealed, so you never start with a blind click.",
+    "url": "https://dailyminesweeper.com",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Aura Clue",
+    "description": "Guess the hidden word. Each guess shows how many dictionary words sit between it and the answer, and whether the answer comes earlier or later in the alphabet. Keep closing the gap until you land on it.",
+    "url": "https://auraclue.com",
+    "category": "Words"
+  },
+  {
+    "name": "Winding Path",
+    "description": "Draw 1 continuous line from one dot to the other that passes through every open tile in the grid exactly once, steering around the walls.",
+    "url": "https://puzzlebun.co/winding-path",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Hidden Joey",
+    "description": "Each of 3 rounds shows a word that hides its own synonym, spelled with some of its letters in order, the way blossom hides bloom. Tap those letters from left to right to spell the hidden word. You get 3 tries per round, and free hints if you get stuck.",
+    "url": "https://hiddenjoey.com",
+    "category": "Words"
+  },
+  {
+    "name": "Mineracer Daily",
+    "description": "Clear a 16x16 board hiding 40 mines as fast as you can. Click a tile to reveal it, and each number shows how many of its neighboring tiles hold a mine. Reveal every safe tile to win. The first click is always safe, and only your first run counts.",
+    "url": "https://mineracer.com/daily",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "WorldGuessr",
+    "description": "Look around a Street View location and drop a pin on the world map where you think it is. There are 3 rounds of 60 seconds each, and each scores up to 5,000 points depending on how close your pin lands, for a maximum of 15,000.",
+    "url": "https://www.worldguessr.com/daily",
+    "category": "Geography"
+  },
+  {
+    "name": "Weighsies",
+    "description": "Guess how many of one item it takes to balance another on a scale, such as bowling balls against a penguin, with one guess at each of 5 weigh-ins.",
+    "url": "https://www.weighsies.dev",
+    "category": "Guessing"
+  },
+  {
+    "name": "ThroughWord",
+    "description": "Sort 12 words into 4 groups of 3 that share a link, then find the hidden word that fits into every group. 4 mistakes are allowed.",
+    "url": "https://throughword.app",
+    "category": "Words"
+  },
+  {
+    "name": "Puttsies",
+    "description": "Play 9 holes of mini golf, dragging back and releasing to putt, and sink each ball in as few strokes as you can against the par.",
+    "url": "https://www.puttsies.dev",
+    "category": "Sports"
+  },
+  {
+    "name": "New Yorker - Laugh Lines",
+    "description": "Place 5 New Yorker cartoons on a timeline in order of when they were first published, dragging each new card into its slot. Each correct placement earns a point, and wrong ones are moved to the right spot for you.",
+    "url": "https://www.newyorker.com/puzzles-and-games-dept/laugh-lines",
+    "category": "History"
+  },
+  {
+    "name": "Guess the Chain",
+    "description": "Name the US chain business from a map of all its locations in 6 guesses. Each wrong guess shows whether it is the same kind of business, whether the real chain has more or fewer stores and how much the two maps overlap, and optional clues reveal more.",
+    "url": "https://guessthechain.com",
+    "category": "Geography"
+  },
+  {
+    "name": "Definitions",
+    "description": "Swap words between 3 scrambled dictionary entries to put every word back in its right place, within 20 swaps. Green marks a word in the right spot, yellow a word in the right entry but the wrong spot, and gray a word in the wrong entry.",
+    "url": "https://pzlgames.com/games/definitions/",
+    "category": "Words"
+  },
+  {
+    "name": "Crowdle.gg",
+    "description": "Guess the 4 most common answers to a prompt that thousands of players were asked. Guesses are unlimited, close answers appear under the grid, and 3 hints each reveal another letter of the next answer.",
+    "url": "https://crowdle.gg",
+    "category": "Guessing"
+  },
+  {
+    "name": "Mentle",
+    "description": "Solve 20 mental arithmetic problems against one running clock. A wrong answer does not move you on, so keep typing until it is right. Your total time is your score.",
+    "url": "https://mentle.gg",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Jihanki",
+    "description": "Restock a vending machine grid by placing every brand and product pairing exactly once. Each brand and each product type must appear once in every row and column, and the day's extra placement rules must all be obeyed.",
+    "url": "https://puzzmallow.com/jihanki",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Real Flag / Fake Flag",
+    "description": "Decide whether each of 7 flags is real or fake. Real flags include national, regional, city, historical and organisation flags, while fakes are redesigns, mashups and invented flags. The flags get harder as you go.",
+    "url": "https://realflagfakeflag.com",
+    "category": "Geography"
+  },
+  {
+    "name": "Chainle",
+    "description": "In each of 5 rounds, type one word that best connects the clue words, or the word closest in meaning to a single clue. Words are scored by how close they are in meaning to every clue at once, up to 1000 points per round, with one guess each.",
+    "url": "https://chainle.io",
+    "category": "Words"
+  },
+  {
+    "name": "Sporcle - WorldPlay",
+    "description": "Find the destination city by flying between cities. Each city you type reveals a clue about the destination, such as its letter count, its first or last letters, shared letter positions or a direction that rules out part of the map. Use as few and as short flights as possible.",
+    "url": "https://www.sporcle.com/worldplay/play",
+    "category": "Geography"
+  },
+  {
+    "name": "Sporcle - Chess Attack",
+    "description": "Checkmate the computer in as few moves as possible on a 6x6 board with the day's mix of pieces. Standard moves apply, without castling or en passant, and pawns always promote to queens.",
+    "url": "https://www.sporcle.com/chess-attack/play",
+    "category": "Tabletop Games"
+  },
+  {
+    "name": "Yellow Yellow",
+    "description": "Win by guessing an anagram of the secret 5-letter word in which no letter sits in its original position, in 6 tries. Feedback compares each guess to the secret word, with green for a letter in the right spot, yellow for a letter in the word but in the wrong spot, and gray for a letter not in the word.",
+    "url": "https://yellowyellow.xyz/",
+    "category": "Words"
+  },
+  {
+    "name": "Size It Up - Geography",
+    "description": "Resize the silhouette of a country or place to its real scale next to a reference shape. 5 rounds score up to 100 points each for accuracy.",
+    "url": "https://magnitudle.com/size-it-up/geography",
+    "category": "Geography"
+  },
+  {
+    "name": "GeoPaint",
+    "description": "One color is cut out of a real country flag. Rebuild it with hue, saturation and brightness sliders, scoring more the closer you get to the official shade, over 5 rounds.",
+    "url": "https://georankle.io/geopaint",
+    "category": "Geography"
+  },
+  {
+    "name": "HexHunt",
+    "description": "Find 7 places on a world map by tapping the hex cell you think each one is in, with 3 guesses per place. Zooming in gives smaller hexes that score more, while zooming out is safer.",
+    "url": "https://thehexhunt.com",
+    "category": "Geography"
+  },
+  {
+    "name": "Lettergrams",
+    "description": "Use every tile in your rack to build valid, connected words on a small board with letter and word bonus squares. Score as many points as you can to earn up to 5 stars.",
+    "url": "https://puzzlist.com/lettergrams",
+    "category": "Words"
+  },
+  {
+    "name": "Perceptle",
+    "description": "Take 5 tiny tests of perceptual instinct, such as estimating a count, judging an angle and tapping a rhythm, in about 2 minutes, and combine them into one score.",
+    "url": "https://perceptle.com",
+    "category": "Visual"
+  },
+  {
+    "name": "VTuble",
+    "description": "Guess the mystery VTuber, with each guess compared on traits such as hair color and character type. Extra modes reverse the clues and ask you to name a VTuber song from clips that grow from 1 to 16 seconds.",
+    "url": "https://www.vtuble.moe",
+    "category": "Trivia"
+  },
+  {
+    "name": "Time Machine (MLB)",
+    "description": "Guess the year of a Major League Baseball game from its full box score in 6 tries, with higher or lower hints after each miss.",
+    "url": "https://boxscore.email/games/time-machine",
+    "category": "Sports"
+  },
+  {
+    "name": "Rabbithole",
+    "description": "Answer 7 trivia questions in a chain, where each correct answer becomes part of the next question and each question is a little harder than the last. A question is worth 3 points answered unaided, 2 with a hint and 1 by picking from multiple choice, for 21 points at most.",
+    "url": "https://www.theatlantic.com/games/rabbithole/",
+    "category": "Trivia"
+  },
+  {
+    "name": "Quotadle",
+    "description": "Type out the day's memorable quote over its faded text, letter by letter, as quickly and accurately as you can.",
+    "url": "https://quotadle.com",
+    "category": "Words"
+  },
+  {
+    "name": "Petalgrams",
+    "description": "Make words from the letters of a flower, always using the center letter, with letters reusable. Finding a pangram that uses every letter levels you up and adds a new letter, while other words cost a guess in exchange for a hint. Complete the 10-letter flower to win.",
+    "url": "https://petalgrams.com",
+    "category": "Words"
+  },
+  {
+    "name": "Per Night",
+    "description": "Guess the price of one night at a real hotel in 6 tries, with anything within 5% counting as right. Each wrong guess unlocks another photo and clue, an arrow shows whether the price is higher or lower, and a color shows how close you were.",
+    "url": "https://pernight.app",
+    "category": "Guessing"
+  },
+  {
+    "name": "Patchdle",
+    "description": "Guess the video game from its real patch notes in 6 tries. Each wrong guess or skip reveals another note, and guesses from the same series or developer are flagged.",
+    "url": "https://patchdle.com",
+    "category": "Video Games"
+  },
+  {
+    "name": "Mowkoban",
+    "description": "Drive a mower across the lawn to cut every grass tile in as few moves as possible. Tall grass needs 2 passes, and rocks and fences block the way.",
+    "url": "https://mowkoban.com/",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Lawndle",
+    "description": "Mow every grass tile and park in the shed in as few steps as possible. The mower throws clippings 2 tiles to its right, and spraying a pond or pushing a ball into a fence or pond costs 2 extra steps.",
+    "url": "https://johalloran.dev/lawndle/",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "haggle",
+    "description": "Guess the price of 5 real products, one guess each. The closer you get, the higher your score.",
+    "url": "https://haggle.gg",
+    "category": "Guessing"
+  },
+  {
+    "name": "Fermi",
+    "description": "Estimate the answers to 3 hard-to-know quantity questions with no searching, just reasoning and a built-in calculator. Each guess is scored by how many times off the real answer it is.",
+    "url": "https://fermi.gg",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Estimania",
+    "description": "Estimate the numbers behind 5 real-world facts on the day's theme. The closer each guess, the more points you score.",
+    "url": "https://estimania.app",
+    "category": "Trivia"
+  },
+  {
+    "name": "Dowsle",
+    "description": "Find the secret word by guessing. Every guess shows 2 separate scores, how close it is in meaning and how close it is in spelling.",
+    "url": "https://dowsle.com",
+    "category": "Words"
+  },
+  {
+    "name": "Zaggle",
+    "description": "Read a clue, then trace its answer through adjacent letters in the grid, diagonals included. Found words disappear and the letters above drop down. Find all 10 words to clear the board.",
+    "url": "https://playzaggle.com",
+    "category": "Words"
+  },
+  {
+    "name": "Underline",
+    "description": "Complete a chain of common phrases where the last word of each phrase is the first word of the next, filling in the blanks as fast as you can.",
+    "url": "https://www.fromthethink.com/underline",
+    "category": "Words"
+  },
+  {
+    "name": "Cascadle",
+    "description": "Solve a chain of 5 words that grow from 3 to 7 letters, where each solved word is a hint for the next. Green marks a letter in the right spot, yellow a letter in the word but in the wrong spot, and gray a letter not in the word.",
+    "url": "https://cascadle.xyz",
+    "category": "Words"
+  },
+  {
+    "name": "Geozee",
+    "description": "Place 9 countries, one at a time, into 9 categories such as landlocked, island nation or flag with a star. Each category takes one country and scores up to 100 points for how well it fits, with no changes once placed.",
+    "url": "https://geozee.earth",
+    "category": "Geography"
+  },
+  {
+    "name": "Flag Connections",
+    "description": "Group 16 flags into sets of 4, where each set shares a different trait with the flag of the day. 4 mistakes are allowed.",
+    "url": "https://flagdoku.com/connections.html",
+    "category": "Geography"
+  },
+  {
+    "name": "New Yorker - Catalogues",
+    "description": "Drag a list of items into the correct order in 5 guesses, using the title as a hint for how they are ranked. Correctly placed items turn green and lock, and a clue button gives an extra hint.",
+    "url": "https://www.newyorker.com/puzzles-and-games-dept/catalogues",
+    "category": "Trivia"
+  },
+  {
+    "name": "Bean Sort",
+    "description": "Sort the colored coffee beans so each tube holds a single color. Tap a tube to pick up its top beans, then tap another tube to drop them, which only works on an empty tube or one whose top bean matches. Your time is your score.",
+    "url": "https://coffeefirst.games/bean-sort",
+    "category": "Colors"
+  },
+  {
+    "name": "The Split",
+    "description": "Answer the day's yes or no question, then predict what percentage of players worldwide will answer yes. The results and how close your prediction was are revealed the next day.",
+    "url": "https://www.timecube.in",
+    "category": "Guessing"
+  },
+  {
+    "name": "Landmarkr",
+    "description": "Guess the location, a country, city or other place, shown across 6 images. You get one guess per image, and each wrong guess reveals the next picture.",
+    "url": "https://www.landmarkr.app",
+    "category": "Geography"
+  },
+  {
+    "name": "Whereabouts?",
+    "description": "5 pins sit on a borderless world map. Name the country each pin is in, using 13 guesses across all 5.",
+    "url": "https://whereabouts.earth/daily/",
+    "category": "Geography"
+  },
+  {
+    "name": "Tic-Tac-Word",
+    "description": "A 3x3 board hides 9 five-letter words that match the theme. Pick a square and guess its word in 4 attempts. Green marks a letter in the right spot, yellow a letter in the word but in the wrong spot, and gray a letter not in the word. Solve a word to claim its square and get 3 in a row to win, but miss and the square is lost.",
+    "url": "https://www.tictacword.com",
+    "category": "Words"
+  },
+  {
+    "name": "Motion Path",
+    "description": "Watch a path being drawn, then redraw it from memory in one continuous gesture once it disappears. The closer your line follows the original, the higher your score.",
+    "url": "https://motionpath.app",
+    "category": "Visual"
+  },
+  {
+    "name": "LinkedIn - Wend",
+    "description": "Find 4 hidden words of 3, 4, 5 and 6 letters by tracing paths through adjacent letters, up, down, left or right, around the walls. Every letter tile must be used exactly once, so the words have to fit together to cover the whole grid.",
+    "url": "https://www.linkedin.com/games/wend/",
+    "category": "Words"
+  },
+  {
+    "name": "Dialed - Color Toon",
+    "description": "A cartoon, character or logo appears with one color wrong. Fix that color from memory with hue, saturation and brightness sliders. 5 rounds score up to 10 points each for how close you get.",
+    "url": "https://dialed.gg/color2",
+    "category": "Colors"
+  },
+  {
+    "name": "Redividers - Storylines",
+    "description": "Read a two-sentence story with blanks. Pick one word for the first blank, then split that same word into 2 or more new words by adding spaces to fill the remaining blanks. Hints help when you are stuck, and a timer tracks your solve.",
+    "url": "https://storylines.redividers.app",
+    "category": "Words"
+  },
+  {
+    "name": "Originle",
+    "description": "A real person introduces themselves on video, and you guess the country they represent through their roots and culture, not necessarily where they live. Reveal up to 8 progressively easier clips and lock in up to 3 guesses. Scoring is out of 10,000, with fewer clues and fewer guesses earning more.",
+    "url": "https://originle.io",
+    "category": "Geography"
+  },
+  {
+    "name": "Emoji Game",
+    "description": "Fill the blanks in 3 phrases with 6 emoji groups. Each group stands for a run of letters, read literally, by association or by the sound of its name, and those letters can be spread across blanks that aren't next to each other. Drag a group onto the blanks it fills. A right placement fills them in, a wrong one bounces back, and either way it costs a move, as does opening a phrase's clue. 6 moves is a perfect solve.",
+    "url": "https://playemojigame.com",
+    "category": "Words"
+  },
+  {
+    "name": "Quartiles",
+    "description": "Build words from a grid of 20 tiles holding 2 to 4 letters each. A word can join 1 to 4 tiles and scores 1, 2, 4 or 8 points by tile count. The 20 tiles split exactly into 5 words of 4 tiles, and finding all 5 earns a 40-point bonus. An unlimited mode deals new grids on demand.",
+    "url": "https://www.quartilesgame.org",
+    "category": "Words"
+  },
+  {
+    "name": "All/Some",
+    "description": "Pick which of 4 Euler diagrams shows how a set of categories relate, with one inside another, overlapping, or not touching at all. Each step adds 1 more category and a new set of diagrams to choose from. A wrong pick is explained with a counterexample and you try again. 3 puzzles a day.",
+    "url": "https://allsome.app",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "WordSlip",
+    "description": "Find the hidden 7-letter word from 7 letters scattered across a 19-cell hexagonal grid, then drag 1 path through all 19 cells that hits the letters in order, using empty cells as bridges. After each full guess, letters in the right position lock in green until the whole word is spelled.",
+    "url": "https://dailyplay.com/play/wordslip",
+    "category": "Words"
+  },
+  {
+    "name": "Clueless",
+    "description": "Guess a secret word by typing any word. Each guess is ranked by how close it is in meaning to the answer, with lower numbers closer, so follow the rankings until you hit it. Hints are available at the cost of 7 guesses.",
+    "url": "https://lessgames.com/clueless",
+    "category": "Words"
+  },
+  {
+    "name": "Orbs",
+    "description": "Solve 4 trivia puzzles in mixed formats, such as matching items to their pairs, sorting pictures into categories, or typing an answer. Correct answers fill up to 3 orbs per puzzle, and each wrong answer costs 1 of 3 hearts, locking the puzzle when all are gone. Collect 6 orbs across the 4 puzzles to win.",
+    "url": "https://dailyorbs.com",
+    "category": "Trivia"
+  },
+  {
+    "name": "Stackdle",
+    "description": "Drag, turn and drop 20 oddly shaped pieces onto a tower to build it as tall as possible. Height only counts once the tower stays still, and the next 2 pieces are shown in advance. After a fall you retry from the last steady tower, with 3 falls allowed.",
+    "url": "https://stackdle.dev",
+    "category": "Visual"
+  },
+  {
+    "name": "Flipsies",
+    "description": "Pull back and release like a slingshot to throw an object so it flips and lands upright on a target. Pulling further down throws it higher with more spin, and pulling sideways changes the distance. Each of the 5 objects gets 5 throws, scored on flips, accuracy and a clean landing, and the best throw counts.",
+    "url": "https://flipsies.dev",
+    "category": "Visual"
+  },
+  {
+    "name": "Halfsies",
+    "description": "Drag a line across a 3D object to cut it into 2 pieces of equal weight. Spin it to check the back, and watch the materials, since heavier ones count for more. A scale shows how close each cut came, across 5 objects.",
+    "url": "https://halfsies.dev",
+    "category": "Visual"
+  },
+  {
+    "name": "Smartle",
+    "description": "Drag a letter onto another to swap them anywhere on a 5x5 grid, and keep swapping until every row spells a valid 5-letter word. Any valid words count, so there are many possible solutions. Your time and number of swaps are tracked.",
+    "url": "https://smartle.net",
+    "category": "Words"
+  },
+  {
+    "name": "Obstruction",
+    "description": "Slide blocks around the grid to clear a path and move the green block onto the target square. Each block's colour sets how it moves. Grey moves in any direction, dark grey never moves, blue moves only up and down, yellow moves only left and right, purple blocks all move together, and red blocks can never touch the green one. Your moves and time are counted.",
+    "url": "https://www.obstruction.co.uk",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Cluword",
+    "description": "Find the hidden word from a crossword-style clue in 5 guesses, typing real words of the shown length. After each guess, tiles show which letters are in the right spot, which are in the word but in the wrong spot, and which are not in the word at all. Up to 3 extra clues, each more literal than the last, can be unlocked, but each one costs a guess. Difficulty rises through the week, easiest on Monday and Tuesday and hardest from Friday to Sunday.",
+    "url": "https://oneapplefall.com/games/cluword",
+    "category": "Words"
+  },
+  {
+    "name": "Tile Chi",
+    "description": "Drag across adjacent tiles in any direction, including diagonally, to spell words of at least 4 letters on a 5x5 letter grid. Used tiles disappear, the tiles above drop down and new letters fall in from the top. Rarer letters score more points, and clearing up to 50 tiles uncovers hidden stars worth bonus points. The game ends when no words are left to find.",
+    "url": "https://tilechigame.com",
+    "category": "Words"
+  },
+  {
+    "name": "GridPaw",
+    "description": "Divide the grid into rectangles so that each one contains exactly 1 number and covers exactly that many cells. Drag to draw each rectangle and cover every cell to solve it. The daily challenge is a 10x10 grid that is the same for everyone.",
+    "url": "https://gridpaw.com",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Krillion",
+    "description": "Name 1 thing that fits each of 7 category prompts, with 25 seconds per prompt. Valid answers score more the rarer they are, so obvious picks earn little and the rarest earn up to 100 points. Every point sinks your diver 10 metres, and a perfect 700 reaches the trench floor. Everyone gets the same 7 prompts and only 1 dive per day.",
+    "url": "https://krillion.io",
+    "category": "Trivia"
+  },
+  {
+    "name": "Takes",
+    "description": "Every move must be a capture. Drag a chess piece onto another piece it can reach with its normal chess move, until only 1 piece remains. If there is a King, it can never be captured and must make the final capture. 3 puzzles a day in Easy, Medium and Hard, and finishing all 3 unlocks an Expert puzzle.",
+    "url": "https://takes.clevergoat.com",
+    "category": "Tabletop Games"
+  },
+  {
+    "name": "Horsle",
+    "description": "Guess the 5-letter word in 6 attempts. After each guess, tiles show which letters are in the right spot, which are in the word but in the wrong spot, and which are not in the word at all. The answer is always HORSE.",
+    "url": "https://cabletwo.net/horsle",
+    "category": "Words"
+  },
+  {
     "name": "Expandagram",
     "description": "You get 3 letters and 60 seconds. Type as many words as you can that contain those 3 letters in the order shown, with any other letters filling the gaps around them. Words must be at least 4 letters long and each one counts once. Every letter scores a point, longer finds earn a growing bonus, and spotting a longest possible word adds 10 more.",
     "url": "https://expandagram.com",
@@ -1021,7 +1549,7 @@
   },
   {
     "name": "ClueDay",
-    "description": "Guess the 6-letter mystery word of the day using written clue phrases and Wordle-style letter feedback. You start with 1 clue and can unlock up to 4 more — the fewer clues used, the better your score. Green means the letter is in the right position; orange means it's in the word but in the wrong spot. Common words only, no proper nouns.",
+    "description": "Guess a 6-letter common word from a short clue phrase. Each wrong guess unlocks another clue, up to 5 in total. Green marks a letter in the right spot and orange a letter that is in the word but in the wrong spot.",
     "url": "https://clueday.com",
     "category": "Words"
   },
@@ -1057,21 +1585,21 @@
   },
   {
     "name": "MCdle Items",
-    "description": "Guess the Minecraft item of the day by typing item names and receiving color-coded feedback on their attributes — green for correct, yellow for partial match, red for incorrect. Narrow it down with each guess.",
+    "description": "Guess the Minecraft item of the day by typing item names. Each guess is compared on release version, stack size, rarity, creative inventory category, whether it is renewable, its recipe and where it can be looted. Green marks a match, yellow a partial match and red a miss, with arrows showing whether numbers and versions should go higher or lower.",
     "url": "https://www.mcdle.net/item",
     "category": "Video Games"
   },
   {
     "name": "MCdle Blocks",
-    "description": "Guess the Minecraft block of the day by typing block names and receiving color-coded feedback on their attributes — green for correct, yellow for partial match, red for incorrect. Narrow it down with each guess.",
+    "description": "Guess the Minecraft block of the day by typing block names. Each guess is compared on release version, stack size, tool, blast resistance, hardness, flammability and whether it is a full block. Green marks a match, yellow a partial match and red a miss, with arrows showing whether numbers and versions should go higher or lower.",
     "url": "https://www.mcdle.net/block",
     "category": "Video Games"
   },
   {
     "name": "MCdle Crafting Bee",
-    "description": "Select Minecraft items from a honeycomb grid and drag them into the crafting slots to form valid recipes. Use only the given items to discover all 10 hidden crafting combinations.",
+    "description": "Drag Minecraft items from a honeycomb of ingredients into a 3x3 crafting grid to discover every valid recipe that uses only the given items. Optional hints show how many recipes remain and their silhouettes.",
     "url": "https://www.mcdle.net/crafting_bee/daily",
-    "category": "Trivia"
+    "category": "Video Games"
   },
   {
     "name": "Anagardens",
@@ -1255,9 +1783,9 @@
   },
   {
     "name": "recall.",
-    "description": "Daily memory game built around active recall. Pick a mode (words, sentences,paragraph, twister, numbers, or custom text), add a modifier such as reverse, blind, flash, echo, or interference, then choose a difficulty from easy to brutal. You memorize the prompt for a short window, hide it, then type it back from memory and get scored on accuracy, word order, and speed. A daily challenge",
+    "description": "Memorize a set of words for a short window, then type them back from memory once they are hidden. Scoring rewards accuracy, correct word order and speed. The daily challenge fixes the mode and difficulty for everyone, and free play adds sentences, paragraphs, tongue twisters, numbers and modifiers such as reverse, blind and flash.",
     "url": "https://www.recall-gg.com/",
-    "category": "Numbers and Logic"
+    "category": "Words"
   },
   {
     "name": "Dicelex",
@@ -1531,7 +2059,7 @@
   },
   {
     "name": "CHN LNK",
-    "description": "Complete a vertical chain of connected words by guessing letters. Vowels disabled until other letters are found. Start with 5 lives, earn up to 5 stars daily and compete on the monthly leaderboard.",
+    "description": "Fill in a chain of hidden words between a given start word and end word, where each word pairs with the one below it to make a phrase, as in trail mix and mix tape. Guess 1 letter at a time to reveal it everywhere it appears. Vowels stay locked until all other letters are found, and each wrong letter costs 1 of your 5 lives.",
     "url": "https://thechnlnk.com",
     "category": "Words"
   },
@@ -1566,20 +2094,14 @@
     "category": "Movies and Series"
   },
   {
-    "name": "Hot and Cold",
-    "description": "A daily word game where you guess the secret word using semantic similarity feedback. Each guess receives a rank showing how close you are - the lower the number, the closer you are. Use hot and cold clues to narrow down the target word.",
-    "url": "https://hotandcoldgame.com",
-    "category": "Guessing"
-  },
-  {
     "name": "Daily 6",
-    "description": "A Wordle-style game with 6-letter words instead of 5. Guess the daily word in 6 tries using color-coded feedback. Features 2 puzzles per day - a morning puzzle and an evening puzzle.",
+    "description": "Guess the 6-letter word in 6 tries. After each guess, green marks a letter in the right spot, orange a letter that is in the word but in the wrong spot, and gray a letter that is not in the word. A new word unlocks every morning and every evening.",
     "url": "https://www.dailyritualgames.com/daily6-landing",
     "category": "Words"
   },
   {
     "name": "Letter Spin",
-    "description": "A daily word puzzle where you connect adjacent letters in a 4x4 grid to form words. Find all 51 words ranging from 4 to 8 letters, with the challenge of discovering a special 8-letter super word. Use the spin feature to rotate the grid for a fresh perspective.",
+    "description": "Connect adjacent letters in a 4x4 grid to find every hidden word of 4 to 6 letters, plus a 7-letter super word. The spin button rotates the grid for a fresh view, and hints reveal letters or whole words in exchange for stars.",
     "url": "https://www.letterspin.org/",
     "category": "Words"
   },
@@ -1681,31 +2203,31 @@
   },
   {
     "name": "Three Letters Game",
-    "description": "Form words from 3 letters where the first starts the word and the second appears before the third. Words must be 3-15 letters and Scrabble-valid. 3 lives, Scrabble scoring.",
+    "description": "Each round shows 3 letters. Type a word that starts with the first letter and contains the second letter somewhere before the third, then press Enter before time runs out. Words of 3 to 15 letters score like Scrabble, with bonus squares and a 50-point bonus for a 15-letter word, and every failed round costs 1 of your 3 lives.",
     "url": "https://threelettersgame.com",
     "category": "Words"
   },
   {
     "name": "Dialed",
-    "description": "A color memory game where you are shown 5 colors for a few seconds, then must recreate each one as accurately as possible using a color picker. Play solo, challenge friends in multiplayer, or take on the daily challenge where everyone on Earth gets the same 5 colors. Easy and hard difficulty available.",
-    "url": "https://dialed.gg/",
+    "description": "You see a color for a moment, then recreate it from memory with hue, saturation and brightness sliders. 5 rounds score up to 10 points each for how close you get, and the daily challenge gives everyone the same 5 colors.",
+    "url": "https://dialed.gg/color",
     "category": "Colors"
   },
   {
     "name": "Infixion",
-    "description": "A daily word game where you find 4 unique words all containing the same daily letter string (Infix) anywhere in the word. Letters score points based on rarity, repeated letters are worth less each time, and using the Infix more than once earns a big bonus. Compete on the global leaderboard and unlock badges as you play.",
+    "description": "Enter 4 different words that each contain the day's letter string anywhere inside them. Letters score by rarity, as shown on the keyboard, repeated letters are worth less each time, and using the string more than once in a word earns a big bonus.",
     "url": "https://infixion.app",
     "category": "Words"
   },
   {
     "name": "Swapdle",
-    "description": "A daily crossword puzzle where you swap color-coded letters into their correct positions within a limited number of moves. Color hints guide you — green is correct, orange means right word but wrong spot, purple means it belongs in a connected word. 4 difficulty levels from EASY to CRUEL, with a new puzzle daily and an unlimited mode.",
+    "description": "Swap pairs of letters in a scrambled crossword grid until every word is correct, within a limited number of swaps. Green means the letter is in the right word and position, orange means it is in the right word but the wrong position, purple means it belongs in a directly connected word, and grey means it belongs in a word that is not directly connected. 4 difficulty levels run from easy to cruel.",
     "url": "https://swapdle.org",
     "category": "Words"
   },
   {
     "name": "Shikaku",
-    "description": "A daily logic puzzle where you divide a grid into rectangles by dragging — each rectangle must contain exactly one number equal to its area. Features a timer, hints, and undo, with a new puzzle every day.",
+    "description": "Divide the grid into rectangles by dragging from one cell to another. Each rectangle must contain exactly 1 number, that number must equal the rectangle's area, rectangles cannot overlap, and every cell must be covered.",
     "url": "https://shikakudays.com/",
     "category": "Numbers and Logic"
   },
@@ -1783,37 +2305,31 @@
   },
   {
     "name": "Pangramathon",
-    "description": "Find 3 pangrams (words using all given letters at least once) in the daily puzzle.\n  Letters can be reused. Compete with friends for the fastest time.",
+    "description": "Race the clock to find 3 pangrams, words that use every one of the 7 given letters at least once. Letters can be reused, and your time is your score.",
     "url": "https://www.pangramathon.com/",
     "category": "Words"
   },
   {
     "name": "Pivot the Game",
-    "description": "Rotate 2x2 letter blocks around pivot dots to spell a 4-letter word in the center\n  row. Solve the daily puzzle in as few moves as possible.",
+    "description": "A 4-letter target word is given. Rotate 2x2 blocks of letter tiles around the pivot dots until the word is spelled across the highlighted center row, using as few rotations as possible.",
     "url": "https://pivotthegame.com",
     "category": "Words"
   },
   {
     "name": "Spelling Riddle",
-    "description": "Solve crossword-style riddles using visual hints and a set of letters. Form words\n  with the required center letter to complete multiple daily puzzles.",
+    "description": "Solve a set of riddles, each paired with an illustration and a text clue, by spelling the answers from 9 letters. Every answer must use the center letter, letters can be reused, and the boxes show each word's length. Hints reveal the first letter or remove wrong letters for fewer points.",
     "url": "https://ravel.live/",
     "category": "Words"
   },
   {
     "name": "Scrokkle",
-    "description": "A crossword-style poker puzzle where you place playing cards on a grid to form\n  poker hands horizontally and vertically. Use multiplier tiles to maximize your score.",
+    "description": "Play poker hands from your card tiles onto a board, connected like words in a crossword, with every new hand building off one already placed. A hand scores its card values times the hand multiplier and any board bonuses. The daily is a solo run that lasts as long as you can keep playing, plus a weekly puzzle where you must connect a fixed set of tiles to the board.",
     "url": "https://scrokkle.io/",
     "category": "Tabletop Games"
   },
   {
-    "name": "Chute",
-    "description": "A word puzzle where you drag letters from the bottom row to form words in a grid.\n  Letters drop down after each word is found. Clear the board using as few UNDOs as possible.",
-    "url": "https://playmootly.com",
-    "category": "Words"
-  },
-  {
     "name": "Daily Brain",
-    "description": "Play 3 mini brain games daily, each taking under a minute. Complete pattern\n  sequences, test your logic skills, and get a score out of 100 to share with friends.",
+    "description": "Play 3 timed mini brain games, each under a minute, such as completing 6 sequences by picking the next element from 4 choices. Your results combine into a score out of 100.",
     "url": "https://daily-brain.app",
     "category": "Numbers and Logic"
   },
@@ -1873,691 +2389,661 @@
   },
   {
     "name": "Shuffled",
-    "description": "Rearrange scrambled letters to complete crossword-style grids within a limited number of moves. 3 daily puzzles available, with\n  letters locking in place when correct. New puzzles every day at 6:00 AM UTC.",
+    "description": "Drag letters to swap them around a scrambled crossword-style grid until every word is complete, within a limited number of moves. Letters in the correct spot turn green and lock, and tapping a tile shows the clue for its word. Solve 3 puzzles a day.",
     "url": "https://shuffled.app",
     "category": "Words"
   },
   {
     "name": "Vocabr",
-    "description": "Daily vocabulary quiz where you match 5 words with their correct definitions from 4 multiple-choice options. New puzzle every day at \n  midnight.",
+    "description": "Answer 5 vocabulary questions by picking the correct definition of each word from 4 options.",
     "url": "https://vocabr.app",
     "category": "Words"
   },
   {
-    "name": "WordPyramid",
-    "description": "Free daily word puzzle game. Each answer is one letter longer than the last and uses all previous letters. Crossword clues with some cryptic. Includes achievements and tracked stats.\n\n",
-    "url": "https://word-pyramid.com/",
-    "category": "Words"
-  },
-  {
     "name": "Wordfive",
-    "description": "A mix of word search and sudoku. Fill in 5 blank spaces in a grid to make 5 five-letter words.",
+    "description": "A 5x5 letter grid is missing 5 letters, and those 5 letters are given below it. Place each one into a blank so the grid hides 5 5-letter words, reading across or down.",
     "url": "https://playwordfive.com",
     "category": "Words"
   },
   {
     "name": "Terraformation",
-    "description": "Fill in the hex grid planet with the correct terrains.",
+    "description": "Fill every hex of a planet zone with 1 of 3 terrain types. Numbers on each row in all 3 directions say how many hexes of each terrain it holds and how they are grouped, and 2 of the terrains must also be placed in set shapes.",
     "url": "https://puzzmallow.com/terraformation",
     "category": "Numbers and Logic"
   },
   {
-    "name": "Stacks",
-    "description": "Stack words from the word bank to create new words going horizontally. (From The Atlantic)",
-    "url": "https://www.theatlantic.com/games/stacks",
-    "category": "Words"
-  },
-  {
     "name": "Weddle",
-    "description": "Guess the NFL player within 8 guesses.",
+    "description": "Name the mystery NFL player in 8 guesses. Each guess compares your player's team, division, position, height, age and jersey number with the answer's. Green marks a match, and yellow marks the right conference or a number within 2.",
     "url": "https://www.weddlegame.com",
     "category": "Sports"
   },
   {
     "name": "Wowdle",
-    "description": "A collection of daily games related to World of Warcraft.",
+    "description": "Name the mystery World of Warcraft character in 6 tries, with an audio hint unlocking after 3 guesses and an image hint after 5. Other modes ask you to name a character from an image, guess the zone in 6 tries, and answer trivia questions.",
     "url": "https://www.wowdle.app",
     "category": "Video Games"
   },
   {
     "name": "Snapdle",
-    "description": "Guess the card from the game Marvel Snap.",
+    "description": "Guess the Marvel Snap card. Each guess shows how its abilities, categories, cost, power, pool and release date compare with the answer. A second mode asks you to name a card from its stats.",
     "url": "https://snapdle.github.io/classic",
     "category": "Video Games"
   },
   {
     "name": "Wallstreetle",
-    "description": "Guess the company based on information about its stock.",
+    "description": "Name the mystery stock in 4 guesses. You start with its 10-year price chart, a first tier of financial figures and a company hint, and each wrong guess unlocks more financial clues and hints.",
     "url": "https://wallstreetle.com",
-    "category": "Misc"
+    "category": "Guessing"
   },
   {
     "name": "TimeSwipe",
-    "description": "Guess if the event occurred before or after the given year. There are 10 events each day.",
+    "description": "Decide whether each of 10 historical events happened before or after the year shown. Everyone plays the same 10 events, and each correct call adds to your score.",
     "url": "https://play.timeswipe.fun",
     "category": "History"
   },
   {
     "name": "Word to your Mother",
-    "description": "Guess all possible Wordle words based on the two starting words and their results.",
+    "description": "Starting from a few words already scored in Wordle colors, enter every 5-letter word that fits all of those clues. The board says how many answers there are, and each word you enter adds its own color hints for the rest. Bonus words from a longer list are optional.",
     "url": "https://w2ym.org",
     "category": "Words"
   },
   {
     "name": "Truncate",
-    "description": "Place a chain of tiles on the board and reach the opponent's base before they reach yours.",
+    "description": "Place a single letter tile each turn to grow words out from your artifact across an island, against a computer opponent. When words clash, a valid word beats an invalid one and a longer word beats a shorter one, and the losing tiles are removed along with anything cut off from its artifact. Reach the opponent's artifact with a valid word to win, in as few moves as possible.",
     "url": "https://truncate.town",
     "category": "Words"
   },
   {
     "name": "Word Ladder",
-    "description": "Change one word into another by switching one letter at a time, keeping a valid word at each step.",
+    "description": "Turn the start word into the target word by changing 1 letter at a time, with every step a real word. Letters already in place are highlighted, and Easy, Medium and Hard ladders are set each day.",
     "url": "https://wordladder.com",
     "category": "Words"
   },
   {
-    "name": "Totem Words",
-    "description": "Guess the words associated their emoji category, then slide those words to solve the vertical category.",
-    "url": "https://totemwords.com",
-    "category": "Words"
-  },
-  {
     "name": "word.golf",
-    "description": "Link the starting word to the target word by choosing related words from the grid. 5 rounds per day.",
+    "description": "Link a start word to a target word by jumping between neighbors, words that often appear in similar contexts. Click a word to see its neighbors, pick ones closer to the target and watch the progress bar shrink. There are 5 pairs to solve, and a perfect solve takes 2 jumps per pair.",
     "url": "https://word.golf",
     "category": "Words"
   },
   {
     "name": "Spelling Bee (Lessgames)",
-    "description": "Spell the words based on their pronunciation. Optionally get a definition or use it in a sentence.",
+    "description": "Listen to a word and type its correct spelling, with an optional definition or example sentence to help. There are 5 words, each harder than the last.",
     "url": "https://lessgames.com/spellingbee",
     "category": "Words"
   },
   {
     "name": "Wordcrux",
-    "description": "A mini crossword puzzle, but don't make too many wrong guesses.",
+    "description": "Solve a 5 by 5 crossword by guessing a valid 5-letter word for each clue. Correct letters are revealed and locked, and each wrong letter marks its square. 3 wrong letters on any single square ends the game.",
     "url": "https://wordcrux.com",
     "category": "Words"
   },
   {
     "name": "Umadle",
-    "description": "A collection of daily guessing games related to Umamusume.",
+    "description": "Guess the Umamusume: Pretty Derby character in 5 tries. Each guess compares your pick with the answer on attributes such as track surface and stat bonuses. A Trivia mode identifies the character from fun facts instead.",
     "url": "https://umadle.net",
     "category": "Video Games"
   },
   {
     "name": "Stacked",
-    "description": "Find groups of different sizes that share something in common.",
+    "description": "Sort 15 words into groups that share a connection, where the groups hold 1, 2, 3, 4 and 5 words. Select words and submit each group, and the game ends after 4 mistakes.",
     "url": "https://stacked.clevergoat.com",
     "category": "Words"
   },
   {
     "name": "Spot the differences",
-    "description": "Spot all of the differences in the two pictures.",
+    "description": "Find the 10 differences between 2 versions of a drawing and mark them on the top picture.",
     "url": "https://www.spot-differences.com",
-    "category": "Misc"
+    "category": "Visual"
   },
   {
     "name": "WordLink",
-    "description": "Rearrange the words to form a chain of two-word phrases.",
+    "description": "Drag and drop a list of words into a chain where each neighboring pair forms a real two-word phrase. A link turns silver when a pair is right but out of place and gold when it sits in the right spot, and you win once every link is gold, in as few moves as possible.",
     "url": "https://playwordlink.com",
     "category": "Words"
   },
   {
     "name": "Wordamid",
-    "description": "Solve the daily word pyramid by guessing words of increasing length.",
+    "description": "Grow a 3-letter starting word into longer and longer words, adding 1 letter each step and rearranging freely while keeping every previous letter. Medals unlock at 40, 60 and 80 percent of the longest word any player has found, with a trophy for matching it. Revealing the word locks your medals.",
     "url": "https://www.wordamid.com",
     "category": "Words"
   },
   {
     "name": "Timeline",
-    "description": "Guess the year for each of the 6 historical events.",
+    "description": "Type the year you think each of 6 historical events happened. Each guess scores up to 100 points depending on how close it lands, and older events allow a wider margin than recent ones.",
     "url": "https://www.fromthethink.com/timeline",
     "category": "History"
   },
   {
     "name": "Squirdle Daily",
-    "description": "Guess today's pokemon within 9 guesses.",
+    "description": "Guess the Pokémon in 9 tries. Each guess shows whether its generation, types, height and weight match the answer, with arrows for values that are too high or too low and a separate marker for a type in the wrong slot.",
     "url": "https://squirdle.fireblend.com/daily.html",
     "category": "Video Games"
   },
   {
     "name": "Royaledle",
-    "description": "A collection of daily games related to Clash Royale.",
+    "description": "Guess today's Clash Royale card in 4 modes. Classic gives a clue about the card after each guess, Pixel starts from a pixelated image, Emoji from a set of emojis, and Description from a cut-off card description.",
     "url": "https://royaledle.com",
     "category": "Video Games"
   },
   {
     "name": "Streetfighterdle",
-    "description": "Guess the daily Street Fighter character in as few tries as possible.",
+    "description": "Guess the Street Fighter character. Each guess shows whether their first game, most recent game, gender, country, fighting style, alignment and status are correct, partly correct or wrong, with arrows when the answer comes from a newer or older game. Other modes use splash art, quotes and character hints.",
     "url": "https://streetfighterdle.net",
     "category": "Video Games"
   },
   {
     "name": "Vox Daily Crossword",
-    "description": "A free daily crossword from Vox, skips Sundays.",
+    "description": "Solve across and down clues to fill the crossword grid. A new puzzle comes out every day except Sunday.",
     "url": "https://www.vox.com/21523212/crossword-puzzles-free-daily-printable",
     "category": "Words"
   },
   {
     "name": "Showdle",
-    "description": "Guess the mystery TV show in 16 tries. Type any show title and each guess is compared against the answer on 5 attributes: year, number of seasons, genre, format, and network. Each attribute turns green when it matches the answer and stays gray when it does not, so every guess tells you more about which show it is.",
+    "description": "Guess the TV show in 16 tries. Each guess is compared with the answer on year, number of seasons, genre, format and network, and every attribute turns green when it matches and stays gray when it does not.",
     "url": "https://showdle.com",
     "category": "Movies and Series"
   },
   {
-    "name": "Wordcell",
-    "description": "Handcrafted and thematic puzzles. Launch the ball around the board to collect letters and compose the hidden words.",
-    "url": "https://gamebunny.app/wordcell",
-    "category": "Words"
-  },
-  {
     "name": "Tiler",
-    "description": "Assemble tiles with unique designs to recompose intertwined words. Play in English, or learn French words as well!",
+    "description": "Drag letter tiles of different shapes into a grid so every word on the day's list reads across or down. A move counter tracks how efficiently you finish.",
     "url": "https://gamebunny.app/tiler",
     "category": "Words"
   },
   {
     "name": "Zeldle",
-    "description": "A collection of daily games related to Zelda.",
+    "description": "Guess the mystery Zelda item, game, character and sword in 4 separate modes. Each guess is compared on attributes such as release year, platform, sales and developer, and every attribute is marked correct, partially correct or incorrect, with arrows showing whether the answer comes before or after.",
     "url": "https://zeldle.xyz",
     "category": "Video Games"
   },
   {
     "name": "VideoPuzzle",
-    "description": "Swap tiles to unscramble the puzzle of a looping short video.",
+    "description": "Unscramble a looping video cut into a grid of tiles. Swap 2 tiles by dragging or tapping them, or use the arrows to shift every tile in one direction. Fewer moves earn more stars.",
     "url": "https://videopuzzle.org",
     "category": "Visual"
   },
   {
     "name": "Worpel",
-    "description": "Guess the player in the Australian Football League (AFL).",
+    "description": "Guess the mystery current AFL player in 8 attempts. Each guess is compared on team, state, position, debut year, height, age and jersey number. Green marks a match. Yellow marks a team that shares a colour, a bordering state, a partial position match, or a number within 3. An optional silhouette gives an extra clue.",
     "url": "https://playworpel.com",
     "category": "Sports"
   },
   {
     "name": "Redividers",
-    "description": "Find the word that fits the first blank, then split it to fill in the remaining blank(s).",
+    "description": "2 word puzzles. In Storylines, choose the word that fills a sentence's first blank, then split it into 2 or more words to fill the blanks in the next sentence. In WordWeld, put the words in the right order, then cut the merged string of letters with scissors so each word splits once into new words.",
     "url": "https://redividers.netlify.app",
     "category": "Words"
   },
   {
     "name": "Revealed",
-    "description": "Guess the daily topic based on its description with redacted words.",
+    "description": "Guess the topic of an encyclopedia entry whose key words are blacked out, with the answer's letter count shown. Tap a black box to reveal the word underneath, and every 2 reveals earn a hint that shows 1 letter of the answer. Guess any time without penalty and aim to use as few reveals and hints as possible.",
     "url": "https://www.britannica.com/games/revealed",
     "category": "Trivia"
   },
   {
     "name": "Three Magic Words",
-    "description": "Place letters in the empty spaces to form 3 words. Five rounds per day.",
+    "description": "Fill the gaps in 3 five-letter words from a shared pool of letter tiles. Complete all 3 to clear a round, and clear 5 rounds to win. Guessing a starred slot before its star fades earns a star, and the puzzles get harder through the week.",
     "url": "https://www.threemagicwords.app/play",
     "category": "Words"
   },
   {
     "name": "Wordfall",
-    "description": "Clear letters on the board by finding words, ending with as few letters as possible.",
+    "description": "Clear a letter grid by linking adjacent letters into words of 3 or more letters. Found words vanish and the letters above fall into the gaps, so the order you play matters. Clearing more of the board earns more stars, and saving the golden-tile bonus word for last earns a 7th star.",
     "url": "https://play-wordfall.com",
     "category": "Words"
   },
   {
     "name": "Tiled Words",
-    "description": "Move and rotate tiles to find clues, connect words, and rebuild a broken crossword.",
+    "description": "Drag and rotate scattered letter tiles to rebuild a broken crossword, using across and down clues with letter counts. Spinning a tile rearranges its letters, and up to 3 answers can be revealed per puzzle.",
     "url": "https://tiledwords.com",
     "category": "Words"
   },
   {
     "name": "Terradle",
-    "description": "Guess today's weapon from the game Terraria.",
+    "description": "Guess the Terraria weapon. Each guess colours its stats green if they match, yellow if it shares a way of being obtained, or red if wrong, with arrows for stats that should be higher or lower. The weapon's selling price, tooltip and image unlock after 3, 7 and 11 tries.",
     "url": "https://www.terradle.com",
     "category": "Video Games"
   },
   {
     "name": "Warbl",
-    "description": "Guess the name of the song that is playing backwards!",
+    "description": "Listen to a famous song played backwards and name it in 6 guesses. Each guess shows whether its artist, genre and decade match the answer.",
     "url": "https://www.warbl.org",
     "category": "Music"
   },
   {
     "name": "WhenTaken Movies",
-    "description": "Guess where and when the given movie scene was filmed.",
+    "description": "Look at 5 movie stills and guess where and when each scene is set by dropping a pin on a map and picking a year. Each round scores up to 100 points for location and 100 for year, for a maximum of 1,000.",
     "url": "https://movies.whentaken.com",
-    "category": "Geography"
+    "category": "Movies and Series"
   },
   {
     "name": "The Guardian - Quick Crossword",
-    "description": "A small crossword puzzle from The Guardian. New puzzle 6 days a week.",
+    "description": "Fill a 13x13 crossword from straightforward across and down definitions. A new puzzle comes out every day except Sunday.",
     "url": "https://www.theguardian.com/crosswords/series/quick",
     "category": "Words"
   },
   {
     "name": "SetFury",
-    "description": "Find valid sets of 3 to 5 tiles by moving through the grid.",
+    "description": "Drag across 3, 4 or 5 touching tiles, including diagonally, to make a set. For each of the 2 features, speech bubble shape and inner symbol, the tiles must be all the same or all different. Longer sets score more, 1, 3 or 7 points, and the puzzle ends when no sets remain.",
     "url": "https://www.setfury.com",
     "category": "Visual"
   },
   {
     "name": "Seadle",
-    "description": "Guess the sea of the day in as few attempts as possible.",
+    "description": "Name the sea in as few guesses as possible. Each guess is highlighted on a globe, darker the closer it is to the answer and red if it borders the answer, with a distance and compass direction to point the way.",
     "url": "https://seadle.muhashi.com",
     "category": "Geography"
   },
   {
     "name": "TF2dle",
-    "description": "Guess the Team Fortress 2 weapon, map, cosmetic or unusual effect based on attributes.",
+    "description": "Guess Team Fortress 2 content across 5 modes: a weapon from hints, a weapon from its attributes, a map, a cosmetic item and an unusual effect.",
     "url": "https://www.tf2dle.com",
     "category": "Video Games"
   },
   {
     "name": "Stat Mini Crossword",
-    "description": "A weekday mini crossword that's often health and medicine focused.",
+    "description": "Fill a 5x5 crossword from across and down clues, many of them drawn from health and medicine news. New puzzles arrive Monday to Friday.",
     "url": "https://www.statnews.com/stat-mini-crossword",
     "category": "Words"
   },
   {
     "name": "Spellify",
-    "description": "Guess the daily card from Magic The Gathering after choosing up to 10 letters to reveal.",
+    "description": "Guess letters, numbers and symbols to uncover the name and rules text of a Magic: The Gathering card, then name the card. You get 13 guesses in total, and naming the card counts as one.",
     "url": "https://edhrec.com/games/spellify",
     "category": "Tabletop Games"
   },
   {
     "name": "Sudoker",
-    "description": "Rearrange the cards to create better Poker hands and maximize scores across rows and columns.",
+    "description": "Rearrange 25 playing cards in a 5x5 grid so every row and column makes the strongest poker hand possible. Each hand scores points, and the goal is to reach 100% of the best possible total.",
     "url": "https://sudoker.io",
     "category": "Tabletop Games"
   },
   {
     "name": "Word Box",
-    "description": "Swap letters until each row and column forms a valid word.",
+    "description": "Swap any 2 letters in a grid until every row and column spells a valid word. Blue tiles are in the right spot, and arrows on a letter show it belongs elsewhere in its row or column. Solve in as few swaps as possible, with 3 extra puzzles after the main one.",
     "url": "https://wordbox.game",
     "category": "Words"
   },
   {
     "name": "Weather Darts",
-    "description": "Guess cities whose current temperatures  add up to the daily target. If you go over, you bust!",
-    "url": "http://www.weatherdarts.com",
-    "category": "Misc"
+    "description": "Bring a target temperature down to exactly 0 by naming up to 5 cities, each one subtracting its current temperature. Going below 0 is a bust that ends the game, and getting close without checking out still earns a medal.",
+    "url": "https://www.weatherdarts.com",
+    "category": "Geography"
   },
   {
     "name": "Wantedle",
-    "description": "Find the 'WANTED' character among all of the moving characters on the screen.",
+    "description": "Find and tap the wanted emoji among a crowd of moving emojis as fast as you can. Each wrong tap adds a 3 second penalty, and your time sets your grade. On the hardest setting the target is hidden and you hunt for the only emoji that appears once.",
     "url": "https://wantedle.com",
-    "category": "Misc"
+    "category": "Visual"
   },
   {
     "name": "Viewdle",
-    "description": "Guess the country based on the view.",
+    "description": "Name the country shown in a photo within 6 guesses. Each guess shows its distance and a compass direction to the answer, colored by how close it is, and extra clues unlock if you get stuck.",
     "url": "https://viewdle.org",
     "category": "Geography"
   },
   {
-    "name": "Rivadle",
-    "description": "A bunch of daily games where you guess the character from Marvel Rivals.",
-    "url": "https://rivadle.net",
-    "category": "Video Games"
-  },
-  {
     "name": "Rankle",
-    "description": "Rank 6 things in 4 guesses. Every day is a different category.",
+    "description": "Drag 6 items into the right order for today's category, then submit. Items in the correct spot turn green and lock in place, and you have 4 guesses to get the whole order right.",
     "url": "https://www.rankle.app",
     "category": "Trivia"
   },
   {
     "name": "Wordgy",
-    "description": "Guess all five missing words by forming two-word phrases or compound words with the word below each tile.",
+    "description": "Fill in the 5 missing words of a chain between a top word and a bottom word, where each word forms a compound word or two-word phrase with the one below it. Work down from the top or up from the bottom, with the active word's first letter shown, and finish in as few tries as possible.",
     "url": "https://wordgy.com",
     "category": "Words"
   },
   {
     "name": "Top 5",
-    "description": "Guess the top 5 items of today's category.",
+    "description": "Name the top 5 items in the day's ranked category, picking guesses from a list of options. Each wrong guess costs 1 of 5 lives, and naming them in order is an optional extra challenge.",
     "url": "https://topfivetrivia.com",
     "category": "Trivia"
   },
   {
     "name": "Threepeat",
-    "description": "Complete three words with the same three letters, three rounds everyday.",
+    "description": "Find the shared opening letters that complete 3 words at once. Clear 3 rounds of 3 words to finish, with hints available at a time cost.",
     "url": "https://onelook.com/threepeat",
     "category": "Words"
   },
   {
     "name": "Stars",
-    "description": "Distribute stars strategically across the grid without letting them touch.",
+    "description": "Place exactly 2 stars in every row, every column and every outlined region of the grid. Stars can never touch each other, not even diagonally.",
     "url": "https://inkwellgames.com/games/stars",
     "category": "Numbers and Logic"
   },
   {
     "name": "The Daily Spell",
-    "description": "Unscramble the fictional headline by dropping letters into place.",
+    "description": "Drop the letters in each column into the grid below to rebuild a scrambled sentence, where every letter can only fall into its own column. Each solved sentence reveals the next part of an ongoing story.",
     "url": "https://www.the-daily-spell.com",
     "category": "Words"
   },
   {
     "name": "steamdle.com",
-    "description": "Guess the game based on the Steam review.",
+    "description": "Identify a Steam game from its user reviews. A new review appears after each wrong guess, for up to 6 clues.",
     "url": "https://steamdle.com",
     "category": "Video Games"
   },
   {
     "name": "Word Salad",
-    "description": "Find all the words in the 4 by 4 grid that are part of today's theme. Refresh after doing the tutorial to get to the daily.",
+    "description": "Swipe across adjacent tiles in a 4x4 letter grid, in any direction, to spell hidden words that fit the theme. The length of each word is shown as a hint, and used tiles fall away so the letters above drop into place, opening new paths. Find every word to clear the board.",
     "url": "https://wordsalad.online",
     "category": "Words"
   },
   {
     "name": "Wridges",
-    "description": "Race the clock by spelling words in the hex grid starting from the bottom row.",
+    "description": "Drag across hexagon tiles to spell words of 3 or more letters, always starting from the bottom row, and climb as many levels as you can before the clock runs out. Longer words and words that reach higher earn extra seconds, bonus letters add more time, and skips help when you are stuck.",
     "url": "https://www.washingtonpost.com/games/wridges",
     "category": "Words"
   },
   {
     "name": "trms",
-    "description": "Restore the vowels in each clue to find answers that reduce to the same consonants. Try the \"How to Play\"!",
+    "description": "3 clues are shown with their vowels removed. Each clue has a different answer, but all 3 answers reduce to the same consonants, and the goal is to type that shared string. Clue words can be revealed and the answer's length and letters peeked at, and Y always counts as a vowel.",
     "url": "https://impliedampersand.itch.io/trms",
     "category": "Words"
   },
   {
     "name": "TimeLine Game",
-    "description": "Arrange the historical events in the order they happened.",
+    "description": "Drag 5 historical events into the order they happened. You get 3 tries to check the order.",
     "url": "https://www.playtimelines.com",
     "category": "History"
   },
   {
     "name": "Spiredle",
-    "description": "Guess the daily Slay the Spire card.",
+    "description": "Guess the Slay the Spire card in 6 tries. Each guess shows whether its rarity, type, cost, character colour and keywords are correct, partly correct or wrong.",
     "url": "https://spiredle.com",
     "category": "Video Games"
   },
   {
     "name": "Treasure Guessr",
-    "description": "Narrow down a location on the world map.",
+    "description": "A close-up map marks a hidden spot somewhere in the world. Pan and zoom a world map to find it and dig there within 5 minutes. Wider views of the close-up unlock every 30 seconds, and digging nearby gives hints.",
     "url": "https://play.treasureguessr.com",
     "category": "Geography"
   },
   {
     "name": "Temple",
-    "description": "Guess a duration or tempo by watching a flashing light, or give a duration or tempo by clicking.",
+    "description": "Estimate a duration or a tempo. Either watch a flashing light and type how long it lasted or how many beats per minute it flashed, or see a number and click with that exact timing. Your score shows how close you came.",
     "url": "https://tck.mn/temple",
     "category": "Guessing"
   },
   {
     "name": "Stackdown",
-    "description": "Clear the stack of letters by finding each of the 5-letter words.",
+    "description": "Clear a stack of overlapping letter tiles by picking exposed tiles to spell 5-letter words, one word at a time. Only one word can be made at each step, and using fewer hints earns a better score.",
     "url": "https://puzzlist.com/stackdown",
     "category": "Words"
   },
   {
     "name": "riddl.ing",
-    "description": "Guess the answer to the handmade daily riddle in five clues.",
+    "description": "Guess the answer to a riddle. You get up to 5 clues, with a new one revealed after each wrong guess.",
     "url": "https://riddl.ing",
-    "category": "Trivia"
+    "category": "Words"
   },
   {
     "name": "Washington Post Crossword",
-    "description": "A daily crossword from the Washington Post",
+    "description": "Solve across and down clues to fill a full-size crossword grid. A timer tracks your solve, and auto-check can be turned on or off in the settings.",
     "url": "https://www.washingtonpost.com/games/crossword",
     "category": "Words"
   },
   {
     "name": "Zeldadle",
-    "description": "Test your Zelda knowledge in these daily games.",
+    "description": "Name the Zelda boss shown in an image and the Zelda song played in a short sound clip, typing guesses until you get each one right.",
     "url": "https://www.zeldadle.net",
     "category": "Video Games"
   },
   {
     "name": "Real Bird Fake Bird",
-    "description": "Guess if each of the 7 prompts are real or fake (made up or don't belong).",
+    "description": "For each of 7 names on today's topic, decide whether it is real or a fake invented to sound like it belongs.",
     "url": "https://realbirdfakebird.com",
     "category": "Trivia"
   },
   {
     "name": "Spectra",
-    "description": "Sort items by discovering the hidden metric.",
+    "description": "Put 6 items in order from highest to lowest by a hidden measure you have to work out, then submit. You have a limited number of attempts, and looking things up is allowed.",
     "url": "https://spectra.quest/puzzles/latest",
     "category": "Trivia"
   },
   {
     "name": "Wordspan",
-    "description": "Guess the 5-letter word based on where adjacent letters relatively appear in the alphabet.",
+    "description": "Guess the 5-letter word in 6 attempts. The starting clue is a row of < and > signs showing whether each letter comes before or after its neighbour in the alphabet, with vowel positions outlined. Letters guessed in the correct position turn green and fill in at the top.",
     "url": "https://puzzmallow.com/wordspan",
     "category": "Words"
   },
   {
     "name": "Rewordio",
-    "description": "Move stacks of letters between columns to solve the clues.",
+    "description": "Move stacks of letter tiles between columns until each column spells the word for its clue. Grabbing a tile lifts every letter above it, and a column can never hold more letters than its word. Solve it in as few moves as possible.",
     "url": "https://rewordio.com",
     "category": "Words"
   },
   {
     "name": "Traindle",
-    "description": "Chain together words to form familiar phrases. Timed based word game.",
+    "description": "Starting from a given word, enter a word that forms a familiar phrase with it, then keep chaining from each new word. Reach the target chain length within 60 seconds, with free hints and skips on hand.",
     "url": "https://www.traindle.io",
     "category": "Words"
   },
   {
     "name": "The Atlantic Crossword",
-    "description": "A daily crossword from The Atlantic.",
+    "description": "Fill a small crossword grid from across and down clues. The puzzle gets a little harder each weekday.",
     "url": "https://www.theatlantic.com/games/daily-crossword",
     "category": "Words"
   },
   {
     "name": "Spongedle",
-    "description": "Guess the episode from Spongebob Squarepants based on the screenshots.",
+    "description": "Name the SpongeBob SquarePants episode from a screenshot. Each wrong guess or skip shows another screenshot, up to 6.",
     "url": "https://spongedle.onrender.com",
     "category": "Movies and Series"
   },
   {
     "name": "Retro Game Trivia",
-    "description": "Daily games where you guess the retro game that was released on this date in history.",
+    "description": "Guess a retro video game from a different kind of clue in each mode. In Letter mode, guess its title one letter at a time and wrong guesses unlock clues. Other modes work from written clues, screenshots, box art or a puzzle image.",
     "url": "https://retrotrivia.games",
     "category": "Video Games"
   },
   {
     "name": "TFTdle",
-    "description": "Daily games related to Teamfight Tactics.",
-    "url": "https://tftdle.gg/classic",
+    "description": "Guess the Teamfight Tactics champion across 5 modes. Classic gives clues after every guess, while the other modes work from an ability description, best items, traits or an augment's effect.",
+    "url": "https://tftdle.gg",
     "category": "Video Games"
   },
   {
     "name": "Stewardle",
-    "description": "Guess the daily F1 driver.",
+    "description": "Guess the Formula 1 driver in 6 tries, from drivers who have raced since 2014. Each guess shows how their nationality, team, car number, age, first season and race wins compare with the answer, with arrows for numbers that are too low or too high.",
     "url": "https://stewardle.com",
     "category": "Sports"
   },
   {
     "name": "Stardewdle",
-    "description": "Guess today's mystery crop from Stardew Valley.",
+    "description": "Pick a Stardew Valley crop from the grid to guess the crop of the day in 6 tries. Each guess shows whether its growth time, sell price, regrowth, type and season are an exact match, a partial match or wrong, with arrows when the answer's value is higher or lower.",
     "url": "https://www.stardewdle.com/game/",
     "category": "Video Games"
   },
   {
     "name": "SatZoom",
-    "description": "Guess the city based on the satellite image.",
+    "description": "Name the city shown in a satellite image in 6 tries. Each wrong guess zooms the image out to reveal more of the surroundings.",
     "url": "https://satpixel.com/en/satellite-zoom-game",
     "category": "Geography"
   },
   {
     "name": "Ripple",
-    "description": "Guess the ripple effect of historical events.",
+    "description": "Start from a real historical event and pick what happened next from 4 options. Each answer reveals the next event in the chain, for 3 predictions in total, and a 50/50 hint can remove 2 wrong options.",
     "url": "https://ripplegame.app",
     "category": "History"
   },
   {
     "name": "Wrodeo",
-    "description": "Reveal the quote or book passage by guessing one word at a time, starting with some letters already shown.",
+    "description": "Reveal a hidden quote or book passage, shown with only some letters filled in, by typing the words you think it contains. A limited number of hints reveal single letters, and the difficulty setting changes how many letters and hints you start with.",
     "url": "https://wrodeo.com",
     "category": "Words"
   },
   {
     "name": "Sporcle Daily Acrostic",
-    "description": "A daily acrostic puzzle from Sporcle.",
+    "description": "Answer the trivia clues, and each letter you enter also fills its numbered square in the grid above, slowly revealing a hidden phrase. Letters that appear in the grid help you work out the clues you are stuck on.",
     "url": "https://www.sporcle.com/acrostic/todays-acrostic",
     "category": "Words"
   },
   {
     "name": "Smixed",
-    "description": "Make increasingly longer words using the given 6 letters, each word starting with a different letter.",
+    "description": "Build 6 words of 3 to 8 letters from 6 featured letters, each word starting with a different featured letter. Every featured letter you use scores 1 point, other letters score nothing, and 33 points is the maximum.",
     "url": "https://smixed.com",
     "category": "Words"
   },
   {
     "name": "ZoomOut",
-    "description": "Guess the video game from the zoomed-in screenshot.",
+    "description": "Name the video game from a tightly zoomed-in screenshot. Every wrong guess or skip zooms the image out a step, and you get 5 chances in total.",
     "url": "https://zoomout.videoludid.com",
     "category": "Video Games"
   },
   {
     "name": "Sequences",
-    "description": "Guess the next number in today's sequence.",
-    "url": "https://www.dailyfastgames.com/#/sequences",
+    "description": "Work out the rule behind a short number sequence and enter the next number. You have 3 attempts.",
+    "url": "https://www.dailyfastgames.com/sequences/",
     "category": "Numbers and Logic"
   },
   {
     "name": "words for days",
-    "description": "A word alchemy game with a daily objective, like infinite craft.",
+    "description": "Start with earth, wind, fire and water, then drag items together to craft new ones until you create the target word. A toggle switches to subtract mode, so you can also take one item away from another.",
     "url": "https://wordsfordays.com",
     "category": "Words"
   },
   {
     "name": "Weakdle",
-    "description": "Guess the Pokemon type based on its weaknesses to the attacking types.",
+    "description": "Find the hidden Pokémon type, single or dual, in 6 guesses by picking any Pokémon. Its damage multipliers against 5 attacking types turn green when they match the answer's in that column and yellow when they belong in another column, and a marker shows whether it shares a type with the answer.",
     "url": "https://dentotino.com/weakdle",
     "category": "Video Games"
   },
   {
     "name": "Valodle",
-    "description": "Test your Valorant knowledge in these daily games.",
+    "description": "Guess the Valorant agent, with each guess compared to the answer on gender, species, role, origin and release year. Other modes identify an agent from an ability or emojis, a weapon skin from an image, and a map location from a screenshot.",
     "url": "https://valodle.eu",
     "category": "Video Games"
   },
   {
     "name": "Sortdle",
-    "description": "Sort letters into tubes to form the hidden words without running out of moves.",
+    "description": "Pour letters between tubes until each colour's letters sit together in one tube, in an order that spells a hidden 4-letter word. A move pours the whole run of matching letters from the top of one tube into another, and each tube holds 4 letters.",
     "url": "https://sortdle.com",
     "category": "Words"
   },
   {
     "name": "WrestlePlay",
-    "description": "A collection of daily games related to wrestling.",
+    "description": "7 pro wrestling games. Complete the match card of a past event, guess the mystery wrestler in 8 tries from roster, title and age clues, fill in a top 10 list, place wrestlers on a bingo board of categories, group wrestlers by hidden connections, fill a grid with wrestlers who match each row and column, and guess a wrestling word in 6 tries.",
     "url": "https://wrestleplay.com",
     "category": "Sports"
   },
   {
     "name": "Wildlife Sudoku",
-    "description": "Guess 9 animals that properly fill in the grid.",
+    "description": "Fill a 3 by 3 grid with 9 animals, each matching both its row and column categories, such as a color it can be, a letter in its name or whether it lays eggs. Each correct animal scores 1 point for a maximum of 9, and finding the day's answer, which fits every category, earns a star.",
     "url": "https://flagdoku.com/wildlife.html",
     "category": "Nature"
   },
   {
     "name": "WRDLINK",
-    "description": "Link the starting word to the ending word by changing one letter at a time. 3 rounds daily.",
+    "description": "Turn the start word into the target word by changing exactly 1 letter per step. Every step must be a valid word, no word can repeat, and you have at most 8 steps. Solve 3 levels a day.",
     "url": "https://www.wrdlink.io",
     "category": "Words"
   },
   {
     "name": "Swapple",
-    "description": "Swap letters such that every row and column is a word.",
+    "description": "Swap letters on a 5x5 grid until the words read correctly both across and down. Green letters are in the right place and yellow letters belong in the same row or column. Finish in as few swaps as possible.",
     "url": "https://nibble.games/swapple/swapple-easy.html",
     "category": "Words"
   },
   {
     "name": "Silksongdle",
-    "description": "Daily guessing games related to Hollow Knight: Silksong.",
+    "description": "Guess the Hollow Knight: Silksong character across several modes. Classic gives clues about the answer after each try, while other modes work from bestiary hints, a blurred silhouette, emoji clues, a voice line or a location.",
     "url": "https://silksongdle.com",
     "category": "Video Games"
   },
   {
     "name": "Ronin",
-    "description": "Fill each region with Chess pieces such that no piece can attack a piece of the same type.",
+    "description": "Fill a 6x6 chessboard so that each 3x2 region holds a king, queen, rook, bishop, knight and pawn. No piece may attack another piece of the same type, ignoring any pieces in between.",
     "url": "https://www.andrewt.net/puzzles/ronin",
     "category": "Tabletop Games"
   },
   {
     "name": "Shuffalo",
-    "description": "Make a word using all the letters on the wheel, adding a new letter after each correct guess.",
+    "description": "Make a word using every letter on the wheel exactly once. After each correct word a new letter is added, so every answer is 1 letter longer than the last. Shuffle the wheel or use a hint to reveal a letter if you get stuck.",
     "url": "https://www.newyorker.com/puzzles-and-games-dept/shuffalo",
     "category": "Words"
   },
   {
     "name": "SatPin",
-    "description": "Pin the world locations on the map based on satellite images.",
+    "description": "Look at a satellite image and click the spot on the world map where you think it was taken. The closer your pin, the higher your score, over 5 rounds.",
     "url": "https://satpixel.com/en/satellite-pin-guess",
     "category": "Geography"
   },
   {
     "name": "Wormle",
-    "description": "Worm your way through the grid to spell today's themed words.",
+    "description": "Steer a worm made of a fixed string of letters through the grid with the arrow keys or mouse. Each cell it crawls over takes the next letter, and the goal is to lay the letters so that every row spells a word that fits the theme. Up to 5 hints help when you are stuck.",
     "url": "https://wormle.com",
     "category": "Words"
   },
   {
     "name": "The New Daily - Trivia",
-    "description": "Daily trivia quizzes from multiple categories.",
+    "description": "Choose a category, such as general knowledge, history or geography, and answer 10 multiple-choice questions as quickly and accurately as you can.",
     "url": "https://www.thenewdaily.com.au/puzzles/quiz-trivia",
     "category": "Trivia"
   },
   {
     "name": "SongSwipe",
-    "description": "Guess if the song was released before or after the given year. There are 10 songs each day.",
+    "description": "A year is shown along with 10 songs. Swipe each song left if you think it came out before that year or right if it came out after. A wrong answer costs 1 of your 3 hearts.",
     "url": "https://play.songswipe.fun",
     "category": "Music"
   },
   {
     "name": "Refiner",
-    "description": "Refine the numbers in the grid by grouping them based on each of the requirements.",
+    "description": "Select a touching group of digits on the grid that fits a bucket's rule, such as digits with loops, primes or Fibonacci numbers, then tap that bucket. Your score is the sum of the digits times how many you selected, but drops to 0 if any digit breaks the rule, so aim for the largest valid group.",
     "url": "https://nibble.games/refiner",
     "category": "Numbers and Logic"
   },
   {
     "name": "Tracell",
-    "description": "Uncover the hidden text by placing the letter tiles in the grid.",
+    "description": "Place 2x2 letter tiles on a grid so a hidden phrase from the given category reads as a single unbroken path from the start arrow to the end arrow, moving only up, down, left or right. Each tile's number shows how many of its letters belong to the phrase. A second mode numbers each letter by how many of its neighbouring cells are on the path instead.",
     "url": "https://tracellgame.com",
     "category": "Words"
   },
   {
     "name": "Talldle",
-    "description": "Sort the famous people from shortest to tallest.",
+    "description": "Drag 7 famous people into order from shortest to tallest, then submit. Each guess shows who is already in the right spot, and you have 6 tries to get the full order.",
     "url": "https://www.talldle.com",
-    "category": "Misc"
+    "category": "Trivia"
   },
   {
     "name": "Stardle",
-    "description": "Wordle except the secret word is related to Astronomy in some way.",
+    "description": "Guess the 5-letter astronomy word in 6 tries, using any valid 5-letter word. After each guess, tiles show which letters are in the right spot, which are in the word but in the wrong spot, and which are not in the word at all.",
     "url": "https://stardlegame.github.io/stardle",
-    "category": "Nature"
+    "category": "Words"
   },
   {
     "name": "Timingle",
-    "description": "Try to time when the countdown reaches 0. Each day the beat is different.",
-    "url": "https://timingle.com",
+    "description": "A countdown starts and then disappears. Click at the exact moment you think it reaches 0. The gap between numbers changes every day.",
+    "url": "https://timingle.danielbrandao.dev",
     "category": "Guessing"
   },
   {
     "name": "Runedle",
-    "description": "Guess today's Runescape NPC.",
+    "description": "Guess the RuneScape NPC. Each guess shows how its gender, race, region, combat level and release date compare with the answer.",
     "url": "https://runedle.com",
     "category": "Video Games"
   },
   {
     "name": "Timdle",
-    "description": "Place 8 historical events in chronological order.",
+    "description": "Place historical events on a timeline in chronological order, starting from a single pinned event. 8 more arrive one at a time and each placement is checked immediately. Later events are worth more points, and every wrong attempt costs 1.",
     "url": "https://www.timdle.com",
     "category": "History"
   },
   {
     "name": "Sexaginta-quattuordle",
-    "description": "Solve 64 Wordle puzzles at the same time.",
+    "description": "Solve 64 hidden 5-letter words at once in 70 guesses. Each guess is played on every board, and its tiles show which letters are in the right spot, which are in the word but in the wrong spot, and which are not in the word at all.",
     "url": "https://64ordle.au/?mode=daily",
     "category": "Words"
   },
   {
     "name": "Weakdoku",
-    "description": "Fill out the grid with Pokémon based on the weaknesses described in each cell's row and column.",
+    "description": "Fill a 3 by 3 grid with Pokémon whose types meet both their row and column conditions, such as taking double or half damage from an attacking type, or having 2 types. No type can repeat, and you have 9 guesses for the 9 squares.",
     "url": "https://weakdoku.dentotino.com",
     "category": "Video Games"
   },
   {
     "name": "The Daily Burgle",
-    "description": "Burgle the vault by guessing movies whose plot descriptions contain words from the vault! By CineNerdle.",
+    "description": "Name movies whose plot summaries contain the 9 words in the vault. Each movie you enter clears every vault word found in its plot, and you have 7 attempts to clear all 9, ideally with as few movies as possible.",
     "url": "https://www.thedailyburgle.app",
     "category": "Movies and Series"
   },
@@ -2581,7 +3067,7 @@
   },
   {
     "name": "LA Times Crossword",
-    "description": "Solve today's crossword from the Los Angeles Times.",
+    "description": "Fill a 15x15 grid from across and down clues. The puzzles get harder as the week goes on, and Sunday brings a bigger themed grid.",
     "url": "https://www.latimes.com/games/daily-crossword",
     "category": "Words"
   },
@@ -3031,7 +3517,7 @@
   },
   {
     "name": "Quotesed",
-    "description": "Guess the movie given 6 quotes.",
+    "description": "Name the film from a quote in 6 attempts. Each wrong guess or skip reveals another quote from the same film, starting obscure and getting more recognisable.",
     "url": "https://www.quotesed.com",
     "category": "Movies and Series"
   },
@@ -3217,7 +3703,7 @@
   },
   {
     "name": "Quintalist",
-    "description": "Correctly choose the top 5 entries in 5 tries or fewer.",
+    "description": "Pick the 5 of 10 options that make the top 5 of today's ranked list, then submit. All 5 must be correct in the same try to solve it. You get 5 tries and up to 3 hints.",
     "url": "https://www.quintalist.com",
     "category": "Trivia"
   },
@@ -3505,7 +3991,7 @@
   },
   {
     "name": "R6dle",
-    "description": "A collection of daily guessing games related to Tom Clancy's Rainbow Six Siege.",
+    "description": "Guess Rainbow Six Siege content across several modes. In Classic, name the operator, and each guess shows how its gender, role, side, speed, country, organisation, squad and release year compare with the answer. Other modes ask for a weapon from its stats, a map room from its blueprint or a zoomed-in image, and a player's rank from a gameplay clip.",
     "url": "https://r6dle.net",
     "category": "Video Games"
   },
@@ -3553,7 +4039,7 @@
   },
   {
     "name": "LA Times Word Search",
-    "description": "A daily word search puzzle from the Los Angeles Times.",
+    "description": "Find every word on a themed list hidden in a grid of letters. Words can run horizontally, vertically or backward.",
     "url": "https://www.latimes.com/games/wordsearch",
     "category": "Words"
   },
@@ -3583,7 +4069,7 @@
   },
   {
     "name": "Quolture",
-    "description": "Guess the movie or TV show the given quote is from. 1st round is a movie, 2nd round is a TV show.",
+    "description": "Name the film a quote comes from, then the TV series a second quote comes from, typing the full title. Partial answers get no feedback, so only a complete title counts. Hints can reveal random letters or give extra clues.",
     "url": "https://www.quolture.com/#",
     "category": "Movies and Series"
   },
@@ -3655,13 +4141,13 @@
   },
   {
     "name": "LA Times Sudoku",
-    "description": "Daily sudoku puzzles across 5 difficulties from the Los Angeles Times.",
+    "description": "Fill a 9x9 grid so every row, column and 3x3 box holds the digits 1 to 9 exactly once. 5 difficulty levels run from a smaller mini grid up to expert.",
     "url": "https://www.latimes.com/games/sudoku",
     "category": "Numbers and Logic"
   },
   {
     "name": "LA Times Mini",
-    "description": "A daily mini crossword from the Los Angeles Times.",
+    "description": "Fill a small 5x5 crossword from across and down clues, with a timer tracking your solve.",
     "url": "https://www.latimes.com/games/mini-crossword",
     "category": "Words"
   },

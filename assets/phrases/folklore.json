@@ -1,0 +1,146 @@
+[
+  {
+    "phrase": "Rain, rain, go away",
+    "length": 19,
+    "letters": 14,
+    "words": 4,
+    "hint": "English nursery rhyme",
+    "category": "folklore",
+    "source": "https://en.wikipedia.org/wiki/Rain_Rain_Go_Away"
+  },
+  {
+    "phrase": "And they lived happily ever after",
+    "length": 33,
+    "letters": 28,
+    "words": 6,
+    "hint": "Traditional ending of fairy tales",
+    "category": "folklore",
+    "source": "https://en.wiktionary.org/wiki/happily_ever_after"
+  },
+  {
+    "phrase": "Little pig, little pig, let me come in",
+    "length": 38,
+    "letters": 29,
+    "words": 8,
+    "hint": "The wolf in The Three Little Pigs",
+    "category": "folklore",
+    "source": "https://en.wikipedia.org/wiki/The_Three_Little_Pigs"
+  },
+  {
+    "phrase": "Hey diddle diddle, the cat and the fiddle",
+    "length": 41,
+    "letters": 33,
+    "words": 8,
+    "hint": "English nursery rhyme",
+    "category": "folklore",
+    "source": "https://en.wikipedia.org/wiki/Hey_Diddle_Diddle"
+  },
+  {
+    "phrase": "United we stand, divided we fall",
+    "length": 32,
+    "letters": 26,
+    "words": 6,
+    "hint": "Saying based on Aesop's fable of the four oxen and the lion",
+    "category": "folklore",
+    "source": "https://en.wikipedia.org/wiki/United_we_stand,_divided_we_fall"
+  },
+  {
+    "phrase": "Humpty Dumpty sat on a wall",
+    "length": 27,
+    "letters": 22,
+    "words": 6,
+    "hint": "English nursery rhyme",
+    "category": "folklore",
+    "source": "https://en.wikipedia.org/wiki/Humpty_Dumpty"
+  },
+  {
+    "phrase": "Jack and Jill went up the hill",
+    "length": 30,
+    "letters": 24,
+    "words": 7,
+    "hint": "English nursery rhyme",
+    "category": "folklore",
+    "source": "https://en.wikipedia.org/wiki/Jack_and_Jill"
+  },
+  {
+    "phrase": "Fee-fi-fo-fum, I smell the blood of an Englishman",
+    "length": 49,
+    "letters": 38,
+    "words": 8,
+    "hint": "The giant in Jack and the Beanstalk",
+    "category": "folklore",
+    "source": "https://en.wikipedia.org/wiki/Fee-fi-fo-fum"
+  },
+  {
+    "phrase": "The boy who cried wolf",
+    "length": 22,
+    "letters": 18,
+    "words": 5,
+    "hint": "Aesop's fable about lying",
+    "category": "folklore",
+    "source": "https://en.wikipedia.org/wiki/The_Boy_Who_Cried_Wolf"
+  },
+  {
+    "phrase": "Mary had a little lamb",
+    "length": 22,
+    "letters": 18,
+    "words": 5,
+    "hint": "American nursery rhyme",
+    "category": "folklore",
+    "source": "https://en.wikipedia.org/wiki/Mary_Had_a_Little_Lamb"
+  },
+  {
+    "phrase": "The emperor has no clothes",
+    "length": 26,
+    "letters": 22,
+    "words": 5,
+    "hint": "Hans Christian Andersen, The Emperor's New Clothes",
+    "category": "folklore",
+    "source": "https://en.wikipedia.org/wiki/The_Emperor's_New_Clothes"
+  },
+  {
+    "phrase": "Rapunzel, Rapunzel, let down your hair",
+    "length": 38,
+    "letters": 31,
+    "words": 6,
+    "hint": "Fairy tale collected by the Brothers Grimm",
+    "category": "folklore",
+    "source": "https://en.wikipedia.org/wiki/Rapunzel"
+  },
+  {
+    "phrase": "Once upon a time",
+    "length": 16,
+    "letters": 13,
+    "words": 4,
+    "hint": "Traditional opening of fairy tales",
+    "category": "folklore",
+    "source": "https://en.wikipedia.org/wiki/Once_upon_a_time"
+  },
+  {
+    "phrase": "Sour grapes",
+    "length": 11,
+    "letters": 10,
+    "words": 2,
+    "hint": "Phrase from Aesop's fable The Fox and the Grapes",
+    "category": "folklore",
+    "source": "https://en.wikipedia.org/wiki/The_Fox_and_the_Grapes"
+  },
+  {
+    "phrase": "Baa, baa, black sheep, have you any wool?",
+    "length": 41,
+    "letters": 30,
+    "words": 8,
+    "hint": "English nursery rhyme",
+    "category": "folklore",
+    "source": "https://en.wikipedia.org/wiki/Baa,_Baa,_Black_Sheep"
+  },
+  {
+    "phrase": "Twinkle, twinkle, little star",
+    "length": 29,
+    "letters": 24,
+    "words": 4,
+    "hint": "English nursery rhyme by Jane Taylor",
+    "category": "folklore",
+    "source": "https://en.wikipedia.org/wiki/Twinkle,_Twinkle,_Little_Star"
+  }
+]

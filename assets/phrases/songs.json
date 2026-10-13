@@ -1,0 +1,2342 @@
+[
+  {
+    "phrase": "When a Man Loves a Woman",
+    "length": 24,
+    "letters": 19,
+    "words": 6,
+    "hint": "Song by Percy Sledge, 1966",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/When_a_Man_Loves_a_Woman_(song)"
+  },
+  {
+    "phrase": "Let It Go",
+    "length": 9,
+    "letters": 7,
+    "words": 3,
+    "hint": "Song by Idina Menzel, 2014",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Let_It_Go"
+  },
+  {
+    "phrase": "Where Did Our Love Go",
+    "length": 21,
+    "letters": 17,
+    "words": 5,
+    "hint": "Song by the Supremes, 1964",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Where_Did_Our_Love_Go"
+  },
+  {
+    "phrase": "Let's Get It On",
+    "length": 15,
+    "letters": 11,
+    "words": 4,
+    "hint": "Song by Marvin Gaye, 1973",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Let's_Get_It_On_(song)"
+  },
+  {
+    "phrase": "Every Little Thing She Does Is Magic",
+    "length": 36,
+    "letters": 30,
+    "words": 7,
+    "hint": "Song by the Police, 1981",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Every_Little_Thing_She_Does_Is_Magic"
+  },
+  {
+    "phrase": "Somewhere Over the Rainbow",
+    "length": 26,
+    "letters": 23,
+    "words": 4,
+    "hint": "Song by Judy Garland, 1939",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Over_the_Rainbow"
+  },
+  {
+    "phrase": "Walk Like an Egyptian",
+    "length": 21,
+    "letters": 18,
+    "words": 4,
+    "hint": "Song by the Bangles, 1986",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Walk_Like_an_Egyptian"
+  },
+  {
+    "phrase": "True Colors",
+    "length": 11,
+    "letters": 10,
+    "words": 2,
+    "hint": "Song by Cyndi Lauper, 1986",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/True_Colors_(Cyndi_Lauper_song)"
+  },
+  {
+    "phrase": "I Get Around",
+    "length": 12,
+    "letters": 10,
+    "words": 3,
+    "hint": "Song by the Beach Boys, 1964",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/I_Get_Around"
+  },
+  {
+    "phrase": "Say My Name",
+    "length": 11,
+    "letters": 9,
+    "words": 3,
+    "hint": "Song by Destiny's Child, 1999",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Say_My_Name"
+  },
+  {
+    "phrase": "Girls Like You",
+    "length": 14,
+    "letters": 12,
+    "words": 3,
+    "hint": "Song by Maroon 5 featuring Cardi B, 2018",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Girls_Like_You"
+  },
+  {
+    "phrase": "My Sweet Lord",
+    "length": 13,
+    "letters": 11,
+    "words": 3,
+    "hint": "Song by George Harrison, 1970",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/My_Sweet_Lord"
+  },
+  {
+    "phrase": "Party Rock Anthem",
+    "length": 17,
+    "letters": 15,
+    "words": 3,
+    "hint": "Song by LMFAO featuring Lauren Bennett and GoonRock, 2011",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Party_Rock_Anthem"
+  },
+  {
+    "phrase": "Wild Thing",
+    "length": 10,
+    "letters": 9,
+    "words": 2,
+    "hint": "Song by the Troggs, 1966",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Wild_Thing_(The_Troggs_song)"
+  },
+  {
+    "phrase": "Midnight Train to Georgia",
+    "length": 25,
+    "letters": 22,
+    "words": 4,
+    "hint": "Song by Gladys Knight & the Pips, 1973",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Midnight_Train_to_Georgia"
+  },
+  {
+    "phrase": "I Gotta Feeling",
+    "length": 15,
+    "letters": 13,
+    "words": 3,
+    "hint": "Song by the Black Eyed Peas, 2009",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/I_Gotta_Feeling"
+  },
+  {
+    "phrase": "Maggie May",
+    "length": 10,
+    "letters": 9,
+    "words": 2,
+    "hint": "Song by Rod Stewart, 1971",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Maggie_May"
+  },
+  {
+    "phrase": "New York, New York",
+    "length": 18,
+    "letters": 14,
+    "words": 4,
+    "hint": "Song by Liza Minnelli, 1977",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Theme_from_New_York,_New_York"
+  },
+  {
+    "phrase": "Wake Me Up Before You Go-Go",
+    "length": 27,
+    "letters": 21,
+    "words": 6,
+    "hint": "Song by Wham!, 1984",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Wake_Me_Up_Before_You_Go-Go"
+  },
+  {
+    "phrase": "Blinding Lights",
+    "length": 15,
+    "letters": 14,
+    "words": 2,
+    "hint": "Song by the Weeknd, 2019",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Blinding_Lights"
+  },
+  {
+    "phrase": "Dancing in the Dark",
+    "length": 19,
+    "letters": 16,
+    "words": 4,
+    "hint": "Song by Bruce Springsteen, 1984",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Dancing_in_the_Dark_(Bruce_Springsteen_song)"
+  },
+  {
+    "phrase": "Born in the U.S.A.",
+    "length": 18,
+    "letters": 12,
+    "words": 4,
+    "hint": "Song by Bruce Springsteen, 1984",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Born_in_the_U.S.A._(song)"
+  },
+  {
+    "phrase": "What's Love Got to Do with It",
+    "length": 29,
+    "letters": 22,
+    "words": 7,
+    "hint": "Song by Tina Turner, 1984",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/What's_Love_Got_to_Do_with_It_(song)"
+  },
+  {
+    "phrase": "Three Times a Lady",
+    "length": 18,
+    "letters": 15,
+    "words": 4,
+    "hint": "Song by Commodores, 1978",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Three_Times_a_Lady"
+  },
+  {
+    "phrase": "Sweet Home Alabama",
+    "length": 18,
+    "letters": 16,
+    "words": 3,
+    "hint": "Song by Lynyrd Skynyrd, 1974",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Sweet_Home_Alabama"
+  },
+  {
+    "phrase": "Another One Bites the Dust",
+    "length": 26,
+    "letters": 22,
+    "words": 5,
+    "hint": "Song by Queen, 1980",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Another_One_Bites_the_Dust"
+  },
+  {
+    "phrase": "I Can See Clearly Now",
+    "length": 21,
+    "letters": 17,
+    "words": 5,
+    "hint": "Song by Johnny Nash, 1972",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/I_Can_See_Clearly_Now"
+  },
+  {
+    "phrase": "Hey There Delilah",
+    "length": 17,
+    "letters": 15,
+    "words": 3,
+    "hint": "Song by Plain White T's, 2006",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Hey_There_Delilah"
+  },
+  {
+    "phrase": "Me and Bobby McGee",
+    "length": 18,
+    "letters": 15,
+    "words": 4,
+    "hint": "Song by Janis Joplin, 1971",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Me_and_Bobby_McGee"
+  },
+  {
+    "phrase": "Honky Tonk Women",
+    "length": 16,
+    "letters": 14,
+    "words": 3,
+    "hint": "Song by the Rolling Stones, 1969",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Honky_Tonk_Women"
+  },
+  {
+    "phrase": "I Got You Babe",
+    "length": 14,
+    "letters": 11,
+    "words": 4,
+    "hint": "Song by Sonny & Cher, 1965",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/I_Got_You_Babe"
+  },
+  {
+    "phrase": "Blue Suede Shoes",
+    "length": 16,
+    "letters": 14,
+    "words": 3,
+    "hint": "Song by Carl Perkins, 1956",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Blue_Suede_Shoes"
+  },
+  {
+    "phrase": "You're So Vain",
+    "length": 14,
+    "letters": 11,
+    "words": 3,
+    "hint": "Song by Carly Simon, 1972",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/You're_So_Vain"
+  },
+  {
+    "phrase": "Yellow Submarine",
+    "length": 16,
+    "letters": 15,
+    "words": 2,
+    "hint": "Song by the Beatles, 1966",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Yellow_Submarine_(song)"
+  },
+  {
+    "phrase": "Time in a Bottle",
+    "length": 16,
+    "letters": 13,
+    "words": 4,
+    "hint": "Song by Jim Croce, 1973",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Time_in_a_Bottle"
+  },
+  {
+    "phrase": "Rock Around the Clock",
+    "length": 21,
+    "letters": 18,
+    "words": 4,
+    "hint": "Song by Bill Haley & His Comets, 1954",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Rock_Around_the_Clock"
+  },
+  {
+    "phrase": "Blank Space",
+    "length": 11,
+    "letters": 10,
+    "words": 2,
+    "hint": "Song by Taylor Swift, 2014",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Blank_Space"
+  },
+  {
+    "phrase": "Paint It Black",
+    "length": 14,
+    "letters": 12,
+    "words": 3,
+    "hint": "Song by the Rolling Stones, 1966",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Paint_It_Black"
+  },
+  {
+    "phrase": "Total Eclipse of the Heart",
+    "length": 26,
+    "letters": 22,
+    "words": 5,
+    "hint": "Song by Bonnie Tyler, 1983",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Total_Eclipse_of_the_Heart"
+  },
+  {
+    "phrase": "Oh, Pretty Woman",
+    "length": 16,
+    "letters": 13,
+    "words": 3,
+    "hint": "Song by Roy Orbison and the Candy Men, 1964",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Oh,_Pretty_Woman"
+  },
+  {
+    "phrase": "No Scrubs",
+    "length": 9,
+    "letters": 8,
+    "words": 2,
+    "hint": "Song by TLC, 1999",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/No_Scrubs"
+  },
+  {
+    "phrase": "Old Town Road",
+    "length": 13,
+    "letters": 11,
+    "words": 3,
+    "hint": "Song by Lil Nas X, 2018",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Old_Town_Road"
+  },
+  {
+    "phrase": "All I Want for Christmas Is You",
+    "length": 31,
+    "letters": 25,
+    "words": 7,
+    "hint": "Song by Mariah Carey, 1994",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/All_I_Want_for_Christmas_Is_You"
+  },
+  {
+    "phrase": "A Hard Day's Night",
+    "length": 18,
+    "letters": 14,
+    "words": 4,
+    "hint": "Song by the Beatles, 1964",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/A_Hard_Day's_Night_(song)"
+  },
+  {
+    "phrase": "Are You Lonesome Tonight?",
+    "length": 25,
+    "letters": 21,
+    "words": 4,
+    "hint": "Song by Elvis Presley, 1960",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Are_You_Lonesome_Tonight%3F"
+  },
+  {
+    "phrase": "It's My Party",
+    "length": 13,
+    "letters": 10,
+    "words": 3,
+    "hint": "Song by Lesley Gore, 1963",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/It's_My_Party"
+  },
+  {
+    "phrase": "I'm a Believer",
+    "length": 14,
+    "letters": 11,
+    "words": 3,
+    "hint": "Song by the Monkees, 1966",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/I'm_a_Believer"
+  },
+  {
+    "phrase": "Hips Don't Lie",
+    "length": 14,
+    "letters": 11,
+    "words": 3,
+    "hint": "Song by Shakira featuring Wyclef Jean, 2006",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Hips_Don't_Lie"
+  },
+  {
+    "phrase": "The Power of Love",
+    "length": 17,
+    "letters": 14,
+    "words": 4,
+    "hint": "Song by Celine Dion, 1993",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/The_Power_of_Love_(Jennifer_Rush_song)"
+  },
+  {
+    "phrase": "All of Me",
+    "length": 9,
+    "letters": 7,
+    "words": 3,
+    "hint": "Song by John Legend, 2013",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/All_of_Me_(John_Legend_song)"
+  },
+  {
+    "phrase": "It Wasn't Me",
+    "length": 12,
+    "letters": 9,
+    "words": 3,
+    "hint": "Song by Shaggy featuring Ricardo RikRok Ducent, 2000",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/It_Wasn't_Me"
+  },
+  {
+    "phrase": "Raindrops Keep Fallin' on My Head",
+    "length": 33,
+    "letters": 27,
+    "words": 6,
+    "hint": "Song by B. J. Thomas, 1969",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Raindrops_Keep_Fallin'_on_My_Head"
+  },
+  {
+    "phrase": "Mr. Brightside",
+    "length": 14,
+    "letters": 12,
+    "words": 2,
+    "hint": "Song by the Killers, 2003",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Mr._Brightside"
+  },
+  {
+    "phrase": "Here Comes the Sun",
+    "length": 18,
+    "letters": 15,
+    "words": 4,
+    "hint": "Song by the Beatles, 1969",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Here_Comes_the_Sun"
+  },
+  {
+    "phrase": "Material Girl",
+    "length": 13,
+    "letters": 12,
+    "words": 2,
+    "hint": "Song by Madonna, 1985",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Material_Girl"
+  },
+  {
+    "phrase": "Happy Together",
+    "length": 14,
+    "letters": 13,
+    "words": 2,
+    "hint": "Song by the Turtles, 1967",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Happy_Together_(song)"
+  },
+  {
+    "phrase": "Night Fever",
+    "length": 11,
+    "letters": 10,
+    "words": 2,
+    "hint": "Song by Bee Gees, 1978",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Night_Fever"
+  },
+  {
+    "phrase": "Someone You Loved",
+    "length": 17,
+    "letters": 15,
+    "words": 3,
+    "hint": "Song by Lewis Capaldi, 2018",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Someone_You_Loved"
+  },
+  {
+    "phrase": "Viva la Vida",
+    "length": 12,
+    "letters": 10,
+    "words": 3,
+    "hint": "Song by Coldplay, 2008",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Viva_la_Vida"
+  },
+  {
+    "phrase": "Islands in the Stream",
+    "length": 21,
+    "letters": 18,
+    "words": 4,
+    "hint": "Song by Kenny Rogers and Dolly Parton, 1983",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Islands_in_the_Stream_(song)"
+  },
+  {
+    "phrase": "Black or White",
+    "length": 14,
+    "letters": 12,
+    "words": 3,
+    "hint": "Song by Michael Jackson, 1991",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Black_or_White"
+  },
+  {
+    "phrase": "Because You Loved Me",
+    "length": 20,
+    "letters": 17,
+    "words": 4,
+    "hint": "Song by Celine Dion, 1996",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Because_You_Loved_Me"
+  },
+  {
+    "phrase": "Bohemian Rhapsody",
+    "length": 17,
+    "letters": 16,
+    "words": 2,
+    "hint": "Song by Queen, 1975",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Bohemian_Rhapsody"
+  },
+  {
+    "phrase": "Dancing Queen",
+    "length": 13,
+    "letters": 12,
+    "words": 2,
+    "hint": "Song by ABBA, 1976",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Dancing_Queen"
+  },
+  {
+    "phrase": "Do Wah Diddy Diddy",
+    "length": 18,
+    "letters": 15,
+    "words": 4,
+    "hint": "Song by Manfred Mann, 1964",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Do_Wah_Diddy_Diddy"
+  },
+  {
+    "phrase": "The Tears of a Clown",
+    "length": 20,
+    "letters": 16,
+    "words": 5,
+    "hint": "Song by Smokey Robinson & the Miracles, 1970",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/The_Tears_of_a_Clown"
+  },
+  {
+    "phrase": "We Are the World",
+    "length": 16,
+    "letters": 13,
+    "words": 4,
+    "hint": "Song by USA for Africa, 1985",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/We_Are_the_World"
+  },
+  {
+    "phrase": "I Want to Hold Your Hand",
+    "length": 24,
+    "letters": 19,
+    "words": 6,
+    "hint": "Song by the Beatles, 1963",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/I_Want_to_Hold_Your_Hand"
+  },
+  {
+    "phrase": "One Dance",
+    "length": 9,
+    "letters": 8,
+    "words": 2,
+    "hint": "Song by Drake featuring Wizkid and Kyla, 2016",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/One_Dance"
+  },
+  {
+    "phrase": "Eye of the Tiger",
+    "length": 16,
+    "letters": 13,
+    "words": 4,
+    "hint": "Song by Survivor, 1982",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Eye_of_the_Tiger"
+  },
+  {
+    "phrase": "My Way",
+    "length": 6,
+    "letters": 5,
+    "words": 2,
+    "hint": "Song by Frank Sinatra, 1969",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/My_Way"
+  },
+  {
+    "phrase": "Let It Be",
+    "length": 9,
+    "letters": 7,
+    "words": 3,
+    "hint": "Song by the Beatles, 1970",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Let_It_Be_(song)"
+  },
+  {
+    "phrase": "Someone like You",
+    "length": 16,
+    "letters": 14,
+    "words": 3,
+    "hint": "Song by Adele, 2011",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Someone_like_You_(Adele_song)"
+  },
+  {
+    "phrase": "I Love Rock 'n' Roll",
+    "length": 20,
+    "letters": 14,
+    "words": 5,
+    "hint": "Song by Joan Jett and the Blackhearts, 1982",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/I_Love_Rock_'n'_Roll"
+  },
+  {
+    "phrase": "Purple Rain",
+    "length": 11,
+    "letters": 10,
+    "words": 2,
+    "hint": "Song by Prince and the Revolution, 1984",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Purple_Rain_(song)"
+  },
+  {
+    "phrase": "Crazy in Love",
+    "length": 13,
+    "letters": 11,
+    "words": 3,
+    "hint": "Song by Beyoncé featuring Jay-Z, 2003",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Crazy_in_Love"
+  },
+  {
+    "phrase": "Can't Buy Me Love",
+    "length": 17,
+    "letters": 13,
+    "words": 4,
+    "hint": "Song by the Beatles, 1964",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Can't_Buy_Me_Love"
+  },
+  {
+    "phrase": "Fly Me to the Moon",
+    "length": 18,
+    "letters": 14,
+    "words": 5,
+    "hint": "Song by Kaye Ballard, 1954",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon"
+  },
+  {
+    "phrase": "Hey Jude",
+    "length": 8,
+    "letters": 7,
+    "words": 2,
+    "hint": "Song by the Beatles, 1968",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Hey_Jude"
+  },
+  {
+    "phrase": "We Didn't Start the Fire",
+    "length": 24,
+    "letters": 19,
+    "words": 5,
+    "hint": "Song by Billy Joel, 1989",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/We_Didn't_Start_the_Fire"
+  },
+  {
+    "phrase": "The Way We Were",
+    "length": 15,
+    "letters": 12,
+    "words": 4,
+    "hint": "Song by Barbra Streisand, 1973",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/The_Way_We_Were_(song)"
+  },
+  {
+    "phrase": "Your Song",
+    "length": 9,
+    "letters": 8,
+    "words": 2,
+    "hint": "Song by Elton John, 1970",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Your_Song"
+  },
+  {
+    "phrase": "La Bamba",
+    "length": 8,
+    "letters": 7,
+    "words": 2,
+    "hint": "Song by Ritchie Valens, 1958",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/La_Bamba_(song)"
+  },
+  {
+    "phrase": "All About That Bass",
+    "length": 19,
+    "letters": 16,
+    "words": 4,
+    "hint": "Song by Meghan Trainor, 2014",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/All_About_That_Bass"
+  },
+  {
+    "phrase": "Careless Whisper",
+    "length": 16,
+    "letters": 15,
+    "words": 2,
+    "hint": "Song by George Michael, 1984",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Careless_Whisper"
+  },
+  {
+    "phrase": "Can't Hold Us",
+    "length": 13,
+    "letters": 10,
+    "words": 3,
+    "hint": "Song by Macklemore & Ryan Lewis featuring Ray Dalton, 2011",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Can't_Hold_Us"
+  },
+  {
+    "phrase": "I Want It That Way",
+    "length": 18,
+    "letters": 14,
+    "words": 5,
+    "hint": "Song by Backstreet Boys, 1999",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/I_Want_It_That_Way"
+  },
+  {
+    "phrase": "My Sharona",
+    "length": 10,
+    "letters": 9,
+    "words": 2,
+    "hint": "Song by the Knack, 1979",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/My_Sharona"
+  },
+  {
+    "phrase": "Let's Stay Together",
+    "length": 19,
+    "letters": 16,
+    "words": 3,
+    "hint": "Song by Al Green, 1971",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Let's_Stay_Together_(Al_Green_song)"
+  },
+  {
+    "phrase": "Take On Me",
+    "length": 10,
+    "letters": 8,
+    "words": 3,
+    "hint": "Song by a-ha, 1984",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Take_On_Me"
+  },
+  {
+    "phrase": "Tik Tok",
+    "length": 7,
+    "letters": 6,
+    "words": 2,
+    "hint": "Song by Kesha, 2009",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Tik_Tok_(song)"
+  },
+  {
+    "phrase": "Karma Chameleon",
+    "length": 15,
+    "letters": 14,
+    "words": 2,
+    "hint": "Song by Culture Club, 1983",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Karma_Chameleon"
+  },
+  {
+    "phrase": "Seasons in the Sun",
+    "length": 18,
+    "letters": 15,
+    "words": 4,
+    "hint": "Song by Terry Jacks, 1973",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Seasons_in_the_Sun"
+  },
+  {
+    "phrase": "Bridge over Troubled Water",
+    "length": 26,
+    "letters": 23,
+    "words": 4,
+    "hint": "Song by Simon & Garfunkel, 1970",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Bridge_over_Troubled_Water_(song)"
+  },
+  {
+    "phrase": "Stop! In the Name of Love",
+    "length": 25,
+    "letters": 19,
+    "words": 6,
+    "hint": "Song by the Supremes, 1965",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Stop!_In_the_Name_of_Love"
+  },
+  {
+    "phrase": "Truly Madly Deeply",
+    "length": 18,
+    "letters": 16,
+    "words": 3,
+    "hint": "Song by Savage Garden, 1997",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Truly_Madly_Deeply_(song)"
+  },
+  {
+    "phrase": "Losing My Religion",
+    "length": 18,
+    "letters": 16,
+    "words": 3,
+    "hint": "Song by R.E.M., 1991",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Losing_My_Religion"
+  },
+  {
+    "phrase": "Hit the Road Jack",
+    "length": 17,
+    "letters": 14,
+    "words": 4,
+    "hint": "Song by Ray Charles, 1961",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Hit_the_Road_Jack"
+  },
+  {
+    "phrase": "Piano Man",
+    "length": 9,
+    "letters": 8,
+    "words": 2,
+    "hint": "Song by Billy Joel, 1973",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Piano_Man"
+  },
+  {
+    "phrase": "Save the Last Dance for Me",
+    "length": 26,
+    "letters": 21,
+    "words": 6,
+    "hint": "Song by the Drifters, 1960",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Save_the_Last_Dance_for_Me"
+  },
+  {
+    "phrase": "Mack the Knife",
+    "length": 14,
+    "letters": 12,
+    "words": 3,
+    "hint": "Song by Bobby Darin, 1959",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Mack_the_Knife"
+  },
+  {
+    "phrase": "Just the Way You Are",
+    "length": 20,
+    "letters": 16,
+    "words": 5,
+    "hint": "Song by Bruno Mars, 2010",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Just_the_Way_You_Are_(Bruno_Mars_song)"
+  },
+  {
+    "phrase": "The Lion Sleeps Tonight",
+    "length": 23,
+    "letters": 20,
+    "words": 4,
+    "hint": "Song by the Tokens, 1961",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/The_Lion_Sleeps_Tonight"
+  },
+  {
+    "phrase": "One Sweet Day",
+    "length": 13,
+    "letters": 11,
+    "words": 3,
+    "hint": "Song by Mariah Carey and Boyz II Men, 1995",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/One_Sweet_Day"
+  },
+  {
+    "phrase": "Wrecking Ball",
+    "length": 13,
+    "letters": 12,
+    "words": 2,
+    "hint": "Song by Miley Cyrus, 2013",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Wrecking_Ball_(Miley_Cyrus_song)"
+  },
+  {
+    "phrase": "Unchained Melody",
+    "length": 16,
+    "letters": 15,
+    "words": 2,
+    "hint": "Song by the Righteous Brothers, 1965",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Unchained_Melody"
+  },
+  {
+    "phrase": "See You Again",
+    "length": 13,
+    "letters": 11,
+    "words": 3,
+    "hint": "Song by Wiz Khalifa featuring Charlie Puth, 2015",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/See_You_Again"
+  },
+  {
+    "phrase": "Don't You Want Me",
+    "length": 17,
+    "letters": 13,
+    "words": 4,
+    "hint": "Song by the Human League, 1981",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Don't_You_Want_Me"
+  },
+  {
+    "phrase": "End of the Road",
+    "length": 15,
+    "letters": 12,
+    "words": 4,
+    "hint": "Song by Boyz II Men, 1992",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/End_of_the_Road_(Boyz_II_Men_song)"
+  },
+  {
+    "phrase": "Breaking Up Is Hard to Do",
+    "length": 25,
+    "letters": 20,
+    "words": 6,
+    "hint": "Song by Neil Sedaka, 1962",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Breaking_Up_Is_Hard_to_Do"
+  },
+  {
+    "phrase": "Genie in a Bottle",
+    "length": 17,
+    "letters": 14,
+    "words": 4,
+    "hint": "Song by Christina Aguilera, 1999",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Genie_in_a_Bottle"
+  },
+  {
+    "phrase": "Uptown Funk",
+    "length": 11,
+    "letters": 10,
+    "words": 2,
+    "hint": "Song by Mark Ronson featuring Bruno Mars, 2014",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Uptown_Funk"
+  },
+  {
+    "phrase": "Reach Out I'll Be There",
+    "length": 23,
+    "letters": 18,
+    "words": 5,
+    "hint": "Song by the Four Tops, 1966",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Reach_Out_I'll_Be_There"
+  },
+  {
+    "phrase": "Somebody That I Used to Know",
+    "length": 28,
+    "letters": 23,
+    "words": 6,
+    "hint": "Song by Gotye featuring Kimbra, 2011",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Somebody_That_I_Used_to_Know"
+  },
+  {
+    "phrase": "Jessie's Girl",
+    "length": 13,
+    "letters": 11,
+    "words": 2,
+    "hint": "Song by Rick Springfield, 1981",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Jessie's_Girl"
+  },
+  {
+    "phrase": "She Loves You",
+    "length": 13,
+    "letters": 11,
+    "words": 3,
+    "hint": "Song by the Beatles, 1963",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/She_Loves_You"
+  },
+  {
+    "phrase": "Stand by Me",
+    "length": 11,
+    "letters": 9,
+    "words": 3,
+    "hint": "Song by Ben E. King, 1961",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Stand_by_Me_(Ben_E._King_song)"
+  },
+  {
+    "phrase": "Empire State of Mind",
+    "length": 20,
+    "letters": 17,
+    "words": 4,
+    "hint": "Song by Jay-Z and Alicia Keys, 2009",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Empire_State_of_Mind"
+  },
+  {
+    "phrase": "Love Will Keep Us Together",
+    "length": 26,
+    "letters": 22,
+    "words": 5,
+    "hint": "Song by Captain & Tennille, 1975",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Love_Will_Keep_Us_Together"
+  },
+  {
+    "phrase": "Rocket Man",
+    "length": 10,
+    "letters": 9,
+    "words": 2,
+    "hint": "Song by Elton John, 1972",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Rocket_Man_(song)"
+  },
+  {
+    "phrase": "The Boy Is Mine",
+    "length": 15,
+    "letters": 12,
+    "words": 4,
+    "hint": "Song by Brandy and Monica, 1998",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/The_Boy_Is_Mine_(Brandy_and_Monica_song)"
+  },
+  {
+    "phrase": "I Just Called to Say I Love You",
+    "length": 31,
+    "letters": 24,
+    "words": 8,
+    "hint": "Song by Stevie Wonder, 1984",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/I_Just_Called_to_Say_I_Love_You"
+  },
+  {
+    "phrase": "Bette Davis Eyes",
+    "length": 16,
+    "letters": 14,
+    "words": 3,
+    "hint": "Song by Kim Carnes, 1981",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Bette_Davis_Eyes"
+  },
+  {
+    "phrase": "Le Freak",
+    "length": 8,
+    "letters": 7,
+    "words": 2,
+    "hint": "Song by Chic, 1978",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Le_Freak"
+  },
+  {
+    "phrase": "Time After Time",
+    "length": 15,
+    "letters": 13,
+    "words": 3,
+    "hint": "Song by Cyndi Lauper, 1984",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Time_After_Time_(Cyndi_Lauper_song)"
+  },
+  {
+    "phrase": "You Keep Me Hangin' On",
+    "length": 22,
+    "letters": 17,
+    "words": 5,
+    "hint": "Song by the Supremes, 1966",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/You_Keep_Me_Hangin'_On"
+  },
+  {
+    "phrase": "Always Be My Baby",
+    "length": 17,
+    "letters": 14,
+    "words": 4,
+    "hint": "Song by Mariah Carey, 1996",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Always_Be_My_Baby"
+  },
+  {
+    "phrase": "What a Wonderful World",
+    "length": 22,
+    "letters": 19,
+    "words": 4,
+    "hint": "Song by Louis Armstrong, 1967",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/What_a_Wonderful_World"
+  },
+  {
+    "phrase": "Daydream Believer",
+    "length": 17,
+    "letters": 16,
+    "words": 2,
+    "hint": "Song by the Monkees, 1967",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Daydream_Believer"
+  },
+  {
+    "phrase": "Oops!... I Did It Again",
+    "length": 23,
+    "letters": 15,
+    "words": 5,
+    "hint": "Song by Britney Spears, 2000",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Oops!..._I_Did_It_Again_(song)"
+  },
+  {
+    "phrase": "Twist and Shout",
+    "length": 15,
+    "letters": 13,
+    "words": 3,
+    "hint": "Song by the Beatles, 1963",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Twist_and_Shout"
+  },
+  {
+    "phrase": "You Can't Hurry Love",
+    "length": 20,
+    "letters": 16,
+    "words": 4,
+    "hint": "Song by the Supremes, 1966",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/You_Can't_Hurry_Love"
+  },
+  {
+    "phrase": "Big Girls Don't Cry",
+    "length": 19,
+    "letters": 15,
+    "words": 4,
+    "hint": "Song by the Four Seasons, 1962",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Big_Girls_Don't_Cry_(The_Four_Seasons_song)"
+  },
+  {
+    "phrase": "California Gurls",
+    "length": 16,
+    "letters": 15,
+    "words": 2,
+    "hint": "Song by Katy Perry featuring Snoop Dogg, 2010",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/California_Gurls"
+  },
+  {
+    "phrase": "Billie Jean",
+    "length": 11,
+    "letters": 10,
+    "words": 2,
+    "hint": "Song by Michael Jackson, 1983",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Billie_Jean"
+  },
+  {
+    "phrase": "God's Plan",
+    "length": 10,
+    "letters": 8,
+    "words": 2,
+    "hint": "Song by Drake, 2018",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/God's_Plan_(song)"
+  },
+  {
+    "phrase": "Born This Way",
+    "length": 13,
+    "letters": 11,
+    "words": 3,
+    "hint": "Song by Lady Gaga, 2011",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Born_This_Way_(song)"
+  },
+  {
+    "phrase": "Highway to Hell",
+    "length": 15,
+    "letters": 13,
+    "words": 3,
+    "hint": "Song by AC/DC, 1979",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Highway_to_Hell_(song)"
+  },
+  {
+    "phrase": "Rockin' Around the Christmas Tree",
+    "length": 33,
+    "letters": 28,
+    "words": 5,
+    "hint": "Song by Brenda Lee, 1958",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Rockin'_Around_the_Christmas_Tree"
+  },
+  {
+    "phrase": "Independent Women",
+    "length": 17,
+    "letters": 16,
+    "words": 2,
+    "hint": "Song by Destiny's Child, 2000",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Independent_Women_Part_I"
+  },
+  {
+    "phrase": "The Sound of Silence",
+    "length": 20,
+    "letters": 17,
+    "words": 4,
+    "hint": "Song by Simon & Garfunkel, 1964",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/The_Sound_of_Silence"
+  },
+  {
+    "phrase": "I'll Be Missing You",
+    "length": 19,
+    "letters": 15,
+    "words": 4,
+    "hint": "Song by Puff Daddy and Faith Evans featuring 112, 1997",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/I'll_Be_Missing_You"
+  },
+  {
+    "phrase": "Smoke Gets in Your Eyes",
+    "length": 23,
+    "letters": 19,
+    "words": 5,
+    "hint": "Song by the Platters, 1958",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Smoke_Gets_in_Your_Eyes"
+  },
+  {
+    "phrase": "I Wanna Dance with Somebody",
+    "length": 27,
+    "letters": 23,
+    "words": 5,
+    "hint": "Song by Whitney Houston, 1987",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/I_Wanna_Dance_with_Somebody_(Who_Loves_Me)"
+  },
+  {
+    "phrase": "We Are Never Ever Getting Back Together",
+    "length": 39,
+    "letters": 33,
+    "words": 7,
+    "hint": "Song by Taylor Swift, 2012",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/We_Are_Never_Ever_Getting_Back_Together"
+  },
+  {
+    "phrase": "Play That Funky Music",
+    "length": 21,
+    "letters": 18,
+    "words": 4,
+    "hint": "Song by Wild Cherry, 1976",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Play_That_Funky_Music"
+  },
+  {
+    "phrase": "Crazy Little Thing Called Love",
+    "length": 30,
+    "letters": 26,
+    "words": 5,
+    "hint": "Song by Queen, 1979",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Crazy_Little_Thing_Called_Love"
+  },
+  {
+    "phrase": "A Horse with No Name",
+    "length": 20,
+    "letters": 16,
+    "words": 5,
+    "hint": "Song by America, 1971",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/A_Horse_with_No_Name"
+  },
+  {
+    "phrase": "Seven Nation Army",
+    "length": 17,
+    "letters": 15,
+    "words": 3,
+    "hint": "Song by the White Stripes, 2003",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Seven_Nation_Army"
+  },
+  {
+    "phrase": "Right Here Waiting",
+    "length": 18,
+    "letters": 16,
+    "words": 3,
+    "hint": "Song by Richard Marx, 1989",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Right_Here_Waiting"
+  },
+  {
+    "phrase": "Don't Worry, Be Happy",
+    "length": 21,
+    "letters": 16,
+    "words": 4,
+    "hint": "Song by Bobby McFerrin, 1988",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Don't_Worry,_Be_Happy"
+  },
+  {
+    "phrase": "Sugar, Sugar",
+    "length": 12,
+    "letters": 10,
+    "words": 2,
+    "hint": "Song by the Archies, 1969",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Sugar,_Sugar"
+  },
+  {
+    "phrase": "Welcome to the Jungle",
+    "length": 21,
+    "letters": 18,
+    "words": 4,
+    "hint": "Song by Guns N' Roses, 1987",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Jungle"
+  },
+  {
+    "phrase": "It Must Have Been Love",
+    "length": 22,
+    "letters": 18,
+    "words": 5,
+    "hint": "Song by Roxette, 1987",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/It_Must_Have_Been_Love"
+  },
+  {
+    "phrase": "Get Back",
+    "length": 8,
+    "letters": 7,
+    "words": 2,
+    "hint": "Song by the Beatles with Billy Preston, 1969",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Get_Back"
+  },
+  {
+    "phrase": "Isn't She Lovely",
+    "length": 16,
+    "letters": 13,
+    "words": 3,
+    "hint": "Song by Stevie Wonder, 1976",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Isn't_She_Lovely"
+  },
+  {
+    "phrase": "Will You Love Me Tomorrow",
+    "length": 25,
+    "letters": 21,
+    "words": 5,
+    "hint": "Song by the Shirelles, 1960",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Will_You_Love_Me_Tomorrow"
+  },
+  {
+    "phrase": "Hound Dog",
+    "length": 9,
+    "letters": 8,
+    "words": 2,
+    "hint": "Song by Elvis Presley, 1956",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Hound_Dog_(song)"
+  },
+  {
+    "phrase": "Just Dance",
+    "length": 10,
+    "letters": 9,
+    "words": 2,
+    "hint": "Song by Lady Gaga featuring Colby O'Donis, 2008",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Just_Dance_(song)"
+  },
+  {
+    "phrase": "Stairway to Heaven",
+    "length": 18,
+    "letters": 16,
+    "words": 3,
+    "hint": "Song by Led Zeppelin, 1971",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Stairway_to_Heaven"
+  },
+  {
+    "phrase": "Livin' la Vida Loca",
+    "length": 19,
+    "letters": 15,
+    "words": 4,
+    "hint": "Song by Ricky Martin, 1999",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Livin'_la_Vida_Loca"
+  },
+  {
+    "phrase": "Lady Marmalade",
+    "length": 14,
+    "letters": 13,
+    "words": 2,
+    "hint": "Song by Labelle, 1974",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Lady_Marmalade"
+  },
+  {
+    "phrase": "Call Me Maybe",
+    "length": 13,
+    "letters": 11,
+    "words": 3,
+    "hint": "Song by Carly Rae Jepsen, 2011",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Call_Me_Maybe"
+  },
+  {
+    "phrase": "Hey Ya!",
+    "length": 7,
+    "letters": 5,
+    "words": 2,
+    "hint": "Song by Outkast, 2003",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Hey_Ya!"
+  },
+  {
+    "phrase": "The Sign",
+    "length": 8,
+    "letters": 7,
+    "words": 2,
+    "hint": "Song by Ace of Base, 1993",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/The_Sign_(song)"
+  },
+  {
+    "phrase": "As It Was",
+    "length": 9,
+    "letters": 7,
+    "words": 3,
+    "hint": "Song by Harry Styles, 2022",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/As_It_Was"
+  },
+  {
+    "phrase": "Don't Stop Me Now",
+    "length": 17,
+    "letters": 13,
+    "words": 4,
+    "hint": "Song by Queen, 1979",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Don't_Stop_Me_Now"
+  },
+  {
+    "phrase": "We Built This City",
+    "length": 18,
+    "letters": 15,
+    "words": 4,
+    "hint": "Song by Starship, 1985",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/We_Built_This_City"
+  },
+  {
+    "phrase": "When Doves Cry",
+    "length": 14,
+    "letters": 12,
+    "words": 3,
+    "hint": "Song by Prince, 1984",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/When_Doves_Cry"
+  },
+  {
+    "phrase": "Ain't No Sunshine",
+    "length": 17,
+    "letters": 14,
+    "words": 3,
+    "hint": "Song by Bill Withers, 1971",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Ain't_No_Sunshine"
+  },
+  {
+    "phrase": "Look What You Made Me Do",
+    "length": 24,
+    "letters": 19,
+    "words": 6,
+    "hint": "Song by Taylor Swift, 2017",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Look_What_You_Made_Me_Do"
+  },
+  {
+    "phrase": "Eight Days a Week",
+    "length": 17,
+    "letters": 14,
+    "words": 4,
+    "hint": "Song by the Beatles, 1964",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Eight_Days_a_Week"
+  },
+  {
+    "phrase": "Call Me",
+    "length": 7,
+    "letters": 6,
+    "words": 2,
+    "hint": "Song by Blondie, 1980",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Call_Me_(Blondie_song)"
+  },
+  {
+    "phrase": "Endless Love",
+    "length": 12,
+    "letters": 11,
+    "words": 2,
+    "hint": "Song by Diana Ross and Lionel Richie, 1981",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Endless_Love_(song)"
+  },
+  {
+    "phrase": "I Heard It Through the Grapevine",
+    "length": 32,
+    "letters": 27,
+    "words": 6,
+    "hint": "Song by Marvin Gaye, 1968",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/I_Heard_It_Through_the_Grapevine"
+  },
+  {
+    "phrase": "Easy on Me",
+    "length": 10,
+    "letters": 8,
+    "words": 3,
+    "hint": "Song by Adele, 2021",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Easy_on_Me"
+  },
+  {
+    "phrase": "Smells Like Teen Spirit",
+    "length": 23,
+    "letters": 20,
+    "words": 4,
+    "hint": "Song by Nirvana, 1991",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit"
+  },
+  {
+    "phrase": "Monster Mash",
+    "length": 12,
+    "letters": 11,
+    "words": 2,
+    "hint": "Song by Bobby Boris Pickett and the Crypt-Kickers, 1962",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Monster_Mash"
+  },
+  {
+    "phrase": "Man in the Mirror",
+    "length": 17,
+    "letters": 14,
+    "words": 4,
+    "hint": "Song by Michael Jackson, 1988",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Man_in_the_Mirror"
+  },
+  {
+    "phrase": "Love Yourself",
+    "length": 13,
+    "letters": 12,
+    "words": 2,
+    "hint": "Song by Justin Bieber, 2015",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Love_Yourself"
+  },
+  {
+    "phrase": "Kung Fu Fighting",
+    "length": 16,
+    "letters": 14,
+    "words": 3,
+    "hint": "Song by Carl Douglas, 1974",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Kung_Fu_Fighting"
+  },
+  {
+    "phrase": "The House of the Rising Sun",
+    "length": 27,
+    "letters": 22,
+    "words": 6,
+    "hint": "Song by the Animals, 1964",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/The_House_of_the_Rising_Sun"
+  },
+  {
+    "phrase": "Crocodile Rock",
+    "length": 14,
+    "letters": 13,
+    "words": 2,
+    "hint": "Song by Elton John, 1972",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Crocodile_Rock"
+  },
+  {
+    "phrase": "Shake It Off",
+    "length": 12,
+    "letters": 10,
+    "words": 3,
+    "hint": "Song by Taylor Swift, 2014",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Shake_It_Off"
+  },
+  {
+    "phrase": "Sweet Child o' Mine",
+    "length": 19,
+    "letters": 15,
+    "words": 4,
+    "hint": "Song by Guns N' Roses, 1988",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Sweet_Child_o'_Mine"
+  },
+  {
+    "phrase": "Bad Guy",
+    "length": 7,
+    "letters": 6,
+    "words": 2,
+    "hint": "Song by Billie Eilish, 2019",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Bad_Guy_(Billie_Eilish_song)"
+  },
+  {
+    "phrase": "Another Day in Paradise",
+    "length": 23,
+    "letters": 20,
+    "words": 4,
+    "hint": "Song by Phil Collins, 1989",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Another_Day_in_Paradise"
+  },
+  {
+    "phrase": "Ain't No Mountain High Enough",
+    "length": 29,
+    "letters": 24,
+    "words": 5,
+    "hint": "Song by Marvin Gaye & Tammi Terrell, 1967",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Ain't_No_Mountain_High_Enough"
+  },
+  {
+    "phrase": "Down Under",
+    "length": 10,
+    "letters": 9,
+    "words": 2,
+    "hint": "Song by Men at Work, 1981",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Down_Under_(song)"
+  },
+  {
+    "phrase": "I Don't Want to Miss a Thing",
+    "length": 28,
+    "letters": 21,
+    "words": 7,
+    "hint": "Song by Aerosmith, 1998",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/I_Don't_Want_to_Miss_a_Thing"
+  },
+  {
+    "phrase": "Beat It",
+    "length": 7,
+    "letters": 6,
+    "words": 2,
+    "hint": "Song by Michael Jackson, 1983",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Beat_It"
+  },
+  {
+    "phrase": "We Are Young",
+    "length": 12,
+    "letters": 10,
+    "words": 3,
+    "hint": "Song by Fun featuring Janelle Monáe, 2011",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/We_Are_Young"
+  },
+  {
+    "phrase": "Wind of Change",
+    "length": 14,
+    "letters": 12,
+    "words": 3,
+    "hint": "Song by Scorpions, 1991",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Wind_of_Change_(Scorpions_song)"
+  },
+  {
+    "phrase": "All You Need Is Love",
+    "length": 20,
+    "letters": 16,
+    "words": 5,
+    "hint": "Song by the Beatles, 1967",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/All_You_Need_Is_Love"
+  },
+  {
+    "phrase": "Moves like Jagger",
+    "length": 17,
+    "letters": 15,
+    "words": 3,
+    "hint": "Song by Maroon 5 featuring Christina Aguilera, 2011",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Moves_like_Jagger"
+  },
+  {
+    "phrase": "I Will Survive",
+    "length": 14,
+    "letters": 12,
+    "words": 3,
+    "hint": "Song by Gloria Gaynor, 1978",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/I_Will_Survive"
+  },
+  {
+    "phrase": "Don't Stop Believin'",
+    "length": 20,
+    "letters": 16,
+    "words": 3,
+    "hint": "Song by Journey, 1981",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Don't_Stop_Believin'"
+  },
+  {
+    "phrase": "Hollaback Girl",
+    "length": 14,
+    "letters": 13,
+    "words": 2,
+    "hint": "Song by Gwen Stefani, 2005",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Hollaback_Girl"
+  },
+  {
+    "phrase": "Like a Rolling Stone",
+    "length": 20,
+    "letters": 17,
+    "words": 4,
+    "hint": "Song by Bob Dylan, 1965",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Like_a_Rolling_Stone"
+  },
+  {
+    "phrase": "Light My Fire",
+    "length": 13,
+    "letters": 11,
+    "words": 3,
+    "hint": "Song by the Doors, 1967",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Light_My_Fire"
+  },
+  {
+    "phrase": "We Don't Talk About Bruno",
+    "length": 25,
+    "letters": 20,
+    "words": 5,
+    "hint": "Song from Disney's Encanto, 2021",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/We_Don't_Talk_About_Bruno"
+  },
+  {
+    "phrase": "We Found Love",
+    "length": 13,
+    "letters": 11,
+    "words": 3,
+    "hint": "Song by Rihanna featuring Calvin Harris, 2011",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/We_Found_Love"
+  },
+  {
+    "phrase": "Gangsta's Paradise",
+    "length": 18,
+    "letters": 16,
+    "words": 2,
+    "hint": "Song by Coolio featuring L.V., 1995",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Gangsta's_Paradise"
+  },
+  {
+    "phrase": "My Heart Will Go On",
+    "length": 19,
+    "letters": 15,
+    "words": 5,
+    "hint": "Song by Celine Dion, 1997",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/My_Heart_Will_Go_On"
+  },
+  {
+    "phrase": "Shape of You",
+    "length": 12,
+    "letters": 10,
+    "words": 3,
+    "hint": "Song by Ed Sheeran, 2017",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Shape_of_You"
+  },
+  {
+    "phrase": "Under Pressure",
+    "length": 14,
+    "letters": 13,
+    "words": 2,
+    "hint": "Song by Queen and David Bowie, 1981",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Under_Pressure"
+  },
+  {
+    "phrase": "Vision of Love",
+    "length": 14,
+    "letters": 12,
+    "words": 3,
+    "hint": "Song by Mariah Carey, 1990",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Vision_of_Love"
+  },
+  {
+    "phrase": "American Pie",
+    "length": 12,
+    "letters": 11,
+    "words": 2,
+    "hint": "Song by Don McLean, 1971",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/American_Pie_(song)"
+  },
+  {
+    "phrase": "Lean on Me",
+    "length": 10,
+    "letters": 8,
+    "words": 3,
+    "hint": "Song by Bill Withers, 1972",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Lean_on_Me_(song)"
+  },
+  {
+    "phrase": "Die with a Smile",
+    "length": 16,
+    "letters": 13,
+    "words": 4,
+    "hint": "Song by Lady Gaga and Bruno Mars, 2024",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Die_with_a_Smile"
+  },
+  {
+    "phrase": "Bleeding Love",
+    "length": 13,
+    "letters": 12,
+    "words": 2,
+    "hint": "Song by Leona Lewis, 2007",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Bleeding_Love"
+  },
+  {
+    "phrase": "Like a Virgin",
+    "length": 13,
+    "letters": 11,
+    "words": 3,
+    "hint": "Song by Madonna, 1984",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Like_a_Virgin_(song)"
+  },
+  {
+    "phrase": "How Deep Is Your Love",
+    "length": 21,
+    "letters": 17,
+    "words": 5,
+    "hint": "Song by Bee Gees, 1977",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/How_Deep_Is_Your_Love_(Bee_Gees_song)"
+  },
+  {
+    "phrase": "What's Going On",
+    "length": 15,
+    "letters": 12,
+    "words": 3,
+    "hint": "Song by Marvin Gaye, 1971",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/What's_Going_On_(song)"
+  },
+  {
+    "phrase": "Drivers License",
+    "length": 15,
+    "letters": 14,
+    "words": 2,
+    "hint": "Song by Olivia Rodrigo, 2021",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Drivers_License_(song)"
+  },
+  {
+    "phrase": "Livin' on a Prayer",
+    "length": 18,
+    "letters": 14,
+    "words": 4,
+    "hint": "Song by Bon Jovi, 1986",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Livin'_on_a_Prayer"
+  },
+  {
+    "phrase": "Should I Stay or Should I Go",
+    "length": 28,
+    "letters": 22,
+    "words": 7,
+    "hint": "Song by the Clash, 1982",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Should_I_Stay_or_Should_I_Go"
+  },
+  {
+    "phrase": "Every Breath You Take",
+    "length": 21,
+    "letters": 18,
+    "words": 4,
+    "hint": "Song by the Police, 1983",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Every_Breath_You_Take"
+  },
+  {
+    "phrase": "My Girl",
+    "length": 7,
+    "letters": 6,
+    "words": 2,
+    "hint": "Song by the Temptations, 1964",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/My_Girl_(The_Temptations_song)"
+  },
+  {
+    "phrase": "Mrs. Robinson",
+    "length": 13,
+    "letters": 11,
+    "words": 2,
+    "hint": "Song by Simon & Garfunkel, 1968",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Mrs._Robinson"
+  },
+  {
+    "phrase": "Teenage Dream",
+    "length": 13,
+    "letters": 12,
+    "words": 2,
+    "hint": "Song by Katy Perry, 2010",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Teenage_Dream_(Katy_Perry_song)"
+  },
+  {
+    "phrase": "Great Balls of Fire",
+    "length": 19,
+    "letters": 16,
+    "words": 4,
+    "hint": "Song by Jerry Lee Lewis, 1957",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Great_Balls_of_Fire"
+  },
+  {
+    "phrase": "Rock with You",
+    "length": 13,
+    "letters": 11,
+    "words": 3,
+    "hint": "Song by Michael Jackson, 1979",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Rock_with_You"
+  },
+  {
+    "phrase": "I Want to Know What Love Is",
+    "length": 27,
+    "letters": 21,
+    "words": 7,
+    "hint": "Song by Foreigner, 1984",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/I_Want_to_Know_What_Love_Is"
+  },
+  {
+    "phrase": "Rolling in the Deep",
+    "length": 19,
+    "letters": 16,
+    "words": 4,
+    "hint": "Song by Adele, 2010",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Rolling_in_the_Deep"
+  },
+  {
+    "phrase": "Dark Horse",
+    "length": 10,
+    "letters": 9,
+    "words": 2,
+    "hint": "Song by Katy Perry featuring Juicy J, 2013",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Dark_Horse_(Katy_Perry_song)"
+  },
+  {
+    "phrase": "We Can Work It Out",
+    "length": 18,
+    "letters": 14,
+    "words": 5,
+    "hint": "Song by the Beatles, 1965",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/We_Can_Work_It_Out"
+  },
+  {
+    "phrase": "The Loco-Motion",
+    "length": 15,
+    "letters": 13,
+    "words": 2,
+    "hint": "Song by Little Eva, 1962",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/The_Loco-Motion"
+  },
+  {
+    "phrase": "Killing Me Softly with His Song",
+    "length": 31,
+    "letters": 26,
+    "words": 6,
+    "hint": "Song by Roberta Flack, 1973",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Killing_Me_Softly_with_His_Song"
+  },
+  {
+    "phrase": "Never Gonna Give You Up",
+    "length": 23,
+    "letters": 19,
+    "words": 5,
+    "hint": "Song by Rick Astley, 1987",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Never_Gonna_Give_You_Up"
+  },
+  {
+    "phrase": "Locked Out of Heaven",
+    "length": 20,
+    "letters": 17,
+    "words": 4,
+    "hint": "Song by Bruno Mars, 2012",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Locked_Out_of_Heaven"
+  },
+  {
+    "phrase": "You've Lost That Lovin' Feelin'",
+    "length": 31,
+    "letters": 24,
+    "words": 5,
+    "hint": "Song by the Righteous Brothers, 1964",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/You've_Lost_That_Lovin'_Feelin'"
+  },
+  {
+    "phrase": "We Are the Champions",
+    "length": 20,
+    "letters": 17,
+    "words": 4,
+    "hint": "Song by Queen, 1977",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/We_Are_the_Champions"
+  },
+  {
+    "phrase": "I Will Always Love You",
+    "length": 22,
+    "letters": 18,
+    "words": 5,
+    "hint": "Song by Dolly Parton, 1974",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/I_Will_Always_Love_You"
+  },
+  {
+    "phrase": "Johnny B. Goode",
+    "length": 15,
+    "letters": 12,
+    "words": 3,
+    "hint": "Song by Chuck Berry, 1958",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Johnny_B._Goode"
+  },
+  {
+    "phrase": "Jailhouse Rock",
+    "length": 14,
+    "letters": 13,
+    "words": 2,
+    "hint": "Song by Elvis Presley, 1957",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Jailhouse_Rock_(song)"
+  },
+  {
+    "phrase": "With or Without You",
+    "length": 19,
+    "letters": 16,
+    "words": 4,
+    "hint": "Song by U2, 1987",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/With_or_Without_You"
+  },
+  {
+    "phrase": "Tiny Dancer",
+    "length": 11,
+    "letters": 10,
+    "words": 2,
+    "hint": "Song by Elton John, 1972",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Tiny_Dancer"
+  },
+  {
+    "phrase": "Sweet Caroline",
+    "length": 14,
+    "letters": 13,
+    "words": 2,
+    "hint": "Song by Neil Diamond, 1969",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Sweet_Caroline"
+  },
+  {
+    "phrase": "Can't Fight This Feeling",
+    "length": 24,
+    "letters": 20,
+    "words": 4,
+    "hint": "Song by REO Speedwagon, 1984",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Can't_Fight_This_Feeling"
+  },
+  {
+    "phrase": "Every Rose Has Its Thorn",
+    "length": 24,
+    "letters": 20,
+    "words": 5,
+    "hint": "Song by Poison, 1988",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Every_Rose_Has_Its_Thorn"
+  },
+  {
+    "phrase": "We Will Rock You",
+    "length": 16,
+    "letters": 13,
+    "words": 4,
+    "hint": "Song by Queen, 1977",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/We_Will_Rock_You"
+  },
+  {
+    "phrase": "Blue Moon",
+    "length": 9,
+    "letters": 8,
+    "words": 2,
+    "hint": "Song by the Marcels, 1961",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Blue_Moon_(1934_song)"
+  },
+  {
+    "phrase": "It's Now or Never",
+    "length": 17,
+    "letters": 13,
+    "words": 4,
+    "hint": "Song by Elvis Presley, 1960",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/It's_Now_or_Never_(song)"
+  },
+  {
+    "phrase": "Hot Stuff",
+    "length": 9,
+    "letters": 8,
+    "words": 2,
+    "hint": "Song by Donna Summer, 1979",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Hot_Stuff_(Donna_Summer_song)"
+  },
+  {
+    "phrase": "Set Fire to the Rain",
+    "length": 20,
+    "letters": 16,
+    "words": 5,
+    "hint": "Song by Adele, 2011",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Set_Fire_to_the_Rain"
+  },
+  {
+    "phrase": "Lose Yourself",
+    "length": 13,
+    "letters": 12,
+    "words": 2,
+    "hint": "Song by Eminem, 2002",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Lose_Yourself"
+  },
+  {
+    "phrase": "The Long and Winding Road",
+    "length": 25,
+    "letters": 21,
+    "words": 5,
+    "hint": "Song by the Beatles, 1970",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/The_Long_and_Winding_Road"
+  },
+  {
+    "phrase": "Girls Just Want to Have Fun",
+    "length": 27,
+    "letters": 22,
+    "words": 6,
+    "hint": "Song by Cyndi Lauper, 1983",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Girls_Just_Want_to_Have_Fun"
+  },
+  {
+    "phrase": "Like a Prayer",
+    "length": 13,
+    "letters": 11,
+    "words": 3,
+    "hint": "Song by Madonna, 1989",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Like_a_Prayer_(song)"
+  },
+  {
+    "phrase": "Good Vibrations",
+    "length": 15,
+    "letters": 14,
+    "words": 2,
+    "hint": "Song by the Beach Boys, 1966",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Good_Vibrations"
+  },
+  {
+    "phrase": "Bad, Bad Leroy Brown",
+    "length": 20,
+    "letters": 16,
+    "words": 4,
+    "hint": "Song by Jim Croce, 1973",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Bad,_Bad_Leroy_Brown"
+  },
+  {
+    "phrase": "Stayin' Alive",
+    "length": 13,
+    "letters": 11,
+    "words": 2,
+    "hint": "Song by Bee Gees, 1977",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Stayin'_Alive"
+  },
+  {
+    "phrase": "Everybody Wants to Rule the World",
+    "length": 33,
+    "letters": 28,
+    "words": 6,
+    "hint": "Song by Tears for Fears, 1985",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Everybody_Wants_to_Rule_the_World"
+  },
+  {
+    "phrase": "Hotel California",
+    "length": 16,
+    "letters": 15,
+    "words": 2,
+    "hint": "Song by Eagles, 1977",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Hotel_California"
+  },
+  {
+    "phrase": "Money for Nothing",
+    "length": 17,
+    "letters": 15,
+    "words": 3,
+    "hint": "Song by Dire Straits, 1985",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Money_for_Nothing"
+  },
+  {
+    "phrase": "Ebony and Ivory",
+    "length": 15,
+    "letters": 13,
+    "words": 3,
+    "hint": "Song by Paul McCartney featuring Stevie Wonder, 1982",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Ebony_and_Ivory"
+  },
+  {
+    "phrase": "Don't Go Breaking My Heart",
+    "length": 26,
+    "letters": 21,
+    "words": 5,
+    "hint": "Song by Elton John and Kiki Dee, 1976",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Don't_Go_Breaking_My_Heart"
+  },
+  {
+    "phrase": "Un-Break My Heart",
+    "length": 17,
+    "letters": 14,
+    "words": 3,
+    "hint": "Song by Toni Braxton, 1996",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Un-Break_My_Heart"
+  },
+  {
+    "phrase": "Born to Run",
+    "length": 11,
+    "letters": 9,
+    "words": 3,
+    "hint": "Song by Bruce Springsteen, 1975",
+    "category": "song",
+    "source": "https://en.wikipedia.org/wiki/Born_to_Run_(song)"
+  }
+]

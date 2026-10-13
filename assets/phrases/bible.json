@@ -1,0 +1,200 @@
+[
+  {
+    "phrase": "The truth shall make you free",
+    "length": 29,
+    "letters": 24,
+    "words": 6,
+    "hint": "Words of Jesus, Gospel of John",
+    "category": "bible",
+    "source": "https://en.wikipedia.org/wiki/The_truth_will_set_you_free"
+  },
+  {
+    "phrase": "The love of money is the root of all evil",
+    "length": 41,
+    "letters": 32,
+    "words": 10,
+    "hint": "The Bible, First Epistle to Timothy",
+    "category": "bible",
+    "source": "https://en.wiktionary.org/wiki/the_love_of_money_is_the_root_of_all_evil"
+  },
+  {
+    "phrase": "Let he who is without sin cast the first stone",
+    "length": 46,
+    "letters": 37,
+    "words": 10,
+    "hint": "Words of Jesus, Gospel of John",
+    "category": "bible",
+    "source": "https://en.wiktionary.org/wiki/let_he_who_is_without_sin_cast_the_first_stone"
+  },
+  {
+    "phrase": "Blessed are the meek, for they shall inherit the earth",
+    "length": 54,
+    "letters": 44,
+    "words": 10,
+    "hint": "Words of Jesus, Sermon on the Mount",
+    "category": "bible",
+    "source": "https://en.wikipedia.org/wiki/Beatitudes"
+  },
+  {
+    "phrase": "There is nothing new under the sun",
+    "length": 34,
+    "letters": 28,
+    "words": 7,
+    "hint": "The Bible, Book of Ecclesiastes",
+    "category": "bible",
+    "source": "https://en.wiktionary.org/wiki/there_is_nothing_new_under_the_sun"
+  },
+  {
+    "phrase": "An eye for an eye, a tooth for a tooth",
+    "length": 38,
+    "letters": 28,
+    "words": 10,
+    "hint": "Ancient law in the Bible's Book of Exodus",
+    "category": "bible",
+    "source": "https://en.wikipedia.org/wiki/Eye_for_an_eye"
+  },
+  {
+    "phrase": "The writing is on the wall",
+    "length": 26,
+    "letters": 21,
+    "words": 6,
+    "hint": "Saying from the Bible's Book of Daniel",
+    "category": "bible",
+    "source": "https://en.wiktionary.org/wiki/the_writing_is_on_the_wall"
+  },
+  {
+    "phrase": "Eat, drink and be merry",
+    "length": 23,
+    "letters": 18,
+    "words": 5,
+    "hint": "Saying from the books of Ecclesiastes and Luke",
+    "category": "bible",
+    "source": "https://en.wiktionary.org/wiki/eat,_drink_and_be_merry"
+  },
+  {
+    "phrase": "Judge not, that ye be not judged",
+    "length": 32,
+    "letters": 25,
+    "words": 7,
+    "hint": "Words of Jesus, Sermon on the Mount",
+    "category": "bible",
+    "source": "https://en.wikiquote.org/wiki/Gospel_of_Matthew"
+  },
+  {
+    "phrase": "Do unto others as you would have them do unto you",
+    "length": 49,
+    "letters": 39,
+    "words": 11,
+    "hint": "The Golden Rule",
+    "category": "bible",
+    "source": "https://en.wikipedia.org/wiki/Golden_Rule"
+  },
+  {
+    "phrase": "Spare the rod and spoil the child",
+    "length": 33,
+    "letters": 27,
+    "words": 7,
+    "hint": "Proverb based on the Book of Proverbs",
+    "category": "bible",
+    "source": "https://en.wikipedia.org/wiki/Spare_the_rod"
+  },
+  {
+    "phrase": "Let there be light",
+    "length": 18,
+    "letters": 15,
+    "words": 4,
+    "hint": "The Bible, Book of Genesis",
+    "category": "bible",
+    "source": "https://en.wikipedia.org/wiki/Let_there_be_light"
+  },
+  {
+    "phrase": "Seek and ye shall find",
+    "length": 22,
+    "letters": 18,
+    "words": 5,
+    "hint": "Words of Jesus, Sermon on the Mount",
+    "category": "bible",
+    "source": "https://en.wiktionary.org/wiki/seek_and_ye_shall_find"
+  },
+  {
+    "phrase": "A wolf in sheep's clothing",
+    "length": 26,
+    "letters": 21,
+    "words": 5,
+    "hint": "Warning from the Sermon on the Mount",
+    "category": "bible",
+    "source": "https://en.wikipedia.org/wiki/Wolf_in_sheep's_clothing"
+  },
+  {
+    "phrase": "Live by the sword, die by the sword",
+    "length": 35,
+    "letters": 27,
+    "words": 8,
+    "hint": "Saying based on words of Jesus",
+    "category": "bible",
+    "source": "https://en.wikipedia.org/wiki/Live_by_the_sword,_die_by_the_sword"
+  },
+  {
+    "phrase": "Man shall not live by bread alone",
+    "length": 33,
+    "letters": 27,
+    "words": 7,
+    "hint": "Words of Jesus in the Bible",
+    "category": "bible",
+    "source": "https://en.wiktionary.org/wiki/man_shall_not_live_by_bread_alone"
+  },
+  {
+    "phrase": "Render unto Caesar the things which are Caesar's",
+    "length": 48,
+    "letters": 40,
+    "words": 8,
+    "hint": "Words of Jesus on paying taxes",
+    "category": "bible",
+    "source": "https://en.wikipedia.org/wiki/Render_unto_Caesar"
+  },
+  {
+    "phrase": "Am I my brother's keeper?",
+    "length": 25,
+    "letters": 19,
+    "words": 5,
+    "hint": "Cain in the Bible, Book of Genesis",
+    "category": "bible",
+    "source": "https://en.wikipedia.org/wiki/Cain_and_Abel"
+  },
+  {
+    "phrase": "To every thing there is a season",
+    "length": 32,
+    "letters": 26,
+    "words": 7,
+    "hint": "The Bible, Book of Ecclesiastes",
+    "category": "bible",
+    "source": "https://en.wikiquote.org/wiki/Ecclesiastes"
+  },
+  {
+    "phrase": "Go the extra mile",
+    "length": 17,
+    "letters": 14,
+    "words": 4,
+    "hint": "Saying from the Sermon on the Mount",
+    "category": "bible",
+    "source": "https://en.wiktionary.org/wiki/go_the_extra_mile"
+  },
+  {
+    "phrase": "Love your neighbor as yourself",
+    "length": 30,
+    "letters": 26,
+    "words": 5,
+    "hint": "Biblical commandment",
+    "category": "bible",
+    "source": "https://en.wikipedia.org/wiki/Great_Commandment"
+  },
+  {
+    "phrase": "The spirit is willing, but the flesh is weak",
+    "length": 44,
+    "letters": 35,
+    "words": 9,
+    "hint": "Words of Jesus in Gethsemane",
+    "category": "bible",
+    "source": "https://en.wiktionary.org/wiki/the_spirit_is_willing,_but_the_flesh_is_weak"
+  }
+]

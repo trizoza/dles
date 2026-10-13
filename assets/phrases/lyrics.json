@@ -1,0 +1,1172 @@
+[
+  {
+    "phrase": "Ring around the rosie, a pocket full of posies",
+    "length": 46,
+    "letters": 37,
+    "words": 9,
+    "hint": "Traditional children's singing game",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Ring_a_Ring_o'_Roses"
+  },
+  {
+    "phrase": "Old MacDonald had a farm, E-I-E-I-O",
+    "length": 35,
+    "letters": 25,
+    "words": 6,
+    "hint": "Traditional children's song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Old_MacDonald_Had_a_Farm"
+  },
+  {
+    "phrase": "Frankie and Johnny were lovers",
+    "length": 30,
+    "letters": 26,
+    "words": 5,
+    "hint": "Traditional American murder ballad",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Frankie_and_Johnny_(song)"
+  },
+  {
+    "phrase": "Oh dear, what can the matter be?",
+    "length": 32,
+    "letters": 24,
+    "words": 7,
+    "hint": "Traditional English folk song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Oh_Dear!_What_Can_the_Matter_Be%3F"
+  },
+  {
+    "phrase": "Yankee Doodle went to town a-riding on a pony",
+    "length": 45,
+    "letters": 36,
+    "words": 9,
+    "hint": "Traditional American song from the 1700s",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Yankee_Doodle"
+  },
+  {
+    "phrase": "Hark! The herald angels sing",
+    "length": 28,
+    "letters": 23,
+    "words": 5,
+    "hint": "Christmas hymn by Charles Wesley, 1739",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Hark!_The_Herald_Angels_Sing"
+  },
+  {
+    "phrase": "When Johnny comes marching home again, hurrah, hurrah",
+    "length": 53,
+    "letters": 44,
+    "words": 8,
+    "hint": "American Civil War song by Patrick Gilmore, 1863",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/When_Johnny_Comes_Marching_Home"
+  },
+  {
+    "phrase": "And Bingo was his name-o",
+    "length": 24,
+    "letters": 19,
+    "words": 5,
+    "hint": "Traditional children's song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Bingo_(folk_song)"
+  },
+  {
+    "phrase": "The ants go marching one by one",
+    "length": 31,
+    "letters": 25,
+    "words": 7,
+    "hint": "Traditional children's song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/When_Johnny_Comes_Marching_Home"
+  },
+  {
+    "phrase": "O beautiful for spacious skies, for amber waves of grain",
+    "length": 56,
+    "letters": 46,
+    "words": 10,
+    "hint": "America the Beautiful, by Katharine Lee Bates, 1895",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/America_the_Beautiful"
+  },
+  {
+    "phrase": "The farmer in the dell",
+    "length": 22,
+    "letters": 18,
+    "words": 5,
+    "hint": "Traditional children's singing game",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/The_Farmer_in_the_Dell"
+  },
+  {
+    "phrase": "Amazing grace, how sweet the sound, that saved a wretch like me",
+    "length": 63,
+    "letters": 50,
+    "words": 12,
+    "hint": "Hymn by John Newton, 1779",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Amazing_Grace"
+  },
+  {
+    "phrase": "Michael, row the boat ashore, hallelujah",
+    "length": 40,
+    "letters": 33,
+    "words": 6,
+    "hint": "African-American spiritual",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Michael,_Row_the_Boat_Ashore"
+  },
+  {
+    "phrase": "Bring back, bring back, oh bring back my Bonnie to me",
+    "length": 53,
+    "letters": 41,
+    "words": 11,
+    "hint": "Traditional Scottish folk song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/My_Bonnie_Lies_over_the_Ocean"
+  },
+  {
+    "phrase": "Be it ever so humble, there's no place like home",
+    "length": 48,
+    "letters": 37,
+    "words": 10,
+    "hint": "Home! Sweet Home!, song by John Howard Payne, 1823",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Home!_Sweet_Home!"
+  },
+  {
+    "phrase": "Silent night, holy night, all is calm, all is bright",
+    "length": 52,
+    "letters": 40,
+    "words": 10,
+    "hint": "Christmas carol by Joseph Mohr and Franz Gruber, 1818",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Silent_Night"
+  },
+  {
+    "phrase": "What shall we do with the drunken sailor?",
+    "length": 41,
+    "letters": 33,
+    "words": 8,
+    "hint": "Traditional sea shanty",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Drunken_Sailor"
+  },
+  {
+    "phrase": "Here we go round the mulberry bush",
+    "length": 34,
+    "letters": 28,
+    "words": 7,
+    "hint": "Traditional English children's song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Here_We_Go_Round_the_Mulberry_Bush"
+  },
+  {
+    "phrase": "I saw three ships come sailing in",
+    "length": 33,
+    "letters": 27,
+    "words": 7,
+    "hint": "Traditional English Christmas carol",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/I_Saw_Three_Ships"
+  },
+  {
+    "phrase": "Let me call you sweetheart, I'm in love with you",
+    "length": 48,
+    "letters": 37,
+    "words": 10,
+    "hint": "Song by Beth Slater Whitson and Leo Friedman, 1910",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Let_Me_Call_You_Sweetheart"
+  },
+  {
+    "phrase": "Deck the hall with boughs of holly",
+    "length": 34,
+    "letters": 28,
+    "words": 7,
+    "hint": "Traditional Welsh Christmas carol",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Deck_the_Halls"
+  },
+  {
+    "phrase": "Merrily, merrily, merrily, merrily, life is but a dream",
+    "length": 55,
+    "letters": 43,
+    "words": 9,
+    "hint": "Traditional children's song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Row,_Row,_Row_Your_Boat"
+  },
+  {
+    "phrase": "O come, all ye faithful, joyful and triumphant",
+    "length": 46,
+    "letters": 37,
+    "words": 8,
+    "hint": "Christmas carol, English words by Frederick Oakeley, 1841",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/O_Come,_All_Ye_Faithful"
+  },
+  {
+    "phrase": "The itsy bitsy spider climbed up the spout again",
+    "length": 48,
+    "letters": 40,
+    "words": 9,
+    "hint": "Traditional children's song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Itsy_Bitsy_Spider"
+  },
+  {
+    "phrase": "Oh Danny boy, the pipes, the pipes are calling",
+    "length": 46,
+    "letters": 36,
+    "words": 9,
+    "hint": "Danny Boy, song by Fred Weatherly, 1913",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Danny_Boy"
+  },
+  {
+    "phrase": "Oh, Susanna, don't you cry for me",
+    "length": 33,
+    "letters": 24,
+    "words": 7,
+    "hint": "Song by Stephen Foster, 1848",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Oh!_Susanna"
+  },
+  {
+    "phrase": "Go tell it on the mountain",
+    "length": 26,
+    "letters": 21,
+    "words": 6,
+    "hint": "African-American spiritual and Christmas song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Go_Tell_It_on_the_Mountain_(song)"
+  },
+  {
+    "phrase": "It's a long way to Tipperary",
+    "length": 28,
+    "letters": 22,
+    "words": 6,
+    "hint": "World War I song by Jack Judge and Harry Williams, 1912",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/It's_a_Long_Way_to_Tipperary"
+  },
+  {
+    "phrase": "Joshua fit the battle of Jericho",
+    "length": 32,
+    "letters": 27,
+    "words": 6,
+    "hint": "African-American spiritual",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Joshua_Fit_the_Battle_of_Jericho"
+  },
+  {
+    "phrase": "What a friend we have in Jesus",
+    "length": 30,
+    "letters": 24,
+    "words": 7,
+    "hint": "Hymn by Joseph M. Scriven, 1855",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/What_a_Friend_We_Have_in_Jesus"
+  },
+  {
+    "phrase": "Glory, glory, hallelujah",
+    "length": 24,
+    "letters": 20,
+    "words": 3,
+    "hint": "Battle Hymn of the Republic, American Civil War song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Battle_Hymn_of_the_Republic"
+  },
+  {
+    "phrase": "After the ball is over",
+    "length": 22,
+    "letters": 18,
+    "words": 5,
+    "hint": "Song by Charles K. Harris, 1891",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/After_the_Ball_(song)"
+  },
+  {
+    "phrase": "Ta-ra-ra Boom-de-ay",
+    "length": 19,
+    "letters": 14,
+    "words": 2,
+    "hint": "Music hall song, 1891",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Ta-ra-ra_Boom-de-ay"
+  },
+  {
+    "phrase": "The Yanks are coming, the Yanks are coming",
+    "length": 42,
+    "letters": 34,
+    "words": 8,
+    "hint": "World War I song by George M. Cohan, 1917",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Over_There"
+  },
+  {
+    "phrase": "We wish you a merry Christmas and a happy New Year",
+    "length": 50,
+    "letters": 40,
+    "words": 11,
+    "hint": "Traditional English Christmas carol",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/We_Wish_You_a_Merry_Christmas"
+  },
+  {
+    "phrase": "Shall we gather at the river",
+    "length": 28,
+    "letters": 23,
+    "words": 6,
+    "hint": "Hymn by Robert Lowry, 1864",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Shall_We_Gather_at_the_River%3F"
+  },
+  {
+    "phrase": "Soon may the Wellerman come to bring us sugar and tea and rum",
+    "length": 61,
+    "letters": 49,
+    "words": 13,
+    "hint": "Traditional New Zealand whaling song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Wellerman"
+  },
+  {
+    "phrase": "'Tis the gift to be simple, 'tis the gift to be free",
+    "length": 52,
+    "letters": 38,
+    "words": 12,
+    "hint": "Simple Gifts, Shaker song by Joseph Brackett, 1848",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Simple_Gifts"
+  },
+  {
+    "phrase": "Happy birthday to you",
+    "length": 21,
+    "letters": 18,
+    "words": 4,
+    "hint": "Song by Patty and Mildred Hill, public domain since 2016",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Happy_Birthday_to_You"
+  },
+  {
+    "phrase": "God rest ye merry, gentlemen",
+    "length": 28,
+    "letters": 23,
+    "words": 5,
+    "hint": "Traditional English Christmas carol",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/God_Rest_Ye_Merry,_Gentlemen"
+  },
+  {
+    "phrase": "Early one morning, just as the sun was rising",
+    "length": 45,
+    "letters": 36,
+    "words": 9,
+    "hint": "Traditional English folk song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Early_One_Morning"
+  },
+  {
+    "phrase": "Good King Wenceslas looked out on the feast of Stephen",
+    "length": 54,
+    "letters": 45,
+    "words": 10,
+    "hint": "Christmas carol by John Mason Neale, 1853",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Good_King_Wenceslas"
+  },
+  {
+    "phrase": "Fifteen men on the dead man's chest, yo-ho-ho, and a bottle of rum",
+    "length": 66,
+    "letters": 49,
+    "words": 13,
+    "hint": "Sea song from Robert Louis Stevenson's Treasure Island, 1883",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Dead_Man's_Chest"
+  },
+  {
+    "phrase": "For he's a jolly good fellow, which nobody can deny",
+    "length": 51,
+    "letters": 40,
+    "words": 10,
+    "hint": "Traditional celebration song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/For_He's_a_Jolly_Good_Fellow"
+  },
+  {
+    "phrase": "Casey would waltz with a strawberry blonde, and the band played on",
+    "length": 66,
+    "letters": 54,
+    "words": 12,
+    "hint": "The Band Played On, song by John F. Palmer, 1895",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/The_Band_Played_On"
+  },
+  {
+    "phrase": "A bicycle built for two",
+    "length": 23,
+    "letters": 19,
+    "words": 5,
+    "hint": "Daisy Bell, song by Harry Dacre, 1892",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Daisy_Bell"
+  },
+  {
+    "phrase": "Be thou my vision, O Lord of my heart",
+    "length": 37,
+    "letters": 28,
+    "words": 9,
+    "hint": "Traditional Irish hymn",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Be_Thou_My_Vision"
+  },
+  {
+    "phrase": "Land of hope and glory, mother of the free",
+    "length": 42,
+    "letters": 33,
+    "words": 9,
+    "hint": "Patriotic song by A. C. Benson and Edward Elgar, 1902",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Land_of_Hope_and_Glory"
+  },
+  {
+    "phrase": "He'd fly through the air with the greatest of ease",
+    "length": 50,
+    "letters": 40,
+    "words": 10,
+    "hint": "The Man on the Flying Trapeze, music hall song, 1867",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/The_Daring_Young_Man_on_the_Flying_Trapeze_(song)"
+  },
+  {
+    "phrase": "Home, home on the range, where the deer and the antelope play",
+    "length": 61,
+    "letters": 48,
+    "words": 12,
+    "hint": "American cowboy song by Brewster M. Higley",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Home_on_the_Range"
+  },
+  {
+    "phrase": "By the light of the silvery moon",
+    "length": 32,
+    "letters": 26,
+    "words": 7,
+    "hint": "Song by Edward Madden and Gus Edwards, 1909",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/By_the_Light_of_the_Silvery_Moon_(song)"
+  },
+  {
+    "phrase": "Down by the old mill stream",
+    "length": 27,
+    "letters": 22,
+    "words": 6,
+    "hint": "Song by Tell Taylor, 1910",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Down_by_the_Old_Mill_Stream"
+  },
+  {
+    "phrase": "Once a jolly swagman camped by a billabong",
+    "length": 42,
+    "letters": 35,
+    "words": 8,
+    "hint": "Waltzing Matilda, by Banjo Paterson, 1895",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Waltzing_Matilda"
+  },
+  {
+    "phrase": "Rule, Britannia! Britannia, rule the waves",
+    "length": 42,
+    "letters": 34,
+    "words": 6,
+    "hint": "Patriotic song by James Thomson, 1740",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Rule,_Britannia!"
+  },
+  {
+    "phrase": "Over the river and through the wood",
+    "length": 35,
+    "letters": 29,
+    "words": 7,
+    "hint": "Thanksgiving poem by Lydia Maria Child, 1844",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Over_the_River_and_Through_the_Wood"
+  },
+  {
+    "phrase": "Bobby Shafto's gone to sea, silver buckles at his knee",
+    "length": 54,
+    "letters": 43,
+    "words": 10,
+    "hint": "Traditional English folk song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Bobby_Shafto's_Gone_to_Sea"
+  },
+  {
+    "phrase": "Oh Shenandoah, I long to see you",
+    "length": 32,
+    "letters": 25,
+    "words": 7,
+    "hint": "Traditional American folk song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Oh_Shenandoah"
+  },
+  {
+    "phrase": "There were ten in the bed and the little one said, roll over",
+    "length": 60,
+    "letters": 47,
+    "words": 13,
+    "hint": "Traditional children's counting song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Ten_in_the_Bed"
+  },
+  {
+    "phrase": "Oh, when the saints go marching in",
+    "length": 34,
+    "letters": 27,
+    "words": 7,
+    "hint": "African-American spiritual",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/When_the_Saints_Go_Marching_In"
+  },
+  {
+    "phrase": "Row, row, row your boat, gently down the stream",
+    "length": 47,
+    "letters": 36,
+    "words": 9,
+    "hint": "Traditional children's song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Row,_Row,_Row_Your_Boat"
+  },
+  {
+    "phrase": "Skip to my Lou, my darling",
+    "length": 26,
+    "letters": 20,
+    "words": 6,
+    "hint": "Traditional American folk song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Skip_to_My_Lou"
+  },
+  {
+    "phrase": "Daisy, Daisy, give me your answer, do",
+    "length": 37,
+    "letters": 28,
+    "words": 7,
+    "hint": "Daisy Bell, song by Harry Dacre, 1892",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Daisy_Bell"
+  },
+  {
+    "phrase": "Alas, my love, you do me wrong",
+    "length": 30,
+    "letters": 22,
+    "words": 7,
+    "hint": "Greensleeves, traditional English folk song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Greensleeves"
+  },
+  {
+    "phrase": "Sing a song of sixpence, a pocket full of rye",
+    "length": 45,
+    "letters": 35,
+    "words": 10,
+    "hint": "Traditional English nursery rhyme",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Sing_a_Song_of_Sixpence"
+  },
+  {
+    "phrase": "Lavender's blue, dilly dilly",
+    "length": 28,
+    "letters": 23,
+    "words": 4,
+    "hint": "Traditional English folk song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Lavender's_Blue"
+  },
+  {
+    "phrase": "Crying cockles and mussels, alive, alive, oh",
+    "length": 44,
+    "letters": 35,
+    "words": 7,
+    "hint": "Molly Malone, Irish song, 1884",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Molly_Malone"
+  },
+  {
+    "phrase": "Keep the home fires burning",
+    "length": 27,
+    "letters": 23,
+    "words": 5,
+    "hint": "World War I song by Ivor Novello and Lena Guilbert Ford, 1914",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Keep_the_Home_Fires_Burning"
+  },
+  {
+    "phrase": "Wade in the water, wade in the water, children",
+    "length": 46,
+    "letters": 36,
+    "words": 9,
+    "hint": "African-American spiritual",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Wade_in_the_Water"
+  },
+  {
+    "phrase": "Will the circle be unbroken, by and by, by and by",
+    "length": 49,
+    "letters": 37,
+    "words": 11,
+    "hint": "Hymn by Ada Habershon and Charles Gabriel, 1907",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Will_the_Circle_Be_Unbroken%3F"
+  },
+  {
+    "phrase": "Let my people go",
+    "length": 16,
+    "letters": 13,
+    "words": 4,
+    "hint": "African-American spiritual Go Down Moses",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Go_Down_Moses"
+  },
+  {
+    "phrase": "Oranges and lemons, say the bells of St. Clement's",
+    "length": 50,
+    "letters": 39,
+    "words": 9,
+    "hint": "Traditional English nursery rhyme",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Oranges_and_Lemons"
+  },
+  {
+    "phrase": "Here we come a-wassailing among the leaves so green",
+    "length": 51,
+    "letters": 42,
+    "words": 9,
+    "hint": "Traditional English Christmas carol",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Here_We_Come_A-wassailing"
+  },
+  {
+    "phrase": "Hush, little baby, don't say a word",
+    "length": 35,
+    "letters": 26,
+    "words": 7,
+    "hint": "Traditional American lullaby",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Hush,_Little_Baby"
+  },
+  {
+    "phrase": "Jesus loves me, this I know, for the Bible tells me so",
+    "length": 54,
+    "letters": 41,
+    "words": 12,
+    "hint": "Hymn by Anna Bartlett Warner, 1860",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Jesus_Loves_Me"
+  },
+  {
+    "phrase": "Someone's in the kitchen with Dinah",
+    "length": 35,
+    "letters": 29,
+    "words": 6,
+    "hint": "Traditional American folk song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/I've_Been_Working_on_the_Railroad"
+  },
+  {
+    "phrase": "Give my regards to Broadway",
+    "length": 27,
+    "letters": 23,
+    "words": 5,
+    "hint": "Song by George M. Cohan, 1904",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Give_My_Regards_to_Broadway"
+  },
+  {
+    "phrase": "It came upon the midnight clear",
+    "length": 31,
+    "letters": 26,
+    "words": 6,
+    "hint": "Christmas carol by Edmund Sears, 1849",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/It_Came_Upon_the_Midnight_Clear"
+  },
+  {
+    "phrase": "Pack up your troubles in your old kit-bag, and smile, smile, smile",
+    "length": 66,
+    "letters": 51,
+    "words": 12,
+    "hint": "World War I song by George and Felix Powell, 1915",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Pack_Up_Your_Troubles_in_Your_Old_Kit-Bag"
+  },
+  {
+    "phrase": "Oh where, oh where has my little dog gone?",
+    "length": 42,
+    "letters": 32,
+    "words": 9,
+    "hint": "Song by Septimus Winner, 1864",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Septimus_Winner"
+  },
+  {
+    "phrase": "Beautiful dreamer, wake unto me",
+    "length": 31,
+    "letters": 26,
+    "words": 5,
+    "hint": "Song by Stephen Foster, 1864",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Beautiful_Dreamer"
+  },
+  {
+    "phrase": "On top of Old Smoky, all covered with snow",
+    "length": 42,
+    "letters": 33,
+    "words": 9,
+    "hint": "Traditional American folk song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/On_Top_of_Old_Smoky"
+  },
+  {
+    "phrase": "In Dublin's fair city, where the girls are so pretty",
+    "length": 52,
+    "letters": 41,
+    "words": 10,
+    "hint": "Molly Malone, Irish song, 1884",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Molly_Malone"
+  },
+  {
+    "phrase": "We three kings of Orient are",
+    "length": 28,
+    "letters": 23,
+    "words": 6,
+    "hint": "Christmas carol by John Henry Hopkins Jr., 1857",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/We_Three_Kings"
+  },
+  {
+    "phrase": "Dashing through the snow in a one-horse open sleigh",
+    "length": 51,
+    "letters": 42,
+    "words": 9,
+    "hint": "Christmas song by James Lord Pierpont, 1857",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Jingle_Bells"
+  },
+  {
+    "phrase": "My country, 'tis of thee, sweet land of liberty",
+    "length": 47,
+    "letters": 36,
+    "words": 9,
+    "hint": "Patriotic song by Samuel Francis Smith, 1831",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/My_Country,_'Tis_of_Thee"
+  },
+  {
+    "phrase": "Shoo, fly, don't bother me",
+    "length": 26,
+    "letters": 19,
+    "words": 5,
+    "hint": "American song, 1869",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Shoo_Fly,_Don't_Bother_Me"
+  },
+  {
+    "phrase": "Won't you come home, Bill Bailey?",
+    "length": 33,
+    "letters": 25,
+    "words": 6,
+    "hint": "Song by Hughie Cannon, 1902",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/(Won't_You_Come_Home)_Bill_Bailey"
+  },
+  {
+    "phrase": "Meet me in St. Louis, Louis",
+    "length": 27,
+    "letters": 20,
+    "words": 6,
+    "hint": "Song by Andrew Sterling and Kerry Mills, 1904",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis,_Louis"
+  },
+  {
+    "phrase": "School days, school days, dear old golden rule days",
+    "length": 51,
+    "letters": 41,
+    "words": 9,
+    "hint": "Song by Will Cobb and Gus Edwards, 1907",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/School_Days_(Will_D._Cobb_and_Gus_Edwards_song)"
+  },
+  {
+    "phrase": "Hail, hail, the gang's all here",
+    "length": 31,
+    "letters": 23,
+    "words": 6,
+    "hint": "Song by Theodora Morse, 1917",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Hail,_Hail,_the_Gang's_All_Here"
+  },
+  {
+    "phrase": "In the shade of the old apple tree",
+    "length": 34,
+    "letters": 27,
+    "words": 8,
+    "hint": "Song by Harry Williams and Egbert Van Alstyne, 1905",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/In_the_Shade_of_the_Old_Apple_Tree"
+  },
+  {
+    "phrase": "Abide with me, fast falls the eventide",
+    "length": 38,
+    "letters": 31,
+    "words": 7,
+    "hint": "Hymn by Henry Francis Lyte, 1847",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Abide_with_Me"
+  },
+  {
+    "phrase": "I've been working on the railroad, all the live-long day",
+    "length": 56,
+    "letters": 44,
+    "words": 10,
+    "hint": "Traditional American folk song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/I've_Been_Working_on_the_Railroad"
+  },
+  {
+    "phrase": "Gonna lay down my burden, down by the riverside",
+    "length": 47,
+    "letters": 38,
+    "words": 9,
+    "hint": "African-American spiritual",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Down_by_the_Riverside"
+  },
+  {
+    "phrase": "In the good old summertime",
+    "length": 26,
+    "letters": 22,
+    "words": 5,
+    "hint": "Song by Ren Shields and George Evans, 1902",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/In_the_Good_Old_Summertime"
+  },
+  {
+    "phrase": "Away in a manger, no crib for a bed",
+    "length": 35,
+    "letters": 26,
+    "words": 9,
+    "hint": "Traditional 19th-century Christmas carol",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Away_in_a_Manger"
+  },
+  {
+    "phrase": "O Canada! Our home and native land!",
+    "length": 35,
+    "letters": 27,
+    "words": 7,
+    "hint": "Canadian national anthem, English words by Robert Stanley Weir, 1908",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/O_Canada"
+  },
+  {
+    "phrase": "A mighty fortress is our God",
+    "length": 28,
+    "letters": 23,
+    "words": 6,
+    "hint": "Hymn by Martin Luther",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/A_Mighty_Fortress_Is_Our_God"
+  },
+  {
+    "phrase": "O little town of Bethlehem",
+    "length": 26,
+    "letters": 22,
+    "words": 5,
+    "hint": "Christmas carol by Phillips Brooks, 1868",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/O_Little_Town_of_Bethlehem"
+  },
+  {
+    "phrase": "Jingle bells, jingle bells, jingle all the way",
+    "length": 46,
+    "letters": 37,
+    "words": 8,
+    "hint": "Christmas song by James Lord Pierpont, 1857",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Jingle_Bells"
+  },
+  {
+    "phrase": "Go down, Moses, way down in Egypt's land",
+    "length": 40,
+    "letters": 30,
+    "words": 8,
+    "hint": "African-American spiritual",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Go_Down_Moses"
+  },
+  {
+    "phrase": "Head, shoulders, knees and toes",
+    "length": 31,
+    "letters": 25,
+    "words": 5,
+    "hint": "Traditional children's action song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Head,_Shoulders,_Knees_and_Toes"
+  },
+  {
+    "phrase": "Oh, you beautiful doll, you great big beautiful doll",
+    "length": 52,
+    "letters": 42,
+    "words": 9,
+    "hint": "Song by Seymour Brown and Nat Ayer, 1911",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Oh,_You_Beautiful_Doll"
+  },
+  {
+    "phrase": "Holy, holy, holy! Lord God Almighty!",
+    "length": 36,
+    "letters": 27,
+    "words": 6,
+    "hint": "Hymn by Reginald Heber, 1826",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Holy,_Holy,_Holy!_Lord_God_Almighty"
+  },
+  {
+    "phrase": "Joy to the world, the Lord is come",
+    "length": 34,
+    "letters": 26,
+    "words": 8,
+    "hint": "Christmas hymn by Isaac Watts, 1719",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Joy_to_the_World"
+  },
+  {
+    "phrase": "Are you sleeping, Brother John?",
+    "length": 31,
+    "letters": 25,
+    "words": 5,
+    "hint": "Frere Jacques, traditional French nursery song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Fr%C3%A8re_Jacques"
+  },
+  {
+    "phrase": "Hot cross buns, one a penny, two a penny",
+    "length": 40,
+    "letters": 30,
+    "words": 9,
+    "hint": "Traditional English street cry and nursery rhyme",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Hot_Cross_Buns_(song)"
+  },
+  {
+    "phrase": "London Bridge is falling down, my fair lady",
+    "length": 43,
+    "letters": 35,
+    "words": 8,
+    "hint": "Traditional English nursery song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/London_Bridge_Is_Falling_Down"
+  },
+  {
+    "phrase": "Nobody knows the trouble I've seen",
+    "length": 34,
+    "letters": 28,
+    "words": 6,
+    "hint": "African-American spiritual",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Nobody_Knows_the_Trouble_I've_Seen"
+  },
+  {
+    "phrase": "I'm a Yankee Doodle Dandy",
+    "length": 25,
+    "letters": 20,
+    "words": 5,
+    "hint": "Song by George M. Cohan, 1904",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/The_Yankee_Doodle_Boy"
+  },
+  {
+    "phrase": "For auld lang syne, my dear, for auld lang syne",
+    "length": 47,
+    "letters": 36,
+    "words": 10,
+    "hint": "Auld Lang Syne, Scottish song by Robert Burns",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Auld_Lang_Syne"
+  },
+  {
+    "phrase": "Mine eyes have seen the glory of the coming of the Lord",
+    "length": 55,
+    "letters": 44,
+    "words": 12,
+    "hint": "Battle Hymn of the Republic, by Julia Ward Howe, 1861",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Battle_Hymn_of_the_Republic"
+  },
+  {
+    "phrase": "He's got the whole world in his hands",
+    "length": 37,
+    "letters": 29,
+    "words": 8,
+    "hint": "African-American spiritual",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/He's_Got_the_Whole_World_in_His_Hands"
+  },
+  {
+    "phrase": "All things bright and beautiful, all creatures great and small",
+    "length": 62,
+    "letters": 52,
+    "words": 10,
+    "hint": "Hymn by Cecil Frances Alexander, 1848",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/All_Things_Bright_and_Beautiful"
+  },
+  {
+    "phrase": "My Bonnie lies over the ocean",
+    "length": 29,
+    "letters": 24,
+    "words": 6,
+    "hint": "Traditional Scottish folk song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/My_Bonnie_Lies_over_the_Ocean"
+  },
+  {
+    "phrase": "Come sit by my side if you love me",
+    "length": 34,
+    "letters": 26,
+    "words": 9,
+    "hint": "Red River Valley, traditional folk song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Red_River_Valley_(song)"
+  },
+  {
+    "phrase": "Angels we have heard on high",
+    "length": 28,
+    "letters": 23,
+    "words": 6,
+    "hint": "Traditional French Christmas carol",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Angels_We_Have_Heard_on_High"
+  },
+  {
+    "phrase": "And a partridge in a pear tree",
+    "length": 30,
+    "letters": 24,
+    "words": 7,
+    "hint": "The Twelve Days of Christmas, traditional English carol",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_(song)"
+  },
+  {
+    "phrase": "God save our gracious King",
+    "length": 26,
+    "letters": 22,
+    "words": 5,
+    "hint": "British national anthem",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/God_Save_the_King"
+  },
+  {
+    "phrase": "All around the mulberry bush, the monkey chased the weasel",
+    "length": 58,
+    "letters": 48,
+    "words": 10,
+    "hint": "Pop Goes the Weasel, traditional English song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Pop_Goes_the_Weasel"
+  },
+  {
+    "phrase": "Swing low, sweet chariot, coming for to carry me home",
+    "length": 53,
+    "letters": 42,
+    "words": 10,
+    "hint": "African-American spiritual",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Swing_Low,_Sweet_Chariot"
+  },
+  {
+    "phrase": "You're a grand old flag",
+    "length": 23,
+    "letters": 18,
+    "words": 5,
+    "hint": "Song by George M. Cohan, 1906",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/You're_a_Grand_Old_Flag"
+  },
+  {
+    "phrase": "And did those feet in ancient time",
+    "length": 34,
+    "letters": 28,
+    "words": 7,
+    "hint": "Jerusalem, hymn from a poem by William Blake",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/And_did_those_feet_in_ancient_time"
+  },
+  {
+    "phrase": "Nearer, my God, to thee",
+    "length": 23,
+    "letters": 17,
+    "words": 5,
+    "hint": "Hymn by Sarah Flower Adams, 1841",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Nearer,_My_God,_to_Thee"
+  },
+  {
+    "phrase": "There's a hole in my bucket, dear Liza, dear Liza",
+    "length": 49,
+    "letters": 37,
+    "words": 10,
+    "hint": "Traditional children's song of German origin",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/There's_a_Hole_in_My_Bucket"
+  },
+  {
+    "phrase": "Polly put the kettle on, we'll all have tea",
+    "length": 43,
+    "letters": 33,
+    "words": 9,
+    "hint": "Traditional English nursery rhyme",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Polly_Put_the_Kettle_On"
+  },
+  {
+    "phrase": "This old man, he played one",
+    "length": 27,
+    "letters": 21,
+    "words": 6,
+    "hint": "Traditional English counting song",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/This_Old_Man"
+  },
+  {
+    "phrase": "Are you going to Scarborough Fair?",
+    "length": 34,
+    "letters": 28,
+    "words": 6,
+    "hint": "Traditional English ballad",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/Scarborough_Fair_(ballad)"
+  },
+  {
+    "phrase": "Oh, the grand old Duke of York, he had ten thousand men",
+    "length": 55,
+    "letters": 42,
+    "words": 12,
+    "hint": "Traditional English nursery rhyme",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/The_Grand_Old_Duke_of_York"
+  },
+  {
+    "phrase": "O say can you see, by the dawn's early light",
+    "length": 44,
+    "letters": 33,
+    "words": 10,
+    "hint": "The Star-Spangled Banner, by Francis Scott Key, 1814",
+    "category": "lyric",
+    "source": "https://en.wikipedia.org/wiki/The_Star-Spangled_Banner"
+  }
+]
