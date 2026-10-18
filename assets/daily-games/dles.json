@@ -1,5 +1,113 @@
 [
   {
+    "name": "Daily Prog Club",
+    "description": "Write 1 function that solves a short story-based programming problem, in JavaScript, Python, C, Go, Clojure, APL, Lua or Ruby, right in the browser editor. Run checks your code against the visible examples as often as you like, while Solve submits it against hidden tests with larger inputs and edge cases too. You get 5 attempts, and consecutive solves build a streak.",
+    "url": "https://beta.dailyprog.club/en",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Farflung",
+    "description": "Each of 5 prompts has several right answers, such as a country where German is an official language, and you drop a pin on 1 of them on a world map within 60 seconds. Rarer answers take you further, from 40 km for the most obvious country up to 100 km for the rarest, and the total distance is your score. 1 try a day, plus a practice round with no clock.",
+    "url": "https://farflung.game",
+    "category": "Geography"
+  },
+  {
+    "name": "AtlasGenie",
+    "description": "Answer 10 geography questions that mix flags, capitals, official languages and country shapes, picking 1 of 4 options each time. A right answer earns 500 points plus a speed bonus of up to 500 that runs out after 15 seconds, so a perfect round scores 10,000. A fact card follows every answer, and everyone gets the same questions with 1 attempt.",
+    "url": "https://atlasgenie.world/daily",
+    "category": "Geography"
+  },
+  {
+    "name": "Million Whys",
+    "description": "Answer 1 science question about why something in the world happens by picking the right explanation from 3 choices. Questions start from an everyday observation or natural phenomenon, such as how new land can rise above the sea. Once you answer, it reveals the mechanism behind the right choice, why each wrong choice fails, and a map of how players around the world answered.",
+    "url": "https://millionwhys.com/trivia-question-of-the-day",
+    "category": "Trivia"
+  },
+  {
+    "name": "Blind Boxdle",
+    "description": "Name the mystery Smiski figure in 6 guesses, searching all 137 figures by name or series. Each guess is compared with the answer on 6 traits: series, facial expression, body form, how it uses a prop, pose, and the odds of pulling it from a blind box. Green means a trait matches exactly, yellow means it is related, and coral means it is different. A hint unlocks after 3 guesses.",
+    "url": "https://blindboxdle.com/smiski",
+    "category": "Guessing"
+  },
+  {
+    "name": "Ballast",
+    "description": "Work out the weights of 5 identical-looking crates, which weigh 1, 2, 3, 4 and 5 kg, one of each. Load any crates onto either pan of a balance scale and weigh to see which side sinks or whether it balances. A counter shows how many weight orders still fit every result so far, and each crate's label narrows to the weights still possible for it. Arrange the crates from lightest to heaviest and submit, scored on the number of weighings against a par of 5. A wrong submission adds a 1-weighing penalty and tells you how many crates are in the right spot.",
+    "url": "https://ballast.yukigames.workers.dev",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Wellspring",
+    "description": "Hold 1 button to grab the nearest gravity well and orbit it, then release to fly off in a straight line, so the moment you let go sets your direction. Fly through glowing sparks to score, and collect them in quick succession to build a combo multiplier. The run ends when you drift off the edge of the field or hit the bright core of a well, and your speed keeps climbing the longer you survive. Everyone gets the same well layout and spark sequence.",
+    "url": "https://wellspring.yukigames.workers.dev",
+    "category": "Visual"
+  },
+  {
+    "name": "Vertiqle",
+    "description": "Guess the hidden 5-letter word in 6 attempts, typing each guess top to bottom into any of the 5 columns. The column you pick decides which position of the answer is checked. A letter that matches the answer's letter at that column's position turns green, a letter that is in the answer but sits elsewhere turns yellow, and a letter not in the answer turns grey. A guess can show at most 1 green, and the same word gives different clues in different columns. To win, type the answer into the separate answer row. A wrong answer there costs an attempt and shows no colors.",
+    "url": "https://games.productpickle.online/vertiqle",
+    "category": "Words"
+  },
+  {
+    "name": "Mocktiles",
+    "description": "Build words on a 5x5 grid from the same 8 lettered tiles everyone gets, aiming for the highest score. Pick a start cell and a direction, across or down, place tiles to spell a word, then add it to the board. Later words can cross letters already placed, and all tiles must stay connected. Tiles are worth 1 to 4 points by color, and every word you add scores all of its letters, shared ones included, so growing a word step by step, like AN to CAN to CANDY, scores each version. You get 4 resets, and your final score sets your tier, from Cool at 1+ to Awesome at 30+.",
+    "url": "https://games.productpickle.online/mocktiles",
+    "category": "Words"
+  },
+  {
+    "name": "Quiz Mantra",
+    "description": "Name the answers to 5 trivia clues by guessing their letters one at a time. Each answer is shown as blanks, a correct letter fills in wherever it appears, and a wrong letter costs 1 of 7 lives shared across all 5 clues. You can also spend a life to reveal any blank. Finish them and 2 bonus clues follow with only 1 mistake allowed, then a last clue where the first wrong letter ends the run.",
+    "url": "https://www.quizmantra.com",
+    "category": "Trivia"
+  },
+  {
+    "name": "Daily Red",
+    "description": "Beat Red and his fixed team of 6 level 100 Pokémon using a random team of 6 from Generations 1 to 3 that every player shares. Choose which of yours leads against his Pikachu, then pick a move or switch Pokémon each turn under Gen 3 battle rules until one side has nothing left standing. You get 1 official battle, plus unlimited practice runs.",
+    "url": "https://daily-red.com",
+    "category": "Video Games"
+  },
+  {
+    "name": "Cards4.net - Spider Solitaire",
+    "description": "Build 8 complete runs from King down to Ace using 2 decks of a single suit, dealt into 10 columns with only the top card face up. Place any card on one ranked exactly 1 higher and move descending runs as a unit, and each finished King-to-Ace run clears off the board. When you are stuck, deal a fresh row of 10 cards from the stock, which holds 5 such deals. Hints and undo are available.",
+    "url": "https://cards4.net/spider-solitaire/daily",
+    "category": "Tabletop Games"
+  },
+  {
+    "name": "Cards4.net - FreeCell",
+    "description": "Move all 52 cards onto 4 foundations, building each suit up from Ace to King. Every card is dealt face up across 8 columns, so nothing is hidden and the whole deal can be planned in advance. Stack cards down in alternating red and black, park single cards in 4 free cells, and fill empty columns with any card. How many cards you can move at once depends on how many free cells and empty columns you have. Almost every deal can be solved.",
+    "url": "https://cards4.net/freecell/daily",
+    "category": "Tabletop Games"
+  },
+  {
+    "name": "Cards4.net - Klondike Solitaire",
+    "description": "Clear a shuffled deck onto 4 foundations, building each suit up from Ace to King. Cards are dealt into 7 columns with only the top card face up, and you stack them down in alternating red and black, flipping hidden cards as they are uncovered. Turn over the stock 1 card at a time when stuck and recycle it as often as you need, but only a King can fill an empty column. Hints and undo are available.",
+    "url": "https://cards4.net/solitaire/daily",
+    "category": "Tabletop Games"
+  },
+  {
+    "name": "Well Putt",
+    "description": "Play 3 holes of golf in space, where gravity wells bend the path of every putt. Drag back and release to shoot, pulling further for more power. Walls bounce the ball back, the purple core of a well swallows it for a 1-stroke penalty, and the ball only drops into the glowing ring when it is moving slowly. Finish the course in as few strokes as you can against par.",
+    "url": "https://wellputt.yukigames.workers.dev",
+    "category": "Sports"
+  },
+  {
+    "name": "Floe",
+    "description": "Slide a penguin around an icy grid to collect every fish. It moves in the direction you pick and keeps sliding until a rock or the edge of the board stops it, picking up any fish it passes over or stops on. Clear the board in as few slides as you can, measured against a par that is the proven minimum. There are 3 boards to solve, plus an archive and a practice mode.",
+    "url": "https://floe.yukigames.workers.dev",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Cast-ablanca",
+    "description": "Produce a film by casting its 4 main roles. Everyone gets the same screenplay and director, a spin sets your financing and the decade your actors come from, and you hire from a priced list of actors from that era without going over budget. The finished film is scored on role fit, cast chemistry, fit with the director, reviews, awards, box office and the money left unspent. An archive mode lets you choose the screenplay and director yourself.",
+    "url": "https://cast-ablanca.com",
+    "category": "Movies and Series"
+  },
+  {
+    "name": "Art Keeper",
+    "description": "Rebuild a famous painting from polyomino-shaped pieces cut along a square grid. Drag pieces together on an open table, and pieces that belong next to each other merge into one. When fewer than 5 pieces remain on the table, tap the counter to bring out more. The finished artwork comes with notes on its artist and art movement, and solved paintings hang in a gallery of your own.",
+    "url": "https://www.artkeepergame.com",
+    "category": "Visual"
+  },
+  {
     "name": "Who Farted?",
     "description": "Everyone stuck in an elevator makes 1 statement, and the culprit who farted always lies. Find the person whose lie makes every other statement true, with 3 wrong accusations allowed and a hint that narrows down where the culprit is standing. The daily notice adds twists, such as a mime who only points or an innocent who lies too, and difficulty rises from Monday to Sunday.",
     "url": "https://whofartedgame.com",
@@ -31,8 +139,8 @@
   },
   {
     "name": "Spectrle",
-    "description": "Name the movie from a disc built out of 500 frames sampled evenly across the whole film, with its release year and tagline as starting clues. You have 5 guesses, and each wrong guess or skip reveals a written hint and a clearer version of the disc. A second mode does the same for video games.",
-    "url": "https://spectrle.games/?utm_source=dlesgg&utm_medium=post",
+    "description": "Name the movie from a disc built out of 500 frames sampled evenly across the whole film, with its release year and tagline as starting clues. You have 5 guesses, and each wrong guess or skip reveals a written hint and a clearer version of the disc.",
+    "url": "https://spectrle.games/spectrle/movie",
     "category": "Movies and Series"
   },
   {
@@ -1075,7 +1183,7 @@
   },
   {
     "name": "StatPad Game",
-    "description": "Fill 5 rows with pro athletes to score as high as possible in a target stat category, like hits or home runs. Each row sets requirements the player must meet, such as a team, position, era, or an award qualifier tied to a season. Submit a player and year that fit the row, and their stat total for that season is added to your score, with a percentile showing how close you came to the best possible pick. Choose from MLB, NBA, or NFL.",
+    "description": "Fill 5 rows with MLB players to rack up the day's stat category, such as home runs or ERA. Each row names a team or group of teams and a span of seasons, and some add a condition such as never having been an All-Star. Pick a player and a season that fit the row, and that season's stat counts toward your total, with a percentile showing how close each pick came to the best possible answer.",
     "url": "https://www.statpadgame.com",
     "category": "Sports"
   },
@@ -1224,9 +1332,9 @@
     "category": "Words"
   },
   {
-    "name": "Gazettle",
-    "description": "Three word puzzles in one: Classic is a 5-letter Wordle-style guesser (6 tries), Semantic has you find a hidden word using meaning-similarity feedback, and Bridge has you arrange scrambled words into a chain linking a start word to a target word.",
-    "url": "https://gazettle.app",
+    "name": "Gazettle - Bridge",
+    "description": "Rebuild a word chain from a start word to a target word by placing the scrambled words from the bank into the empty links. Each word must connect to its neighbours by meaning or by letters, as a synonym, an antonym, a related idea, an anagram or a 1-letter change. You get 3 attempts to check the chain and 2 hints.",
+    "url": "https://gazettle.app/#/bridge",
     "category": "Words"
   },
   {
@@ -1681,8 +1789,8 @@
   },
   {
     "name": "Daily",
-    "description": "A puzzle hub that rotates through 6 mini brain teasers — Coin Maze, Traffic Jam, Tile Fit, Word Hunt, Air Hockey and Money Tycoon. Pick Casual mode to practice with unlimited tries, or Competitive to post a verified score on the global leaderboard. A separate 1v1 Arena pits you against another player and builds an Elo rating over time.",
-    "url": "https://playdaily.org/",
+    "description": "A different mini game each day, such as Coin Maze, where you collect every coin while staying ahead of a chaser. Each puzzle runs over 3 stages of rising difficulty against the clock. Casual mode allows unlimited replays, and a separate Competitive puzzle locks the screen and ranks your time on a global leaderboard.",
+    "url": "https://playdaily.org/play/today",
     "category": "Misc"
   },
   {
@@ -2298,12 +2406,6 @@
     "category": "Movies and Series"
   },
   {
-    "name": "Free Trivia",
-    "description": "Two puzzles sit on one page. The first is a 10-question multiple-choice quiz across categories such as music, history and science, with 4 options each. The second reveals up to 5 escalating hints about a film, opening with a quote, and scores you higher the fewer hints you take. A free-play mode generates fresh questions at a chosen category and difficulty.",
-    "url": "https://freetrivia.info/",
-    "category": "Trivia"
-  },
-  {
     "name": "Pangramathon",
     "description": "Race the clock to find 3 pangrams, words that use every one of the 7 given letters at least once. Letters can be reused, and your time is your score.",
     "url": "https://www.pangramathon.com/",
@@ -2377,7 +2479,7 @@
   },
   {
     "name": "Flickle.co",
-    "description": "Identify a movie from 6 stills. Each wrong guess or skip uncovers the next frame. A separate track does the same for TV shows.",
+    "description": "Name the movie from 6 stills. You start with 1 frame, and each wrong guess or skip reveals the next one, so the fewer frames you need the better.",
     "url": "https://www.flickle.co/",
     "category": "Movies and Series"
   },
@@ -2568,9 +2670,9 @@
     "category": "Sports"
   },
   {
-    "name": "Redividers",
-    "description": "2 word puzzles. In Storylines, choose the word that fills a sentence's first blank, then split it into 2 or more words to fill the blanks in the next sentence. In WordWeld, put the words in the right order, then cut the merged string of letters with scissors so each word splits once into new words.",
-    "url": "https://redividers.netlify.app",
+    "name": "Redividers - WordWeld",
+    "description": "Drag the green words into the right order between the fixed blue words, and the whole line merges into one string of letters. Then cut the string with a limited set of scissors. Each green word splits exactly once, its first part finishing the word on its left and its second part starting the word on its right, so the cuts reveal a new row of real words. Ordering in the fewest moves earns a bonus, and Sunday puzzles run longer.",
+    "url": "https://wordweld.redividers.app/",
     "category": "Words"
   },
   {
@@ -2922,9 +3024,9 @@
     "category": "Words"
   },
   {
-    "name": "WrestlePlay",
-    "description": "7 pro wrestling games. Complete the match card of a past event, guess the mystery wrestler in 8 tries from roster, title and age clues, fill in a top 10 list, place wrestlers on a bingo board of categories, group wrestlers by hidden connections, fill a grid with wrestlers who match each row and column, and guess a wrestling word in 6 tries.",
-    "url": "https://wrestleplay.com",
+    "name": "WrestlePlay - Guesser",
+    "description": "Find the mystery wrestler in 8 guesses. Each guess shows that wrestler's roster, world, singles and tag title counts, gender, age, country and weight class, and every trait shared with the answer turns green. Arrows on the title counts and age point higher or lower.",
+    "url": "https://wrestleplay.com/wrestling-guesser",
     "category": "Sports"
   },
   {
@@ -3535,8 +3637,8 @@
   },
   {
     "name": "Daily Analogy",
-    "description": "Complete 5 analogies of the form A is to B as C is to what, at easy, medium or hard. Two other modes sit alongside, one asking which of 4 pairs does not fit and one asking you to name the link shared by 5 word pairs. Scores feed a weekly league.",
-    "url": "https://dailyanalogy.com",
+    "description": "Complete 5 analogies of the form A is to B as C is to D, each missing 2 words, by placing words from a shared bank of 15 into the 10 blanks. Some bank words are decoys. Check the board when it is full, and correct words lock in while the rest can be swapped for another try. Easy, medium and hard sets are offered.",
+    "url": "https://dailyanalogy.com/#/play/classic/medium",
     "category": "Words"
   },
   {
@@ -3588,9 +3690,9 @@
     "category": "Video Games"
   },
   {
-    "name": "Circle Moon Puzzles",
-    "description": "A set of 16 logic puzzles refreshed every day, spanning number grids, sorting, pentomino packing, word links, solitaire and jigsaw style boards.",
-    "url": "https://circle9puzzle.com",
+    "name": "Circle Nine",
+    "description": "A 9x9 grid of scattered numbers is split into 3x3 blocks. Circle exactly 1 of each number from 1 to 9 so that every row, every column and every block holds exactly 1 circled number. 3 puzzles a day.",
+    "url": "https://circle9puzzle.com/circle9/",
     "category": "Numbers and Logic"
   },
   {
@@ -3607,8 +3709,8 @@
   },
   {
     "name": "MapleWordle",
-    "description": "A collection of daily guessing games related to the game MapleStory.",
-    "url": "https://www.maplewordle.com",
+    "description": "Guess the MapleStory monster. Each guess is compared on level, width, height, colours, town and whether it is a boss. Green marks an exact match, yellow a partial overlap such as sharing 1 of its colours or towns, and red a miss, with arrows showing whether level, width and height should go higher or lower. Hints unlock after 5, 7 and 10 guesses: the monster's town music, a random monster from the same town, and a search by region.",
+    "url": "https://www.maplewordle.com/classic",
     "category": "Video Games"
   },
   {
@@ -3673,8 +3775,8 @@
   },
   {
     "name": "Basketball 5",
-    "description": "A set of NBA challenges: name a player from attribute clues, fill a team and achievement grid, rank a top 10 list, mark off a bingo card, and solve a basketball themed word grid.",
-    "url": "https://basketball-5.com",
+    "description": "Build a 5-man lineup from 5 NBA teams that appear one at a time. For each team, name one of its players and slot him into an open position, point guard, shooting guard, small forward, power forward or center. Every player carries a rating, and your score is the strength of the full lineup. Easy uses only top teams, Normal uses every team, and a 30 second timer is optional.",
+    "url": "https://basketball-5.com/basketball-5",
     "category": "Sports"
   },
   {
@@ -3709,8 +3811,8 @@
   },
   {
     "name": "Futbol 11",
-    "description": "A collection of football rounds sharing one menu, including a career-path guesser, a text commentary puzzle, a grid to fill with players matching both a row and a column, a pyramid and a grouping round. Each is a separate puzzle you can play in any order.",
-    "url": "https://futbol11.com",
+    "description": "Build a starting 11 from 11 countries that appear one at a time in random order. For each country, name one of its players and place him in an open position on the pitch, and once a position is filled it stays closed. Easy draws only top footballing nations, Normal draws from every country, and an optional 90, 60 or 40 second timer adds pressure.",
+    "url": "https://futbol11.com/futbol11",
     "category": "Sports"
   },
   {
@@ -3967,7 +4069,7 @@
   },
   {
     "name": "Genshindle",
-    "description": "Identify a character from Genshin Impact, with separate sets covering Honkai Star Rail and Zenless Zone Zero. Clues include voice lines and quotes, and the quote language can be switched between English, Japanese, Chinese and Korean.",
+    "description": "Guess the Genshin Impact character in 5 tries. Each guess is compared with the answer on talents, region, vision, weapon and release version, and the colour of each tile shows whether that trait matches.",
     "url": "https://us.genshindle.com",
     "category": "Video Games"
   },
@@ -4165,8 +4267,8 @@
   },
   {
     "name": "LoLdle",
-    "description": "A bunch of daily games where you guess the champion from League of Legends.",
-    "url": "https://loldle.net",
+    "description": "Guess the League of Legends champion. Each guess reveals that champion's gender, positions, species, resource, range type, regions and release year. Green marks an exact match, orange a partial overlap and red no overlap, with an arrow on the release year pointing earlier or later. A quote, a cropped splash art and an ability icon unlock as clues after several guesses.",
+    "url": "https://loldle.net/classic",
     "category": "Video Games"
   },
   {
@@ -4326,9 +4428,9 @@
     "category": "Tabletop Games"
   },
   {
-    "name": "Sportsdle",
-    "description": "A hub of athlete-guessing games across hockey, American football, baseball, MMA, Formula 1 and soccer. The core mode names a mystery player from stat clues such as team, division, position, country, age, draft pick and shirt number, with colour marking exact and near matches. Other modes add immaculate grids, career-path trails, face reveals and a season run where you draft a lineup and try to go undefeated.",
-    "url": "https://www.sportsdle.com/",
+    "name": "Sportsdle - NHL",
+    "description": "Find the mystery NHL player in 10 guesses. Each guess is compared on team, division, sweater number, position, birth country, age, draft pick and career points, with green for a match and arrows showing whether a number should go higher or lower. A draft clue unlocks after 5 guesses and the player's headshot after 8.",
+    "url": "https://www.sportsdle.com/nhl/daily-guessing-game",
     "category": "Sports"
   },
   {
@@ -5244,9 +5346,9 @@
     "category": "Sports"
   },
   {
-    "name": "Pocket Puzzles",
-    "description": "Five short word games in one place: unscramble jumbled words, crack letter passcodes, solve connected word squares, hunt hidden words in a letter grid, and build words from given letters.",
-    "url": "https://playpocketpuzzles.com/",
+    "name": "Pocket Puzzles - Fix The Mix",
+    "description": "Unscramble several words that all fit 1 clue, such as things on a beach. Some letters start in place, and the rest are mixed together in a single pool below the board. Up to 3 hints each add a letter, and a timer tracks how fast you finish.",
+    "url": "https://playpocketpuzzles.com/fixthemix/home",
     "category": "Words"
   },
   {
@@ -5875,7 +5977,7 @@
   },
   {
     "name": "CineNerdle",
-    "description": "A suite of daily movie puzzles for film buffs. The signature grid has you swap tiles — actors, studios, and themes — to sort them into the 5 hidden movies they belong to within a limited number of swaps; other modes range from guessing a film by its reviews to linking movies against other players in live battles.",
+    "description": "A page of daily movie puzzles led by a 4x4 swap grid. Swap tiles of actors, characters and plot clues to line up the 4 clues of each hidden movie in a row or column, then find a hidden 5th movie made of 1 tile from each of the others, all within 15 swaps. Alongside it run Reversal, which sorts movies into hidden themes, Critical, which names a film from its reviews, Assemble, which combines criteria into movies for points, and Logical, which arranges tiles by stated rules.",
     "url": "https://www.cinenerdle.app",
     "category": "Movies and Series"
   },
