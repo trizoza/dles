@@ -1,5 +1,137 @@
 [
   {
+    "name": "ALLEGEDLY",
+    "description": "Read a short blind item about a real, widely reported incident with the celebrity's name blacked out, and name who it is. You have 3 strikes, and every wrong guess reveals a free clue. Up to 2 optional clues can be unlocked at any time, but they show on your share. Hard mode allows 2 strikes and no optional clues, and an extra Night Edition case plays by those rules.",
+    "url": "https://playallegedly.com",
+    "category": "Trivia"
+  },
+  {
+    "name": "WordSQD",
+    "description": "Each round shows 3 letters. Type a real word that contains them in that order, with any other letters before, between or after them, before the round timer runs out. Longer words and faster answers score more, a word that doesn't start with the first letter earns a bonus, and consecutive correct answers build a combo that a miss, timeout or skip resets. Everyone plays the same rounds and difficulty for the day.",
+    "url": "https://wordsqd.com",
+    "category": "Words"
+  },
+  {
+    "name": "Size It Up - Pop Culture",
+    "description": "Resize the red silhouette of a character, creature or object from films, TV or video games until it is to scale with a blue reference that stays fixed. Drag the corner handle to resize it, zoom out for bigger estimates, then lock in to reveal the real size. 5 rounds score up to 100 points each for accuracy.",
+    "url": "https://magnitudle.com/size-it-up/pop-culture",
+    "category": "Movies and Series"
+  },
+  {
+    "name": "Zip Blitz",
+    "description": "Answer 50 general knowledge questions in 5 rounds of 10 that get harder as you go, from Opener through Easy, Tricky and Hard to Brutal. Each question has 4 options and 15 seconds on the clock. A correct answer in the first 5 seconds earns the full 10 points, then 1 point less for every second after that, down to 1, while a wrong answer or a timeout scores 0. The Opener plays without signing up, a free account opens the first 3 rounds, and Hard and Brutal need a paid subscription.",
+    "url": "https://zip-blitz.com/play",
+    "category": "Trivia"
+  },
+  {
+    "name": "Unlabeled",
+    "description": "Put the missing axis labels back on 4 charts. Each of the 8 axes takes one label from a pool of 10, 2 of which are decoys, and the numbers on each axis are the main clue, so a scale running from 1900 to 2025 means Year. Label all 8 and check. Correct labels lock in, wrong ones go back to the pool, and you get 4 tries.",
+    "url": "https://unlabeled.dev",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Fridgle",
+    "description": "Write a short poem from a set of word tiles, the same set for every player that day. Tap a tile to place it in the poem and drag tiles to reorder them. Some tiles switch to another form of the word with a small arrow, such as clouds to clouding, a return tile starts a new line and a spacer tile pushes 2 words apart. Drag a line up or down to move it, or sideways to indent it. There is no score or right answer. Finalize the poem when it feels right, after which it can't be changed, then read what other players wrote on the shared world fridge. Hard mode sets how many tiles the poem must use.",
+    "url": "https://fridgle.net",
+    "category": "Words"
+  },
+  {
+    "name": "Mirror Mirror",
+    "description": "A chalk sketch sits on one side of a mirror line and the other half of the board is empty. Draw the reflection of the sketch freehand on the empty side, with an eraser and undo on hand, then press Done to get an accuracy score and see how it compares with other players.",
+    "url": "https://mirrormirrorgame.com",
+    "category": "Visual"
+  },
+  {
+    "name": "DSMdle",
+    "description": "Name the DSM-5 mental health diagnosis behind a clinical case. You start with 1 line describing how the patient presents, then type a diagnosis, and every wrong guess reveals a new, more specific clue. Solve it within 6 guesses. Hard mode gives you only 1 guess, scored on how few clues you reveal before making it. Side puzzles have you sort 16 criteria into the 4 diagnoses they belong to and pick the better fit between look-alike diagnoses.",
+    "url": "https://www.dsmdle.com",
+    "category": "Trivia"
+  },
+  {
+    "name": "The Daily Lineup",
+    "description": "Build a single timeline out of 10 cards drawn from mixed decks such as movies, songs, novels, companies, US presidents and sports champions. Pick which deck to draw from, reveal its card and drop it where its year falls among the cards already placed, starting from 1 dated card. Song cards play a short preview. 3 wrong placements end the run. Once per game you can swap the card in your hand for one from another deck.",
+    "url": "https://timelineguesser.com/daily",
+    "category": "Trivia"
+  },
+  {
+    "name": "Mini Críptico",
+    "description": "Solve 1 cryptic clue in Spanish. The clue hides a definition alongside wordplay, such as an anagram or a word hidden inside it, and the letter count is given. Type the answer into the letter boxes, and open hints when stuck.",
+    "url": "https://minicriptico.com",
+    "category": "Words"
+  },
+  {
+    "name": "Year To Beat",
+    "description": "Watch 5 music videos and guess the year each one came out. Each guess scores up to 1,000 points, more the closer it lands, and the reveal shows how many years early or late you were. A video that won't play can be skipped for 0 points.",
+    "url": "https://yeartobeat.com",
+    "category": "Music"
+  },
+  {
+    "name": "Word Pull Daily",
+    "description": "Win a typing tug-of-war against 3 AI opponents of rising skill by dragging the knot past your line. Type any of 3 word cards to pull, longer words pull harder but take longer. Words typed without a typo build heat that strengthens each pull, and a typo resets it. Everyone gets the same words and opponents, with no retries.",
+    "url": "https://wordpull.yukigames.workers.dev",
+    "category": "Words"
+  },
+  {
+    "name": "WordEq",
+    "description": "Two clue words and a category are shown. Swap each clue for a related word, a synonym, an opposite or an association, so that the 2 new words join into a single word that fits the category. A hint reveals the word behind one clue of your choice.",
+    "url": "https://wordeq.app",
+    "category": "Words"
+  },
+  {
+    "name": "Name The ___",
+    "description": "Identify 5 works, one per round: a film still, a TV show, a painting, a photograph and a book passage. For each, type its title, its creator and the year it came out. Every correct answer scores 1 point, for a maximum of 15.",
+    "url": "https://ethanbradley.art/games/name-the.html",
+    "category": "Trivia"
+  },
+  {
+    "name": "Smush",
+    "description": "Make words of 3 or more letters from 9 tiles, always including the gold center letter. The center letter is unlimited, but each other letter has only 5 uses for the whole game, and letters may repeat within a word. Tiles carry point values, and a word scores double if it uses the spicy letter, which moves after every play, or spends a letter's last use. Every board hides at least 1 word using all 9 letters, worth extra and more if played first. The game ends once no words are left to make.",
+    "url": "https://www.hankgreen.com/smush",
+    "category": "Words"
+  },
+  {
+    "name": "4x3",
+    "description": "9 words fill a 3x3 grid. Sort them into 4 groups of 3 linked by a hidden connection, where 1 word, the hub, belongs to all 4 groups and the other 8 belong to just 1 each. Select 3 words to submit a group, and 3 mistakes end the game. Bonus points reward leading every guess with the hub, solving the hardest group first and finishing in under 90 seconds.",
+    "url": "https://www.hankgreen.com/fourbythree",
+    "category": "Words"
+  },
+  {
+    "name": "Sunflowers",
+    "description": "Plant every hidden sunflower in a square grid where all the number clues are shown from the start. Each number counts the sunflowers in the 8 squares around it, and every puzzle can be solved by logic alone without guessing. Double-click a square to plant a sunflower and single-click to mark it empty. A sunflower in the wrong square counts as a mistake, and 3 mistakes end the game. A harder master puzzle runs alongside the regular one.",
+    "url": "https://sunflowersgame.com",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Shift Puzzle",
+    "description": "Starting from a 5-letter word, play a chain of 5 new 5-letter words, each one a real word that differs from the one above it. Each word scores by how few letters you changed, 5 points for 1 letter, 4 for 2, 2 for 3, 1 for 4 and 0 for all 5. By the 5th word every one of the 5 letter positions must have changed at least once. A perfect game scores 25, and par is the best score possible using common words.",
+    "url": "https://shiftpuzzle.net",
+    "category": "Words"
+  },
+  {
+    "name": "Meikyu",
+    "description": "Work out which 5 dungeon residents stand on a hidden floor and which slot each one holds, in 6 tries. Each try places 5 pieces from the day's roster, and the report marks a green ring for the right piece in the right slot, a gold ring for a piece that is on the floor but in another slot, and a gray cross for a piece that is not on the floor. Cracked slots stay in place for the next try. The residents also follow unwritten rules about who stands beside whom and where, which the game never states and you work out over the days. Cracking a floor opens the next one down.",
+    "url": "https://meikyu.app",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Dealtle",
+    "description": "One press of Deal turns over 5 board cards and 2 hand cards from a deck that adds a fifth suit, stars. Your best 5 cards score chips for every pattern they hold, around 100 in all, from straights and runs to a set of cards that adds up to 15, with rarer patterns paying more and a few multiplying the total. There are no choices to make, and each score is ranked against every other player's deal.",
+    "url": "https://www.dealtle.com",
+    "category": "Tabletop Games"
+  },
+  {
+    "name": "8in60",
+    "description": "Find as many words of 4 or more letters as you can in 60 seconds, using the 8 letters on the board and each tile at most once per word. Longer words score more, from 4 points for a 4-letter word to 13 for 7 letters, and the single Crown word that uses all 8 letters is worth 20. Only your first run on the board counts as your score.",
+    "url": "https://8in60.com",
+    "category": "Words"
+  },
+  {
+    "name": "Logpose",
+    "description": "Name the hidden One Piece character. In the classic mode every guess is compared with the answer on gender, affiliation, origin, Devil Fruit, Haki, status, first arc and bounty, with green for a match, orange for a partial or close one, and arrows showing whether the answer's value is higher or lower. 6 more modes start from a wanted poster, a silhouette, a Devil Fruit or emoji revealed one by one, or ask you to name an opening from a clip that lengthens after each miss, or a volume from a close-up of its cover that zooms out. In French, with an English version.",
+    "url": "https://onepiecedle.fr",
+    "category": "Movies and Series"
+  },
+  {
     "name": "Daily Prog Club",
     "description": "Write 1 function that solves a short story-based programming problem, in JavaScript, Python, C, Go, Clojure, APL, Lua or Ruby, right in the browser editor. Run checks your code against the visible examples as often as you like, while Solve submits it against hidden tests with larger inputs and edge cases too. You get 5 attempts, and consecutive solves build a streak.",
     "url": "https://beta.dailyprog.club/en",
@@ -284,7 +416,7 @@
   {
     "name": "Crowdle.gg",
     "description": "Guess the 4 most common answers to a prompt that thousands of players were asked. Guesses are unlimited, close answers appear under the grid, and 3 hints each reveal another letter of the next answer.",
-    "url": "https://crowdle.gg",
+    "url": "https://pzlgames.com/games/crowdle/",
     "category": "Guessing"
   },
   {
@@ -826,12 +958,6 @@
     "description": "You get 90 seconds to study a piece of artwork and describe it in a written prompt. An image model then generates a picture from your words, and you are scored on how closely it matches the original, with a small bonus for speed. Everyone works from the same artwork and results are ranked on a global board. You can play as a guest without an account.",
     "url": "https://prompetitor.com",
     "category": "Visual"
-  },
-  {
-    "name": "majority.wtf",
-    "description": "One question goes out to everyone each round, and the answers people give become the board for the next round. Your job is to guess the single most common answer from the previous round, and you get 5 tries. A guess turns yellow if it landed in the top 5 and orange if it reached the top 10, while grey means it missed the board entirely. After guessing you answer the new question, which feeds the following board.",
-    "url": "https://majority.wtf",
-    "category": "Guessing"
   },
   {
     "name": "Chrono NBA",
@@ -1788,12 +1914,6 @@
     "category": "Geography"
   },
   {
-    "name": "Daily",
-    "description": "A different mini game each day, such as Coin Maze, where you collect every coin while staying ahead of a chaser. Each puzzle runs over 3 stages of rising difficulty against the clock. Casual mode allows unlimited replays, and a separate Competitive puzzle locks the screen and ranks your time on a global leaderboard.",
-    "url": "https://playdaily.org/play/today",
-    "category": "Misc"
-  },
-  {
     "name": "thingdle",
     "description": "A short riddle describes an everyday object — guess what it is in 6 tries. Each wrong guess fills a comparison row across 5 attributes (size, weight, parts, category, etc.) showing how close your answer is to the target, narrowing the field with every attempt. Two extra hints unlock along the way.",
     "url": "https://thingdle.app/thingdle",
@@ -1915,8 +2035,8 @@
   },
   {
     "name": "Rowdle",
-    "description": "Daily word puzzle where you rebuild 5 scrambled 5-letter rows by swapping letters between them — rows matter, columns don't. Each tile shows green for a correct spot, yellow for the right row but wrong spot, and grey if it belongs elsewhere. Aim for 15 moves or fewer.",
-    "url": "https://rowdle.io",
+    "description": "Rebuild 5 scrambled 5-letter words, 1 per row of a 5x5 grid, by swapping any 2 tiles. Only the rows have to spell words, the columns don't. Green marks a letter in the right spot, yellow a letter in the right row but the wrong spot, and grey a letter that belongs in another row. A row locks once its word is solved, and the goal is to finish in 15 swaps or fewer.",
+    "url": "https://rowdle.io/?game=classic",
     "category": "Words"
   },
   {
@@ -1994,14 +2114,8 @@
   {
     "name": "Doctordle",
     "description": "A daily medical diagnosis puzzle where you are given a short clinical scenario with patient symptoms and history, and must guess the correct diagnosis within 5\n  attempts. Designed for medical students and professionals to test their clinical knowledge on a new case every day.",
-    "url": "https://doctordle.org/doctordle/",
+    "url": "https://doctordle.org/",
     "category": "Trivia"
-  },
-  {
-    "name": "BERNIE Daily",
-    "description": "A daily car-pricing game where you guess the real auction sale price of 10 themed exotic cars using specs and Bernie's hints. Points are awarded based on guess\n  accuracy and you can compete on a global leaderboard with a new session dropping every day at midnight.",
-    "url": "https://bernie-web.vercel.app",
-    "category": "Guessing"
   },
   {
     "name": "Consonants",
@@ -2026,18 +2140,6 @@
     "description": "Guess Hex is a daily hex color code guessing game where you enter 6-digit hex codes and get feedback — green for exact, yellow for close, gray for wrong — with arrows showing direction. You have 6 attempts, with bonus turns for exact RGB channel matches. Features daily and unlimited modes.",
     "url": "https://guesshex.com/",
     "category": "Colors"
-  },
-  {
-    "name": "Queen Sweep",
-    "description": "Find 8 hidden queens on an 8×8 board using Minesweeper-style number clues. Numbers show how many queens are adjacent to each cell. Each row and column has exactly 1 queen, and queens can't be diagonally adjacent. Mark cells with X to eliminate them, then flag the queens to win. Features daily and unlimited modes.",
-    "url": "https://playqueensweep.com/",
-    "category": "Numbers and Logic"
-  },
-  {
-    "name": "recTangled",
-    "description": "Find hidden words in a tangled grid of letters by swiping or typing. Words are scored by rarity: 3-letter (100pts), common (500pts), rare (1,000pts), and ultra rare (5,000pts). A new daily puzzle with a set number of words to discover. Supports adjustable grid sizes and multiplayer.",
-    "url": "https://rectangled.live/solo",
-    "category": "Words"
   },
   {
     "name": "anoun",
@@ -2142,10 +2244,10 @@
     "category": "Trivia"
   },
   {
-    "name": "Magnitudle",
-    "description": "Estimate the answer to a daily trivia question using real-world numbers. Your score is based on how many orders of magnitude you're off.",
-    "url": "https://magnitudle.com",
-    "category": "Guessing"
+    "name": "Magnitudle - Size It Up",
+    "description": "Resize the red silhouette of a real-world object, animal or landmark until it is to scale with a blue reference that stays fixed. Drag the corner handle to resize it, zoom out for bigger estimates, then lock in to reveal the real size. 5 rounds score up to 100 points each for accuracy.",
+    "url": "https://magnitudle.com/size-it-up",
+    "category": "Visual"
   },
   {
     "name": "HURGLE",
@@ -3042,7 +3144,7 @@
     "category": "Words"
   },
   {
-    "name": "Swapple",
+    "name": "nibble.games - Swapple",
     "description": "Swap letters on a 5x5 grid until the words read correctly both across and down. Green letters are in the right place and yellow letters belong in the same row or column. Finish in as few swaps as possible.",
     "url": "https://nibble.games/swapple/swapple-easy.html",
     "category": "Words"
@@ -3132,7 +3234,7 @@
     "category": "History"
   },
   {
-    "name": "Sexaginta-quattuordle",
+    "name": "64ordle - Sexaginta-quattuordle",
     "description": "Solve 64 hidden 5-letter words at once in 70 guesses. Each guess is played on every board, and its tiles show which letters are in the right spot, which are in the word but in the wrong spot, and which are not in the word at all.",
     "url": "https://64ordle.au/?mode=daily",
     "category": "Words"
@@ -3268,12 +3370,6 @@
     "description": "Identify a Heroes of the Storm hero, with each guess returning clues on how close you landed. Further modes swap the target for an ability, a talent, a duo, a colour or an emoji rendering, and every mode has a practice version beside the set round.",
     "url": "https://hotsdle.zgame.studio",
     "category": "Video Games"
-  },
-  {
-    "name": "Emoji Quiz - Movies",
-    "description": "A film is represented as a row of emoji and you type the title. Genre tags are given up front, and further emoji stay locked until you spend guesses, so each wrong attempt buys another piece of the clue.",
-    "url": "https://www.emojiquiz.net/movies",
-    "category": "Movies and Series"
   },
   {
     "name": "Blossom",
@@ -3439,7 +3535,7 @@
   },
   {
     "name": "QueenSweep",
-    "description": "Find 8 queens hidden on a grid. Numbered cells say how many queens sit next to them, counting diagonals. Exactly 1 queen stands in each row and each column, and no 2 queens may be diagonally adjacent. Mark cells you have ruled out, flag the queens, and watch the mistake counter.",
+    "description": "Find 8 hidden queens on an 8×8 board using Minesweeper-style number clues. Numbers show how many queens are adjacent to each cell. Each row and column has exactly 1 queen, and queens can't be diagonally adjacent. Mark cells with X to eliminate them, then flag the queens to win. Features daily and unlimited modes.",
     "url": "https://playqueensweep.com",
     "category": "Numbers and Logic"
   },
@@ -3622,12 +3718,6 @@
     "description": "Name the film from a quote in 6 attempts. Each wrong guess or skip reveals another quote from the same film, starting obscure and getting more recognisable.",
     "url": "https://www.quotesed.com",
     "category": "Movies and Series"
-  },
-  {
-    "name": "Emoji Quiz - Video Games",
-    "description": "A video game is represented as a row of emoji and you type the title. Genre tags are given up front, and further emoji stay locked until you spend guesses, so each wrong attempt buys another piece of the clue.",
-    "url": "https://www.emojiquiz.net/games",
-    "category": "Video Games"
   },
   {
     "name": "Elemingle",
@@ -4164,12 +4254,6 @@
     "category": "Video Games"
   },
   {
-    "name": "Emoji Quiz - TV",
-    "description": "A television series is represented as a row of emoji and you type the title. Genre tags are given up front, and further emoji stay locked until you spend guesses, so each wrong attempt buys another piece of the clue.",
-    "url": "https://www.emojiquiz.net/tv",
-    "category": "Movies and Series"
-  },
-  {
     "name": "Quolture",
     "description": "Name the film a quote comes from, then the TV series a second quote comes from, typing the full title. Partial answers get no feedback, so only a complete title counts. Hints can reveal random letters or give extra clues.",
     "url": "https://www.quolture.com/#",
@@ -4614,12 +4698,6 @@
     "category": "Words"
   },
   {
-    "name": "WordFlow",
-    "description": "Connect adjacent letters in the grid to spell words. Find the hidden theme words that match the day's category, then keep going for bonus words to boost your score.",
-    "url": "https://wordflow.me/game",
-    "category": "Words"
-  },
-  {
     "name": "Word Drop",
     "description": "Connect adjacent letter tiles in any direction to spell words of at least 3 letters. Bonus tiles multiply your letter or word score and bomb tiles must be avoided. Rack up the highest score you can.",
     "url": "https://worddrop.co/game/daily",
@@ -4668,12 +4746,6 @@
     "category": "Words"
   },
   {
-    "name": "64ordle",
-    "description": "Solve 64 separate 5-letter words at once in 70 guesses. Every guess you type is played against all 64 boards simultaneously, colouring tiles green, yellow, or grey on each one.",
-    "url": "https://64ordle.au/",
-    "category": "Words"
-  },
-  {
     "name": "Birdle",
     "description": "A South African bird hides behind a blurred photo and a birdsong clip you can play. Each of your 5 guesses names the bird and picks its food type, size, foot function, and habitat; correct attributes light up green and the photo sharpens a little every round.",
     "url": "https://birdle.co.za/?lang=en",
@@ -4713,12 +4785,6 @@
     "name": "Wourdle",
     "description": "Guess a 6-letter word spelled the British way in 7 tries. Tiles turn green for a letter in the right spot, yellow for a letter in the word but the wrong spot, and grey for one that is not in it at all.",
     "url": "https://wourdle.com",
-    "category": "Words"
-  },
-  {
-    "name": "Paraulògic",
-    "description": "A honeycomb of 7 Catalan letters with one in the centre. Build as many valid words as you can — every word must use the centre letter, and letters may be reused — with each find adding points and pushing you up the ranks.",
-    "url": "https://paraulogic.net/",
     "category": "Words"
   },
   {
