@@ -1,5 +1,47 @@
 [
   {
+    "name": "Estimatle",
+    "description": "Answer 5 numerical questions by dragging a slider to your estimate. Each answer scores up to 100 points, minus 1 for every slider step between your estimate and the true number. After locking in, you see the correct answer with its source and how other players guessed.",
+    "url": "https://estimatle.com",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Letrafio",
+    "description": "Guess a 5-letter Portuguese word in 6 tries. After each guess, tiles show which letters are in the word and in the right spot, which are in the word but in the wrong spot, and which are not in the word at all. 3 more modes change the rules. In Ponto Cego some tiles hide their color. In Resta Uma the first 5 guesses are filled in for you and you get 1 try. In Volta no Tempo the answer is shown and you work out the 5 earlier guesses behind each row of colors.",
+    "url": "https://www.letraf.io",
+    "category": "Words"
+  },
+  {
+    "name": "Yearbook",
+    "description": "Guess the year, between 1950 and 2025, in which 4 clues all happened. The clues come from different categories, such as world events, pop culture and politics, and run from vaguest to most specific. You get 1 guess per clue, and each wrong guess reveals the next clue. Feedback says whether a guess is the exact year, 1 year off, within 5 years, within 10 years or more than 10 years off.",
+    "url": "https://yearbook.hindsightgames.com",
+    "category": "Trivia"
+  },
+  {
+    "name": "Roster Relay",
+    "description": "Connect a start player to a finish player through a chain of teammates. Each player you add must have played for the same franchise in the same season as the one before. Wrong guesses are free and any valid route wins, but fewer links and more obscure teammates earn a better score. Separate puzzles for MLB, NBA and NFL.",
+    "url": "https://rosterrelay.hindsightgames.com",
+    "category": "Sports"
+  },
+  {
+    "name": "Broken Words",
+    "description": "Every answer is cut into chunks of 2 or 3 letters, and the chunks of all the answers are mixed into one shared pool. Each answer has a clue, its first letter and its letter count. Tap the chunks in the right order to rebuild an answer. A correct answer locks in and greys out its chunks, so the pool narrows as you solve. 6 variants each day, including thematic and cryptic sets.",
+    "url": "https://www.brokenwords.com",
+    "category": "Words"
+  },
+  {
+    "name": "Neograms",
+    "description": "Every puzzle is a new invented language. Clue sentences written in its glyphs come paired with their English translations. Compare them to work out which glyph is which word, and how a small mark above, beside or below a glyph changes it, the way an ending changes a word. Then decode a new glyph sentence into English and encode an English sentence into glyphs. Both answers must be right to solve it.",
+    "url": "https://neograms.app/",
+    "category": "Words"
+  },
+  {
+    "name": "Thinky Dailies",
+    "description": "Every puzzle is handcrafted and brings its own rules, from sudoku and nurikabe to path-finding and visual riddles. A short illustrated story scene introduces each one, and hints are there if you get stuck. Puzzles run in seasons of about 61 with a break between seasons, and every past puzzle stays playable.",
+    "url": "https://thinkygames.com/dailies/",
+    "category": "Numbers and Logic"
+  },
+  {
     "name": "ALLEGEDLY",
     "description": "Read a short blind item about a real, widely reported incident with the celebrity's name blacked out, and name who it is. You have 3 strikes, and every wrong guess reveals a free clue. Up to 2 optional clues can be unlocked at any time, but they show on your share. Hard mode allows 2 strikes and no optional clues, and an extra Night Edition case plays by those rules.",
     "url": "https://playallegedly.com",
@@ -742,12 +784,6 @@
     "description": "Drag across adjacent tiles in any direction, including diagonally, to spell words of at least 4 letters on a 5x5 letter grid. Used tiles disappear, the tiles above drop down and new letters fall in from the top. Rarer letters score more points, and clearing up to 50 tiles uncovers hidden stars worth bonus points. The game ends when no words are left to find.",
     "url": "https://tilechigame.com",
     "category": "Words"
-  },
-  {
-    "name": "GridPaw",
-    "description": "Divide the grid into rectangles so that each one contains exactly 1 number and covers exactly that many cells. Drag to draw each rectangle and cover every cell to solve it. The daily challenge is a 10x10 grid that is the same for everyone.",
-    "url": "https://gridpaw.com",
-    "category": "Numbers and Logic"
   },
   {
     "name": "Krillion",
@@ -4546,6 +4582,12 @@
     "description": "Name the hidden boss from Black Myth: Wukong with unlimited guesses. Every guess is scored on 9 attributes including map, type, difficulty, HP, whether the fight runs to 2 phases, whether it is hidden, and its weaknesses, resistances and immunities. Green is an exact match, yellow a partial one on the multi-value columns and red a miss, while arrows point higher or lower on the numbers. A weakness is revealed after 6 tries and the difficulty after 9.",
     "url": "https://blackmythdle.com/",
     "category": "Video Games"
+  },
+  {
+    "name": "Figurdle",
+    "description": "Name the hidden famous figure in 6 guesses. 5 hints sit on a placard and are revealed one at a time, narrowing from era to field to deed. Each wrong guess reveals the next hint, and skipping reveals one without spending a guess. Figures come from history, science, sport, politics, art, film and more.",
+    "url": "https://figurdle.com/",
+    "category": "History"
   },
   {
     "name": "Foodie Game",

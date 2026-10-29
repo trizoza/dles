@@ -96,17 +96,19 @@ Song lyrics are a different story: even a single chorus is protected by copyrigh
 
 - [ElevenLabs](https://elevenlabs.io/sound-effects) - generate sound effect with AI
 - [Pixabay](https://pixabay.com/) - free sounds, music
+- [Suno](https://suno.com/) - generate full songs and background music with AI
 
 ## 3D Assets
 
 - [Kenney](https://kenney.nl/) - free 3D models, textures, audio and UI packs
 - [Sketchfab](https://sketchfab.com/features/free-3d-models) - free 3D models
+- [Open Source Avatars](https://www.opensourceavatars.com/en) - hundreds of free 3D character avatars in VRM format, CC0 except the VIPE Heroes collection (CC-BY)
 
 ## DLES
 
 I decided to open source the entire collection of DLES I collect at [dles.gg](https://dles.gg). I will be updating this list at the end of each week. If you're in search for the latest games, please head to [dles.gg/games/newest](https://dles.gg/games/newest) instead, otherwise use this mirror if you need to download the entire games list at once.
 
-- [DLES](assets/daily-games/dles.json) - 1086 daily games listed on [dles.gg](https://dles.gg) with names, URLs and descriptions, sorted by a date added to the collection
+- [DLES](assets/daily-games/dles.json) - 1093 daily games listed on [dles.gg](https://dles.gg) with names, URLs and descriptions, sorted by a date added to the collection
 
 ## Contribute
 
