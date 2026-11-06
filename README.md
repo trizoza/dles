@@ -56,7 +56,7 @@ The **`norvig-*`** lists are ranked with Peter Norvig's [word-frequency data](ht
 
 #### Wordfreq filtered
 
-The **`wordfreq-*`** lists are generated automatically with the open-source [wordfreq](https://pypi.org/project/wordfreq/) library, so they're fully reproducible from open data. **The Zipf cutoff.** wordfreq scores each word on the _Zipf scale_ — a base-10 logarithmic frequency running from about 0 to 8, where every whole step means the word is 10× more common (`the` ≈ 7.7, `house` ≈ 5.7, `gecko` ≈ 3.0, and the obscure `aalii` ≈ 0). Every ENABLE word is scored, and those at **Zipf ≥ 3.0** are kept — roughly "used at least once per million words", the level below which words start to feel obscure to a general audience. Because raw frequency still ranks proper nouns and profanity highly, offensive terms and obvious names/places are then filtered out. The 3.0 bar is deliberately strict so the lists favour genuinely everyday words; a lower threshold would keep more but rarer words.
+The **`wordfreq-*`** lists are generated automatically with the open-source [wordfreq](https://pypi.org/project/wordfreq/) library, so they're fully reproducible from open data. **The Zipf cutoff.** wordfreq scores each word on the _Zipf scale_ — a base-10 logarithmic frequency running from about 0 to 8, where every whole step means the word is 10× more common (`the` ≈ 7.7, `house` ≈ 5.7, `gecko` ≈ 3.0, and the obscure `aalii` ≈ 0). Every ENABLE word is scored, and those at **Zipf ≥ 3.0** are kept — roughly "used at least once per million words", the level below which words start to feel obscure to a general audience. Because raw frequency still ranks proper nouns and profanity highly, offensive terms and obvious names/places are then filtered out. The 3.0 bar is deliberately strict so the lists favour genuinely everyday words; a lower threshold would keep more but rarer words. Because of wordfreq's data license, these lists are under CC BY-SA 4.0 rather than CC0, see [License](#license).
 
 - [4 letter popular words (wordfreq)](assets/words/enable/wordfreq-most-popular-4-letter-words.txt) - 1751 words
 - [5 letter popular words (wordfreq)](assets/words/enable/wordfreq-most-popular-5-letter-words.txt) - 2648 words
@@ -116,3 +116,15 @@ This is an open source project and contributions are welcome. If you know of a w
 
 - [Open an issue](https://github.com/trizoza/assets.dles.gg/issues/new) - Suggest a new resource, report a bug or a broken link. No coding required — just describe what you'd like to see added.
 - [Submit a pull request](https://github.com/trizoza/assets.dles.gg/pulls) - Fork the repo, add your resource to the `assets/` directory, update this `README.md` with the new resource, and open a PR. We'll review and merge it.
+
+## License
+
+Everything I created for this repo is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/): use it for anything, including commercial games, with no credit required. That covers the site code, the ENABLE word lists, the `norvig-*` lists, the game descriptions, and the hints and other fields I added to the phrase lists. Contributions are accepted under the same terms.
+
+CC0 can only cover what's mine to give away, so there are three exceptions:
+
+**The `wordfreq-*` lists** are under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) instead, because they were selected using data from [wordfreq](https://github.com/rspeer/wordfreq) by Robyn Speer, which is under that license. If you use one, credit wordfreq and this collection, and share any changed version of the list under the same license.
+
+**The phrases themselves** aren't mine. Movie lines, and quotes or book lines from modern authors, may still be under copyright held by their authors or studios. CC0 applies to my selection and the hints, not to those words, so whether your use is OK is your call.
+
+**Game names** in the DLES list, and any trademarks in them, belong to the games' creators.

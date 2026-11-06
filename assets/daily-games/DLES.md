@@ -1,6 +1,6 @@
 # DLES a.k.a Daily Logic Exercises
 
-> An open mirror of the **1118** daily games collected at [dles.gg](https://dles.gg/games/newest?ref=assets.dles.gg) ordered by newest first. Made a daily game yourself? [Submit it to the collection!](https://dles.gg/submit-game?ref=assets.dles.gg).
+> The largest open-source DLES collection of **1118** daily games collected at [dles.gg](https://dles.gg/games/newest?ref=assets.dles.gg), ordered by newest first. Missing a game? [Submit it to the collection](https://dles.gg/submit-game?ref=assets.dles.gg).
 
 - [PicBits](https://picbits.io?ref=assets.dles.gg) - Identify a picture hidden under an 8x8 grid of tiles, with only its category given. Tap tiles one at a time to uncover pieces of it, and zoom or drag to inspect what is showing at no cost. When you know what it is, type the answer into slots that show its length. The score starts at 100%, drops with every tile revealed and loses 1% for each wrong guess, so the aim is to name it from as little of the picture as possible.
 - [Snap.Fit](https://playsnap.fit?ref=assets.dles.gg) - Fill a crossword-shaped grid that has no clues. Each run must spell any valid word that fits the starting letters given for the day and the letters crossing it. Pencil letters in freely, then snap a word to lock it in for good, which fixes its letters for every word crossing it. A word only snaps if the rest of the grid can still be finished. Rarer words score more, hints and undos cost points, and a fast finish earns a time bonus.
