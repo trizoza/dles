@@ -1,5 +1,125 @@
 [
   {
+    "name": "PicBits",
+    "description": "Identify a picture hidden under an 8x8 grid of tiles, with only its category given. Tap tiles one at a time to uncover pieces of it, and zoom or drag to inspect what is showing at no cost. When you know what it is, type the answer into slots that show its length. The score starts at 100%, drops with every tile revealed and loses 1% for each wrong guess, so the aim is to name it from as little of the picture as possible.",
+    "url": "https://picbits.io",
+    "category": "Visual"
+  },
+  {
+    "name": "Snap.Fit",
+    "description": "Fill a crossword-shaped grid that has no clues. Each run must spell any valid word that fits the starting letters given for the day and the letters crossing it. Pencil letters in freely, then snap a word to lock it in for good, which fixes its letters for every word crossing it. A word only snaps if the rest of the grid can still be finished. Rarer words score more, hints and undos cost points, and a fast finish earns a time bonus.",
+    "url": "https://playsnap.fit",
+    "category": "Words"
+  },
+  {
+    "name": "ROUTES",
+    "description": "Call a pass play against a football defense. Press a receiver and drag to draw his route, and anyone left undrawn runs his default route. Before the snap you can send a receiver in motion, and a defender who follows him across shows the coverage is man. Snap the ball, then press the ring around an open receiver and let go to throw before the rush gets to the quarterback. Everyone faces the same defense with 1 drive from their own 25 to score a touchdown, in a single try.",
+    "url": "https://routes.thecutnfl.com",
+    "category": "Sports"
+  },
+  {
+    "name": "Movie Cast",
+    "description": "Produce 3 films by drafting real actors and directors. For each film, pick a scale and a genre, choose a director from those of 5 real films, then fill each role from the 5 to 10 actors of a real film rolled for it. Actors are rated on genre fit, star power and acting, and some pairs have chemistry that lifts the whole production. Critics and the worldwide box office judge every release, and the studio wins by reaching an 85% critics score and $1.5B worldwide, with no genre used twice. The themed challenge gives 1 attempt.",
+    "url": "https://www.moviecast.app",
+    "category": "Movies and Series"
+  },
+  {
+    "name": "Numbun",
+    "description": "Find a secret 4-digit number made of 4 different digits, never starting with 0, in 10 tries. After each guess, + counts the digits that are correct and in the right place, and - counts the digits that are in the number but in the wrong place, without saying which ones. A second puzzle, the Case, shows 5 guesses already made with their clues, and you get 3 tries to deduce the number from them.",
+    "url": "https://numbun.com",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Beta Blast",
+    "description": "Shoot colored holds up at a climbing wall. Land one touching 2 or more of the same color and the group pops, and any holds cut off from the top fall with it. Clear the whole wall to send the route. Every shot that pops nothing fills a pump meter, and a gauge fills over time. Whenever either one fills, the wall drops a row, and if it reaches the red line you fall. Special holds change things: grey volumes crack after 2 pops beside them, shots that land beside a slick hold slide down, a mega jug turns into the color that pops the most and a chalk bomb clears every hold it touches. Everyone gets the same wall each day, graded between V3 and V7, and a fast clear earns a speed bonus, with extra for a clear without a single pump.",
+    "url": "https://thesecretstage.vip/Beta-Blast/",
+    "category": "Visual"
+  },
+  {
+    "name": "Wordhump",
+    "description": "Find a hidden 5-letter word that sits alphabetically between 2 starting words. Every guess has to fall inside the current range and tells you whether the answer comes before or after it, so that boundary moves in to your guess. A counter shows how many valid words are left, and a hump on the range line shows which of 5 zones holds the answer. Guesses are unlimited, so the goal is to find it in as few as possible.",
+    "url": "https://wordhump.com",
+    "category": "Words"
+  },
+  {
+    "name": "FlipList Daily",
+    "description": "Hear 1 second of a song and pick its title from 4 options. Before you pick, you can listen longer, to 2, 4 or 8 seconds, but each step lowers the points the song is worth, and you only get 1 pick per song. A round is 7 songs from one theme, such as rock.",
+    "url": "https://playfliplist.com/daily",
+    "category": "Music"
+  },
+  {
+    "name": "Ball Don't Cry",
+    "description": "An NBA player's season by season stats are shown with the team column hidden: games, minutes, points, rebounds, assists, shooting percentages and more. Name the player in 3 guesses. Each wrong guess reveals some of the teams he played for, and there are 3 players to name in each puzzle.",
+    "url": "https://www.balldontcry.com",
+    "category": "Sports"
+  },
+  {
+    "name": "Angledle",
+    "description": "Two rays meet at a point and you type the angle between them in degrees, a whole number from 1 to 359. You have 6 guesses, and each returns an arrow pointing toward the answer plus a hint for how far off you were: So close within 5°, Hot within 15°, Warm within 30°, Cold beyond that. 2 more rounds follow: draw 3 given angles to within 10°, then pick the bigger of 2 angles in 5 comparisons.",
+    "url": "https://angledle.com",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "MidWord",
+    "description": "A secret word is picked from the English dictionary. Type any word as a guess and you are told whether the answer comes before or after it in alphabetical order. Narrow the range with each guess until you land on the word.",
+    "url": "https://midword.com",
+    "category": "Words"
+  },
+  {
+    "name": "The Daily Cryptic",
+    "description": "Solve one cryptic crossword clue by finding the answer that both its plain definition and its wordplay point to, then type it into the letter boxes. The number in brackets gives the answer's length. Stuck? Reveal the clue type, the indicator, the definition, the fodder or a single letter, but each hint counts against the day's par.",
+    "url": "https://thedailycryptic.com",
+    "category": "Words"
+  },
+  {
+    "name": "Tower of Questions",
+    "description": "Climb a tower of 7 multiple-choice trivia questions, 1 per floor, each harder than the last. Every question has 4 options, and a single wrong answer ends the run. Single-use relics help along the way, a different set each day: remove 1 or 2 wrong answers, swap the question, skip the floor, or survive 1 wrong answer. Higher floors and quick answers score more, and finishing with relics left over earns a bonus. One floor a day also carries an optional wordplay bonus, where you uncover a hidden phrase with up to 5 letter guesses and get 1 chance to solve it.",
+    "url": "https://towerofquestions.com",
+    "category": "Trivia"
+  },
+  {
+    "name": "il sudoku",
+    "description": "Fill a 9x9 grid so every row, column and 3x3 box holds the digits 1 to 9 exactly once, working from the digits already given. Notes, hints, undo and a timer are on hand, and an archive keeps every past puzzle back to January 2024. The site is in Italian.",
+    "url": "https://ilsudoku.it/daily-sudoku/",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Noodle",
+    "description": "Turn the starting word into a new word in 4 steps, using each of 4 edits exactly once in any order: move 1 letter to a new position, add 1 letter, remove 1 letter, and replace 1 letter. Every step must be a real word and no word can repeat. There is no target word, so any path that uses all 4 edits wins. Undoing a step or taking a hint costs a life, and running out of lives at a dead end ends the game.",
+    "url": "https://noodlepuzzle.com",
+    "category": "Words"
+  },
+  {
+    "name": "Candlestick",
+    "description": "A real price chart of a stock, index, cryptocurrency, currency or commodity is shown with the asset and dates hidden. Make 1 call on where it will close 10 trading days later compared with the last close: a big drop of 6% or more, a drop, flat within 1.5%, a rally, or a big rally of 6% or more. The right bucket scores 2 points and one bucket off scores 1, then the chart rolls forward to show what happened and which asset it was.",
+    "url": "https://candlestick.gg/candlestick/",
+    "category": "Guessing"
+  },
+  {
+    "name": "Lexagon",
+    "description": "Swipe across neighboring hexagon tiles to spell words of 3 or more letters, using each tile once per word. A word bank shows a blank for every word hidden on the board, shortest first. A clue points to the longest word on the board, and finding it unlocks unlimited hints. Each word found moves you along a path around the board that hands out boosters, and reaching the end of the path completes the puzzle. Longer words score far more, with bonuses for speed.",
+    "url": "https://www.lexagon.com",
+    "category": "Words"
+  },
+  {
+    "name": "Grid Words",
+    "description": "Fill a mini crossword grid that has no clues, so every row and column spells a word, some of them abbreviations, proper nouns or several words run together. Select a cell and type a letter. The cell then shows whether the letter is right for that spot, belongs elsewhere in its row or column, sits somewhere in the puzzle outside its row and column, or has no copies left. Earlier tries stay stacked under each cell, and the keyboard marks which letters can or cannot fit the selected cell. Moves and time are counted.",
+    "url": "https://gridwordsgame.com",
+    "category": "Words"
+  },
+  {
+    "name": "FactStack",
+    "description": "Put 5 facts in order by the rule shown above them, such as Renaissance artists by birth year, earliest first. Rules sort by date, size, population, box office and more, across topics from film and sport to science and geography. Drag the tiles, then lock in. Tiles in the right place turn lime green and stay put, while orange ones still need moving. You get 5 attempts, and winning in fewer earns more points. A hard mode adds a 6th tile to the same puzzle.",
+    "url": "https://factstackgame.com",
+    "category": "Trivia"
+  },
+  {
+    "name": "Close Enough",
+    "description": "Estimate 5 real-world numbers without looking anything up, such as how many years Jupiter takes to orbit the Sun. Set each guess on a slider or type the exact value, then lock it in. Each answer is worth up to 1,000 points depending on how close you land, and the reveal comes with a short fact and its source. Free play offers unlimited extra rounds.",
+    "url": "https://closeenough.fun/?game=close-enough",
+    "category": "Guessing"
+  },
+  {
     "name": "Corporate Mind Games",
     "description": "3 logic puzzles set in an office. Prep Office For RTO: drag lights, crystals and plants onto the open cells of a hexagon floor plan so the cells around each employee hold exactly the number of each item shown on their tile. Plan The Roadmap: drag 16 tickets into 4 quarters, 4 to a quarter, so each quarter hits its exact point total while keeping set pairs together or apart, meeting deadlines and keeping tickets in order. Modernize The Org Chart: drag Human and AI employees into an org chart tree so each one reports to the kind of boss it needs and supervises the mix of humans and AIs it asks for.",
     "url": "https://corporatemindgames.com",
@@ -367,7 +487,7 @@
   },
   {
     "name": "EraGuessr",
-    "description": "Look around 5 AI-generated 360° scenes of historical moments, then pin where each one is on a world map and set its year on a timeline. Location and year are each worth up to 5,000 points per scene, scored on how close you land, with 90 seconds per scene.",
+    "description": "Look around an AI-generated 360° scene of a historical moment, then pin where it happened on a world map and set its year on a timeline. Location and year are each worth up to 5,000 points, scored on how close you land, with 90 seconds to answer.",
     "url": "https://eraguessr.ai/play/daily",
     "category": "History"
   },
@@ -414,7 +534,7 @@
     "category": "Words"
   },
   {
-    "name": "Guess Mint",
+    "name": "Guessmint",
     "description": "Work out who issued a real historical coin and roughly when it was struck. Each guess pairs an issuer, picked from a map showing every state, empire, city-state and tribe minting in the year you set, with that year on the timeline. You learn how far your issuer's capital is from the right one and which way to go, and whether the coin is earlier or later than your year. Get both right within 6 guesses. Whichever half you solve first locks in, and the back of the coin unlocks after your second guess.",
     "url": "https://guessmint.com",
     "category": "History"
@@ -768,12 +888,6 @@
     "category": "Words"
   },
   {
-    "name": "Originle",
-    "description": "A real person introduces themselves on video, and you guess the country they represent through their roots and culture, not necessarily where they live. Reveal up to 8 progressively easier clips and lock in up to 3 guesses. Scoring is out of 10,000, with fewer clues and fewer guesses earning more.",
-    "url": "https://originle.io",
-    "category": "Geography"
-  },
-  {
     "name": "Emoji Game",
     "description": "Fill the blanks in 3 phrases with 6 emoji groups. Each group stands for a run of letters, read literally, by association or by the sound of its name, and those letters can be spread across blanks that aren't next to each other. Drag a group onto the blanks it fills. A right placement fills them in, a wrong one bounces back, and either way it costs a move, as does opening a phrase's clue. 6 moves is a perfect solve.",
     "url": "https://playemojigame.com",
@@ -1116,12 +1230,6 @@
     "category": "Sports"
   },
   {
-    "name": "PunFiction: Box Office Blunders",
-    "description": "A famous film quote is shown with 1 word swapped for a rhyme, next to an absurd plot summary built around the new word. Work out the original film, then rename it the same way, swapping 1 word of its title for a rhyming word that fits the silly plot. Type the parody title into the blanks, which show you exactly how many words and letters to expect. 4 hints unlock in order if you stall, naming the original film, highlighting the punned word, filling the first letters, then filling every vowel, and your rank depends on how few you needed.",
-    "url": "https://punfiction.io/boxofficeblunders/",
-    "category": "Movies and Series"
-  },
-  {
     "name": "Heisty",
     "description": "One heist split into 3 deduction stages, playable in any order. Recon is a floor plan divided into coloured rooms, and you flag the single hidden camera in each room so that no row, column or room holds 2 and no 2 cameras touch, even at the corners. Breach asks you to put the entry steps into the right order from a set of clues. Vault has you work out the combination, also from clues. The job carries a market value, and mistakes, hints and elapsed time all shave your cut.",
     "url": "https://heisty.games",
@@ -1446,12 +1554,6 @@
     "category": "Video Games"
   },
   {
-    "name": "Peekpedia",
-    "description": "You are shown a photo from a mystery Wikipedia article and type which article it belongs to. Each wrong guess or skip reveals another image from the same article, up to 5 in total. Identify the article using as few images as possible.",
-    "url": "https://peekpedia.com",
-    "category": "Trivia"
-  },
-  {
     "name": "Past Puzzle",
     "description": "Read a short historical fact, then type the 4-digit year it happened using the number pad. You get 4 attempts, and each guess reveals how close you are so you can narrow down the exact year.",
     "url": "https://www.pastpuzzle.de",
@@ -1716,12 +1818,6 @@
     "category": "Sports"
   },
   {
-    "name": "Picguessr",
-    "description": "Identify the mystery pop-culture character from a heavily zoomed-in image in 4 guesses — each wrong answer reveals more of the picture, and a first-try win earns the full 5 points. The pool spans 1,600+ characters across cartoons, TV series, movies, video games, manga & anime, and comics, with streaks, leaderboards, and extra classic and infinite modes.",
-    "url": "https://picguessr.io",
-    "category": "Movies and Series"
-  },
-  {
     "name": "Color Memory Game",
     "description": "A color flashes for 4 seconds, then vanishes — recreate it from memory with hue, saturation, and brightness sliders. 5 rounds, each scored 0–10 by perceptual color difference, up to 50 points. Everyone gets the same 5 colors, with one leaderboard run, streaks, country rankings, and 18 variants from speed and gradient to multiplayer rooms.",
     "url": "https://www.colormemorygame.com",
@@ -1938,12 +2034,6 @@
     "category": "Video Games"
   },
   {
-    "name": "Anagardens",
-    "description": "A growing anagram ladder — each step gives you the letters from your previous answer plus a new mystery tile, and a clue to guide you. Rearrange all the letters to form the word matching the clue. The chain grows by 1 letter with every step.",
-    "url": "https://anagardens.com",
-    "category": "Words"
-  },
-  {
     "name": "Countle",
     "description": "Use 6 given numbers and the 4 arithmetic operations (+, −, ×, ÷) to reach a 3-digit target number. Each number can only be used once — you don't need to use all of them. Score is based on how close your solution gets to the target.",
     "url": "https://www.countle.org/",
@@ -2026,12 +2116,6 @@
     "description": "On a hex grid of populated tiles representing voters from different parties, group adjacent tiles into a set number of equally-sized connected districts. A party wins a district by holding the most voters in it; your goal is to draw the lines so your assigned party wins more districts than any other.",
     "url": "https://gerrymandle.com/",
     "category": "Numbers and Logic"
-  },
-  {
-    "name": "Story Sleuth",
-    "description": "You get a one-line plot summary of a book and 6 attempts to guess its title from a searchable list. Extra clues unlock as you go: the decade after 3 wrong guesses, the author's initials after 4, and the title's word pattern after 5.",
-    "url": "https://story.booksleuth.club/",
-    "category": "Misc"
   },
   {
     "name": "Gauntle",
@@ -5246,7 +5330,7 @@
   {
     "name": "Star Wordle",
     "description": "Guess the hidden 5-character Star Wars word in 6 tries; the keyboard adds digits and dashes for droid names, and tile colours show which characters are right and correctly placed.",
-    "url": "https://www.starwordle.com/",
+    "url": "https://game.starwordle.com/",
     "category": "Movies and Series"
   },
   {
