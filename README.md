@@ -8,7 +8,7 @@ When I made my first game [Rotaboxes](https://rotaboxes.com) I had no idea where
 
 The goal of this repo is to create a collection of free assets for daily games, maintain and conserve them for future use.
 
-So far I see 3 main categories that I'd like to cover: Words, Images and Sounds.
+So far this collection covers 5 main categories: Words, Phrases, Images, Sounds and 3D Assets, plus the complete list of DLES from dles.gg.
 
 ## Words
 
