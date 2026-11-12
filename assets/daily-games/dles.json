@@ -1,5 +1,95 @@
 [
   {
+    "name": "Nounogram",
+    "description": "Shade the solid squares of the grid from the number clues on its edges, which give the runs of solid squares in each row and column. Then fill the remaining runs with the listed words, across and down, so crossing words share a letter. Each half narrows the other, since a clue rules out where a word can go and a placed word shows which squares around it are solid. 3 puzzles a day at 5x5, 8x8 and 12x12, each with its own twist, such as a scrambled word list or hidden edge clues.",
+    "url": "https://nounogram.com",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Wordio",
+    "description": "Play the same 14 letter tiles as everyone else, dealt in the same order, on one endless word board that all players build on together. You hold 7 at a time, and each tile you play is replaced by the next until all 14 are out, with no swaps and 1 run per day. Every word must connect to words already on the board, across or down. Letters are worth 1 to 12 points, bonus squares multiply a letter or a word by 2 to 5, and your total is ranked against everyone else's for the day.",
+    "url": "https://www.wordiogame.com/play",
+    "category": "Words"
+  },
+  {
+    "name": "Parafraze Daily",
+    "description": "A voice describes a hidden word or phrase without saying it, and you type your guess while the clue plays. Each of the 5 cards scores 100 points if you answer within 2 seconds after the main clue, then drops toward 50 as the timer runs, and a miss scores 0. A close spelling earns half credit until you correct it. Captions can stand in for the sound, and a relaxed mode turns the timer off.",
+    "url": "https://parafraze.gg/daily",
+    "category": "Words"
+  },
+  {
+    "name": "Wordcrawl",
+    "description": "Chain words across a letter grid from the top-left tile to the bottom-right one. Each word starts on the last letter of the word before, links neighboring tiles in any direction, diagonals included, and needs at least 4 letters. Heading straight for the exit solves it, but the aim is to use as many tiles as you can, since every grid can be covered in full.",
+    "url": "https://puzzlebun.co/wordcrawl",
+    "category": "Words"
+  },
+  {
+    "name": "Suspectle",
+    "description": "Place every suspect on a floor plan divided into rooms, one person per row and one per column, using clues about where each one stood, such as in a room, in a type of chair or beside an object. Squares with blocking furniture stay empty. The victim takes the last legal square, and whoever shares the victim's room is the murderer. Every case solves by logic alone, and pencil marks hold the squares still in doubt. 3 more daily case games sit alongside it, from sorting 16 pieces of evidence by who they implicate to rebuilding evidence from row and column counts.",
+    "url": "https://suspectle.com",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Dawn of Time",
+    "description": "Name a hidden historical figure from up to 5 clues revealed one at a time: their birth year, their birthplace pinned on an unlabeled world map, their death place added to the same map, their main role, and finally their portrait. You get 1 guess per clue, a wrong guess unlocks the next clue, and solving with fewer clues scores higher.",
+    "url": "https://dawnofti.me",
+    "category": "History"
+  },
+  {
+    "name": "Yesternerd",
+    "description": "4 history puzzles in one set. In 2 of them a famous face, or a famous artifact, building or artwork, hides under 9 paper scraps with 1 already torn open. Tear away only scraps touching an open one and name what is underneath, since every tear, clue or wrong guess lowers what the round is worth. In the third, name a historical figure from where and when they were born and died. In the fourth, sort 16 history clues into 4 hidden groups of 4, where 4 wrong groups end the game.",
+    "url": "https://yesternerd.app",
+    "category": "History"
+  },
+  {
+    "name": "ToEarth",
+    "description": "Answer 7 prompts, such as a sport where you score by getting a ball into a hole, hoop, basket or pocket, with 30 seconds and 3 tries each. Every accepted answer sits in 1 of 6 rarity tiers, so an obvious pick scores 10 points and the rarest scores 100, for up to 700 in all. A wrong answer costs a try, and a skip or timeout scores 0. Each answer that scores moves your rocket one planet along the route from Pluto to Earth, and it lands only if all 7 score.",
+    "url": "https://toearth.io",
+    "category": "Trivia"
+  },
+  {
+    "name": "LoL Connections",
+    "description": "Sort 16 League of Legends champions into 4 groups of 4 that share something, such as a region, an ability or a quirk of their kit. Guesses are unlimited and 2 hints light up champions that belong together, while Hard Mode allows only 3 mistakes. 2 more puzzles sit alongside. In Mystery Item, guess any item to reveal the hidden item's stats: a stat both share turns green when the number matches, yellow with an arrow when the hidden item has more or less of it, and red when it has none. In Matching Abilities, 4 ability tooltips appear with every name hidden, and you pick the champion and the key (P, Q, W, E or R) for each. Green means the right champion, yellow means it belongs to another of the 4 abilities, and red means none of them.",
+    "url": "https://leaguenames.net/daily/connections",
+    "category": "Video Games"
+  },
+  {
+    "name": "Extraplot",
+    "description": "5 real charts on topics such as car fuel economy, baby names and search fads, each cut off at a dashed line partway through. Drag across the shaded side to draw where you think the line went up to the final year, then the real line inks in over yours. The smaller the gap between your line and the real one, the more points you score.",
+    "url": "https://guessdash.com/extraplot",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "High Tile",
+    "description": "Grow 1 tile as high as you can on a board of numbered tiles. Drag a tile into a neighbor next to it to merge the 2. Yellow tiles are positive and add together, red tiles are negative and subtract, and teal tiles are multipliers that multiply whatever they merge with. After each merge, tiles drop into the gap and empty columns close up. Each board comes with a target score to beat.",
+    "url": "https://puzzit.com/games/high-tile",
+    "category": "Numbers and Logic"
+  },
+  {
+    "name": "Pokennection",
+    "description": "Find 4 hidden groups of 4 among 16 Pokémon. Select 4 that share something, such as a type, an evolution method, a region, an egg group or a body shape, and submit them. Each wrong group costs 1 of your 4 lives, and solving all 4 groups wins. Harder difficulties and a 5x5 board with 5 groups of 5 are also available.",
+    "url": "https://www.pokennection.com",
+    "category": "Video Games"
+  },
+  {
+    "name": "One Piece Episode Guesser",
+    "description": "Name the One Piece anime episode a still frame comes from. Each of the 5 rounds shows a new frame and takes 1 guess, picked on a scrolling timeline of over 1,150 episodes or by searching a number, title or arc. The closer the guessed episode number is to the real one, the more points the round scores.",
+    "url": "https://www.onepieceguesser.com",
+    "category": "Movies and Series"
+  },
+  {
+    "name": "Spawnle",
+    "description": "Name the mystery video game in 10 guesses by searching for any title. Each guess is compared with the answer on 11 clues: release year, IGDB rating, platforms, developer, publisher, genres, themes, franchise, perspective, game mode and engine. Pink means an exact match, yellow a close or partly shared value, with each shared platform, genre or theme highlighted, and gray no match. Arrows on the year and rating show whether the answer is higher or lower. Hints unlock after guesses 5 and 8.",
+    "url": "https://www.spawnle.online",
+    "category": "Video Games"
+  },
+  {
+    "name": "Warmer Warmer",
+    "description": "Find the secret word by typing any word you like. Each guess gets a temperature, from freezing to scorching, based on how close it is in meaning to the answer, so follow your warmest words until you land on it. Guesses are unlimited. Playable in 39 languages, each with its own secret words.",
+    "url": "https://warmerwarmer.com",
+    "category": "Words"
+  },
+  {
     "name": "Daily Putt",
     "description": "Play 3 holes of mini golf, dragging back from the ball and releasing to putt, with a longer pull for more power. Bank shots off barriers and read the hazards: sand slows the ball, trees and water cost 1 stroke and drop you back at your last shot, and arrows push the moving ball downhill. 1 hole has a moving golf cart or windmill to time your shot around. Your combined strokes are your score.",
     "url": "https://dailyputt.dailydosage.dev",
@@ -2722,12 +2812,6 @@
     "description": "Swap letters around a waffle-shaped 5x5 grid until all 6 intersecting words read correctly. Green means a letter is already home, amber means it belongs to that word but sits in the wrong square, and grey means it belongs somewhere else entirely. You get 15 swaps, and finishing inside 10 earns a perfect score. Spellings follow UK English.",
     "url": "https://deluxewaffle.com/",
     "category": "Words"
-  },
-  {
-    "name": "AI Faces Challenge",
-    "description": "A single portrait is generated by blending 2 celebrity faces together. Name both of them, in either order, within 5 attempts. An archive holds the earlier faces.",
-    "url": "https://www.guessface.online/",
-    "category": "Movies and Series"
   },
   {
     "name": "Pangramathon",
