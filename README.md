@@ -1,6 +1,6 @@
 # assets.DLES.gg
 
-Collection of free assets for daily game makers: words, sounds and images.
+Collection of free assets for daily game makers: [words](#words), [phrases](#phrases), [images](#images), [sounds](#sounds) and [3D assets](#3d-assets).
 
 I collect daily games at [dles.gg](https://dles.gg) and I see a lot of games created every single week. At the time of writing, there's 1141 active games in the collection. That's incredible and I want to support the movement a bit.
 
@@ -8,7 +8,7 @@ When I made my first game [Rotaboxes](https://rotaboxes.com) I had no idea where
 
 The goal of this repo is to create a collection of free assets for daily games, maintain and conserve them for future use.
 
-So far this collection covers 5 main categories: Words, Phrases, Images, Sounds and 3D Assets, plus the complete list of DLES from dles.gg.
+So far this collection covers 5 main categories: [Words](#words), [Phrases](#phrases), [Images](#images), [Sounds](#sounds) and [3D Assets](#3d-assets), plus the complete list of [DLES](#dles) from dles.gg.
 
 ## Words
 

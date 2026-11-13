@@ -121,16 +121,28 @@
         font-weight: 600;
       }
 
+      /* Explore (GitHub) and Download are square icon buttons */
+      .btn-explore,
       .btn-download {
-        display: inline-block;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 2.25rem;
+        height: 2.25rem;
+        flex-shrink: 0;
+      }
+
+      .btn-explore svg,
+      .btn-download svg {
+        width: 1.15rem;
+        height: 1.15rem;
+      }
+
+      .btn-download {
         background: #d900ff;
         color: #fff;
-        font-weight: 600;
-        font-size: 0.8rem;
         text-decoration: none;
-        padding: 0.4em 1em;
         border-radius: 8px;
-        white-space: nowrap;
         transition:
           background 0.2s ease,
           transform 0.2s ease;
@@ -143,16 +155,11 @@
       }
 
       .btn-explore {
-        display: inline-block;
         background: transparent;
         color: #d900ff;
         border: 2px solid #d900ff;
-        font-weight: 600;
-        font-size: 0.8rem;
         text-decoration: none;
-        padding: calc(0.4em - 2px) calc(1em - 2px);
         border-radius: 8px;
-        white-space: nowrap;
         transition:
           background 0.2s ease,
           color 0.2s ease,
@@ -184,6 +191,30 @@
         font-weight: 600;
         margin: 1.5rem 0 0.75rem;
         color: #1a1a1a;
+      }
+
+      /* Section headings link to their own #hash (e.g. #words) */
+      .heading-link {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      .heading-link:hover {
+        text-decoration: underline;
+      }
+
+      .heading-link::after {
+        content: "#";
+        display: inline-block; /* keeps the hover underline off the "#" */
+        margin-left: 0.4em;
+        opacity: 0;
+        color: #d900ff;
+        transition: opacity 0.2s ease;
+      }
+
+      .heading-link:hover::after,
+      .heading-link:focus-visible::after {
+        opacity: 0.6;
       }
 
       .resources {
@@ -314,10 +345,17 @@
 
       <footer>
         Made with ❤️ for <a href="https://dles.gg">daily games</a> by
-        <a href="https://buymeacoffee.com/trizoza">trizoza</a>
+        <a href="https://buymeacoffee.com/trizo">trizoza</a>
       </footer>
     </div>
     <script>
+      // Icons for the asset action buttons (inherit the button's text colour)
+      // GitHub mark from Octicons (MIT): https://github.com/primer/octicons
+      const ICON_GITHUB =
+        '<svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" focusable="false"><path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"/></svg>';
+      const ICON_DOWNLOAD =
+        '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 3v12M6.5 10 12 15.5 17.5 10M4.5 20.5h15"/></svg>';
+
       async function loadReadme() {
         try {
           const response = await fetch("README.md");
@@ -354,7 +392,12 @@
             // If it is the first paragraph after H1, update the subtitle
             else if (tagName === "p" && !hasSetSubtitle) {
               const siteSubtitle = header.querySelector("p");
-              if (siteSubtitle) siteSubtitle.innerHTML = child.innerHTML;
+              if (siteSubtitle) {
+                siteSubtitle.innerHTML = child.innerHTML;
+                siteSubtitle.querySelectorAll("a").forEach((a) => {
+                  a.classList.add("highlight");
+                });
+              }
               hasSetSubtitle = true;
               currentIntroDiv = null;
             }
@@ -378,13 +421,24 @@
               currentSection = child.textContent.trim();
 
               const heading = document.createElement(tagName);
-              heading.innerHTML = child.innerHTML;
               // Slug from the heading text so it can be linked via #hash
               // (e.g. assets.dles.gg/#words scrolls to the Words section)
               heading.id = currentSection
                 .toLowerCase()
                 .replace(/[^a-z0-9]+/g, "-")
                 .replace(/^-+|-+$/g, "");
+              // Make the heading itself a link to its own #hash, so clicking
+              // it scrolls there and leaves a shareable URL in the address bar.
+              // Skip headings that already contain a link (no nested <a>).
+              if (heading.id && !child.querySelector("a")) {
+                const selfLink = document.createElement("a");
+                selfLink.className = "heading-link";
+                selfLink.href = `#${heading.id}`;
+                selfLink.innerHTML = child.innerHTML;
+                heading.appendChild(selfLink);
+              } else {
+                heading.innerHTML = child.innerHTML;
+              }
               newNodes.push(heading);
             }
             // Lists (UL)
@@ -439,14 +493,18 @@
                   const exploreBtn = document.createElement("a");
                   exploreBtn.href = `https://github.com/trizoza/assets.dles.gg/blob/main/${relativePath}`;
                   exploreBtn.className = "btn-explore";
-                  exploreBtn.textContent = "Explore";
+                  exploreBtn.innerHTML = ICON_GITHUB;
+                  exploreBtn.setAttribute("aria-label", "View on GitHub");
+                  exploreBtn.title = "View on GitHub";
                   actionsDiv.appendChild(exploreBtn);
 
                   // Download button -> downloads the raw asset file
                   const downloadBtn = document.createElement("a");
                   downloadBtn.href = rawHref;
                   downloadBtn.className = "btn-download";
-                  downloadBtn.textContent = "Download";
+                  downloadBtn.innerHTML = ICON_DOWNLOAD;
+                  downloadBtn.setAttribute("aria-label", "Download");
+                  downloadBtn.title = "Download";
                   actionsDiv.appendChild(downloadBtn);
 
                   newLi.appendChild(actionsDiv);
