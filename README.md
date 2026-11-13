@@ -112,10 +112,11 @@ I decided to open source the entire collection of DLES I collect at [dles.gg](ht
 
 ## Contribute
 
-This is an open source project and contributions are welcome. If you know of a word list, dictionary, or useful asset that should be here, you can help in two ways:
+This is an open source project and contributions are welcome. If you know of a word list, dictionary, or useful asset that should be here, you can help in various ways:
 
 - [Open an issue](https://github.com/trizoza/assets.dles.gg/issues/new) - Suggest a new resource, report a bug or a broken link. No coding required — just describe what you'd like to see added.
 - [Submit a pull request](https://github.com/trizoza/assets.dles.gg/pulls) - Fork the repo, add your resource to the `assets/` directory, update this `README.md` with the new resource, and open a PR. We'll review and merge it.
+- [Buy me a coffee](https://buymeacoffee.com/trizo) - You know how much caffeine one needs to keep an open-source repo up-to-date. Thanks 🙏
 
 ## License
 
