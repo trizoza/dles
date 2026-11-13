@@ -2,7 +2,7 @@
 
 Collection of free assets for daily game makers: words, sounds and images.
 
-I collect daily games at [dles.gg](https://dles.gg) and I see a lot of games created every single week. At the time of writing, there's 852 active games in the collection. That's incredible and I want to support the movement a bit.
+I collect daily games at [dles.gg](https://dles.gg) and I see a lot of games created every single week. At the time of writing, there's 1141 active games in the collection. That's incredible and I want to support the movement a bit.
 
 When I made my first game [Rotaboxes](https://rotaboxes.com) I had no idea where to start and how to do it. I had a rough idea of a gameplay, I knew HTML, CSS and Javascript but I needed a picture. I just googled "free images" and stumbled on [Unsplash](https://unsplash.com). I ended up downloading one cute picture of a dog and with that I developed my game. Without a service like Unsplash, my game wouldn't exist.
 
@@ -108,7 +108,7 @@ Song lyrics are a different story: even a single chorus is protected by copyrigh
 
 I decided to open source the entire collection of DLES I collect at [dles.gg](https://dles.gg). I will be updating this list at the end of each week. If you're in search for the latest games, please head to [dles.gg/games/newest](https://dles.gg/games/newest) instead, otherwise use this mirror if you need to download the entire games list at once.
 
-- [DLES](assets/daily-games/dles.json) - 1138 daily games listed on [dles.gg](https://dles.gg) with names, URLs and descriptions, sorted by a date added to the collection
+- [DLES](assets/daily-games/dles.json) - 1141 daily games listed on [dles.gg](https://dles.gg) with names, URLs and descriptions, sorted by a date added to the collection
 
 ## Contribute
 

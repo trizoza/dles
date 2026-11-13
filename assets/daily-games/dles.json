@@ -1,5 +1,23 @@
 [
   {
+    "name": "Gazillion",
+    "description": "5 moments from history, anywhere from the Big Bang to last year, with 40 seconds each. Tap the timeline where you think a moment happened, then drag the 2 handles, or type the years, to trap it inside a range. The tighter the range around the right year, the more points, up to 1,000, and a near miss still earns half of what a wider range would have scored. Your points push a dinosaur back along the timeline toward the Big Bang.",
+    "url": "https://gazillion.world",
+    "category": "History"
+  },
+  {
+    "name": "Facet",
+    "description": "Fill a 5x5 grid so every row and column spells a word. The grid mirrors itself along its diagonal, so the word in row 1 is also the word in column 1, and so on, and every letter placed off the diagonal fills 2 squares. A few letters are given to start, 10 in easy mode, and there are no clues. A finished row or column gets a tick when its word is right and a cross when it is not, and 3 hints each reveal a correct letter.",
+    "url": "https://www.playfacet.com",
+    "category": "Words"
+  },
+  {
+    "name": "The Alphabet Game",
+    "description": "Drive a set route through real street-level photos and find the letters A to Z, in order, on signs, storefronts and billboards. Pan and zoom to search, circle a letter to have it checked, and drive ahead 10 to 100 metres at a time when it is not in view. Each letter starts at 100 to 600 points and loses value the further you drive before finding it, down to 25%. A skipped letter scores 0, and the run ends with the route.",
+    "url": "https://the-alphabet-game.com",
+    "category": "Visual"
+  },
+  {
     "name": "Nounogram",
     "description": "Shade the solid squares of the grid from the number clues on its edges, which give the runs of solid squares in each row and column. Then fill the remaining runs with the listed words, across and down, so crossing words share a letter. Each half narrows the other, since a clue rules out where a word can go and a placed word shows which squares around it are solid. 3 puzzles a day at 5x5, 8x8 and 12x12, each with its own twist, such as a scrambled word list or hidden edge clues.",
     "url": "https://nounogram.com",
